@@ -1,6 +1,6 @@
 # Contributors
 
-.Name: Yugansh Tyagi
- Place: Delhi, India
- Bio: Application Developer
- GitHub: [YuganshT79](https://github.com/YuganshT79)
+#### Name: [Yugansh Tyagi](https://github.com/YuganshT79)
+- Place: New Delhi, India
+- Bio: Developer 
+- GitHub: [YuganshT79](https://github.com/YuganshT79)
