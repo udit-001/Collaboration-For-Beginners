@@ -33,4 +33,9 @@
 #### Name: [Giovanni Nuño](https://github.com/gionuno)  
 - Place: Guanajuato, Mexico  
 - Bio: Some guy on the internet...  
-- GitHub: [gionuno](https://github.com/gionuno)  
+- GitHub: [gionuno](https://github.com/gionuno) 
+
+#### Name: [Ketul Patani](https://github.com/ke2ulpatani)  
+- Place: Mumbai, India  
+- Bio: Devops
+- GitHub: [ke2ulpatani](https://github.com/ke2ulpatani)
