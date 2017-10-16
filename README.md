@@ -7,8 +7,10 @@ Here are the steps to contribute by making your first successful pull requests:
 1. Star this repository
 2. Fork this repository.
 ![Fork & Star the Repository](https://raw.githubusercontent.com/udit-001/Collaboration-For-Beginners/master/img/fork.jpg)
+
 3. Clone the fork you just created on your computer.
 ![Clone this repository](https://raw.githubusercontent.com/udit-001/Collaboration-For-Beginners/master/img/clone.jpg)
+
 4. Open `Contributors.md` and enter the details in the following format. (Don't forget to add two spaces at the end of each line.)
 
 >Name: "Your Name"  
