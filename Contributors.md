@@ -44,3 +44,9 @@
 - Place: San Diego, United States
 - Bio: Full Stack Developer
 - GitHub: [tallboy](https://github.com/tallboy)
+
+#### Name: [Hunter Mcnulty](https://github.com/heckerman100)
+- Place: United States
+- Bio: Just an average programmer
+- Github: [heckerman100](https://github.com/heckerman100)
+
