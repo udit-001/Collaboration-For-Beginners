@@ -1,9 +1,14 @@
 # Contributors
 
-#### Name: [Yugansh Tyagi](https://github.com/YuganshT79)  
-- Place: New Delhi, India  
-- Bio: Developer  
-- GitHub: [YuganshT79](https://github.com/YuganshT79)  
+- Name: Yugansh Tyagi  
+Place: India  
+Bio: Application Developer  
+GitHub: [YuganshT79](https://github.com/YuganshT79)
+
+#### Name: [Mounika Smitha](https://github.com/kallepallimounikasmitha)
+- Place: India
+- Bio: Student at Amrita University, Web enthusiast.
+- Github: [kallepallimounikasmitha](https://github.com/kallepallimounikasmitha)
 
 #### Name: [Chad Hollman](https://github.com/gh0st)  
 - Place: Sacramento, USA
@@ -15,7 +20,12 @@
 - Bio: Art is in my code. Full-Stack PHP Web Developer with a love for caffeine.
 - GitHub: [davidfinkdev](https://github.com/davidfinkdev)
 
-#### Name: [Eva Molnar](GitHub Link)  
+#### Name: [Eva Molnar](https://github.com/milli05)  
 - Place: Komló, Hungary  
 - Bio: Junior PHP developer  
 - GitHub: [milli05](https://github.com/milli05)   
+
+#### Name: [Kelly](https://github.com/bullywhippet)  
+- Place: Winnipeg, Canada  
+- Bio: Tech student trying to figure Git out on my own  
+- GitHub: [bullywhippet](https://github.com/bullywhippet)  
