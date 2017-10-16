@@ -17,6 +17,11 @@ Here are the steps to contribute by making your first successful pull requests:
 
 ![Clone this repository](https://raw.githubusercontent.com/udit-001/Collaboration-For-Beginners/master/img/clone.jpg)
 
+Type the following command on Git bash console:
+```git
+git clone https://github.com/udit-001/Collaboration-For-Beginners.git
+```
+
 4. Open `Contributors.md` and enter the details in the following format. (Don't forget to add two spaces at the end of each line.)
 
 ```
