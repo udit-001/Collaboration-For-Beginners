@@ -18,10 +18,14 @@ GitHub: [YuganshT79](https://github.com/YuganshT79)
 #### Name: David Fink(https://github.com/davidfinkdev)
 - Place: Cincinnati, United States
 - Bio: Art is in my code. Full-Stack PHP Web Developer with a love for caffeine.
-- GitHub: [davidfinkdev](https://github.com/davidfinkdev)  
+- GitHub: [davidfinkdev](https://github.com/davidfinkdev)
+
+#### Name: [Eva Molnar](https://github.com/milli05)  
+- Place: Komló, Hungary  
+- Bio: Junior PHP developer  
+- GitHub: [milli05](https://github.com/milli05)   
 
 #### Name: [Kelly](https://github.com/bullywhippet)  
 - Place: Winnipeg, Canada  
 - Bio: Tech student trying to figure Git out on my own  
 - GitHub: [bullywhippet](https://github.com/bullywhippet)  
-
