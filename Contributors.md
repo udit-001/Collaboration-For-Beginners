@@ -14,3 +14,8 @@
 - Place: Cincinnati, United States
 - Bio: Art is in my code. Full-Stack PHP Web Developer with a love for caffeine.
 - GitHub: [davidfinkdev](https://github.com/davidfinkdev)
+
+#### Name: [Eva Molnar](GitHub Link)  
+- Place: Komló, Hungary  
+- Bio: Junior PHP developer  
+- GitHub: [milli05](https://github.com/milli05)   
