@@ -19,10 +19,10 @@ Here are the steps to contribute by making your first successful pull requests:
 
 4. Open `Contributors.md` and enter the details in the following format. (Don't forget to add two spaces at the end of each line.)
 
->Name: "Your Name"  
->Place: "Enter place here"  
->Bio: "Enter info about yourself"  
->GitHub: [GitHub Username](github profile url)  
+>- Name: "Your Name"  
+Place: "Enter place here"  
+Bio: "Enter info about yourself"  
+GitHub: [GitHub Username](github profile url)  
 
 5. Enter the following commands into your `git console` 
 ```git
