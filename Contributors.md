@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Udit Mittal](https://github.com/udit-001)
+- Place: Delhi, India
+- Bio: Programmer who loves watching Mr.Robot 🤖
+- GitHub: [udit-001]](https://github.com/udit-001)
+
 #### Name: [Yugansh Tyagi](https://github.com/YuganshT79)
 - Place: India
 - Bio: Application Developer
