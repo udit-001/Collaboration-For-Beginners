@@ -13,4 +13,9 @@
 #### Name: David Fink(https://github.com/davidfinkdev)
 - Place: Cincinnati, United States
 - Bio: Art is in my code. Full-Stack PHP Web Developer with a love for caffeine.
-- GitHub: [davidfinkdev](https://github.com/davidfinkdev)
+- GitHub: [davidfinkdev](https://github.com/davidfinkdev)  
+
+#### Name: [Kelly](https://github.com/bullywhippet)  
+- Place: Winnipeg, Canada  
+- Bio: Tech student trying to figure Git out on my own  
+- GitHub: [bullywhippet](https://github.com/bullywhippet)  
