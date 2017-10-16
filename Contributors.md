@@ -5,7 +5,7 @@ Place: India
 Bio: Application Developer  
 GitHub: [YuganshT79](https://github.com/YuganshT79)
 
--Name: Mounika Smitha(https://github.com/kallepallimounikasmitha)
+-Name: Mounika Smitha
 Place: India
 Bio: Student at Amrita University, Web enthusiast.
 Github:[kallepallimounikasmitha](https://github.com/kallepallimounikasmitha)
