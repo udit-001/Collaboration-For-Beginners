@@ -29,3 +29,8 @@
 - Place: Winnipeg, Canada  
 - Bio: Tech student trying to figure Git out on my own  
 - GitHub: [bullywhippet](https://github.com/bullywhippet)  
+
+#### Name: [Giovanni Nuño](https://github.com/gionuno)  
+- Place: Guanajuato, Mexico  
+- Bio: Some guy on the internet...  
+- GitHub: [gionuno](https://github.com/gionuno)  
