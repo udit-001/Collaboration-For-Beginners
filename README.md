@@ -1,5 +1,9 @@
 # Collaboration Guide for Beginners
 
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+[![HitCount](http://hits.dwyl.io/udit-001/Collaboration-For-Beginners.svg)](http://hits.dwyl.io/udit-001/Collaboration-For-Beginners)
+
+
 Learning to collaborate can be difficult for the first time contributors, and it may seem tedious to find open source projects to contribute to without adequate knowledge of programming. But fear not, this project is made especially to ease the process of contributing to an open source project for a newcomer. You can learn to contribute to open source projects by contributing to this project, and you wouldn't require any programming knowledge at all, to contribute to this.
 
 Here are the steps to contribute by making your first successful pull requests:
@@ -15,10 +19,10 @@ Here are the steps to contribute by making your first successful pull requests:
 
 4. Open `Contributors.md` and enter the details in the following format. (Don't forget to add two spaces at the end of each line.)
 
->Name: "Your Name"  
->Place: "Enter place here"  
->Bio: "Enter info about yourself"  
->GitHub: [GitHub Username](github profile url)  
+>- Name: "Your Name"  
+Place: "Enter place here"  
+Bio: "Enter info about yourself"  
+GitHub: [GitHub Username](github profile url)  
 
 5. Enter the following commands into your `git console` 
 ```git
