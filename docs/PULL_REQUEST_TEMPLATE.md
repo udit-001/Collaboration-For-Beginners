@@ -1,4 +1,4 @@
-his pull request addresses issue no. #issue no
+This pull request addresses issue no. #issue no
 
 I ensure that before opening this pull request I have starred this repository.
 
