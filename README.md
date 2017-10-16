@@ -22,7 +22,7 @@ Type the following command on Git bash console:
 git clone https://github.com/udit-001/Collaboration-For-Beginners.git
 ```
 
-4. Open `Contributors.md` and enter the details in the following format. (Don't forget to add two spaces at the end of each line.)
+4. Open `Contributors.md` and enter the details in the following format.
 
 ```
 #### Name: [YOUR NAME](GitHub Link)
