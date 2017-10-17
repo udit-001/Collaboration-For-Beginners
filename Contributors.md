@@ -55,8 +55,14 @@
 - Bio: Just an average programmer
 - Github: [heckerman100](https://github.com/heckerman100)
 
+#### Name: [Alex Choi](https://github.com/running-cool)
+- Place: Athens, United States
+- Bio: College Student
+- GitHub: [running-cool](https://github.com/running-cool)
+
 #### Name: [Eddy Moreno](https://github.com/Fr0stitute)
 - Place: Managua, Nicaragua
 - Bio: Student
 - Github: [Fr0stitute](https://github.com/Fr0stitute)
+
 
