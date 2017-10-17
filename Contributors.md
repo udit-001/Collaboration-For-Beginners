@@ -55,3 +55,8 @@
 - Bio: Just an average programmer
 - Github: [heckerman100](https://github.com/heckerman100)
 
+#### Name: [Eddy Moreno](https://github.com/Fr0stitute)
+- Place: Managua, Nicaragua
+- Bio: Student
+- Github: [Fr0stitute](https://github.com/Fr0stitute)
+
