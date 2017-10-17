@@ -65,4 +65,8 @@
 - Bio: Student
 - Github: [Fr0stitute](https://github.com/Fr0stitute)
 
+#### Name: [Siddharth Tankariya](https://github.com/siddharthtankariya)
+- Place: Mumbai, India
+- Bio: Developer
+- Github: [siddharthtankariya](https://github.com/siddharthtankariya)
 
