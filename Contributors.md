@@ -50,6 +50,11 @@
 - Bio: Full Stack Developer
 - GitHub: [tallboy](https://github.com/tallboy)
 
+#### Name: [Agam Dwivedi](https://github.com/agam98)
+- Place: Kanpur, India
+- Bio: Undergrad At IIITA
+- Github: [Agam](https://github.com/agam98)
+
 #### Name: [Hunter Mcnulty](https://github.com/heckerman100)
 - Place: United States
 - Bio: Just an average programmer
