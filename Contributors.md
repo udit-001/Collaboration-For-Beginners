@@ -59,3 +59,10 @@
 - Place: Athens, United States
 - Bio: College Student
 - GitHub: [running-cool](https://github.com/running-cool)
+
+#### Name: [Eddy Moreno](https://github.com/Fr0stitute)
+- Place: Managua, Nicaragua
+- Bio: Student
+- Github: [Fr0stitute](https://github.com/Fr0stitute)
+
+
