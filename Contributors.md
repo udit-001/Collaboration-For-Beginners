@@ -75,3 +75,7 @@
 - Bio: Developer
 - Github: [siddharthtankariya](https://github.com/siddharthtankariya)
 
+#### Name: [David Cabezas](https://github.com/dcabezas98)
+- Place: Granada, Spain
+- Bio: Computer Science and Maths student
+- GitHub: [dcabezas98](https://github.com/dcabezas98)
