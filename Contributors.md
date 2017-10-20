@@ -79,3 +79,8 @@
 - Place: Granada, Spain
 - Bio: Computer Science and Maths student
 - GitHub: [dcabezas98](https://github.com/dcabezas98)
+
+#### Name: [Ahmet S Oguz](https://github.com/asotronot)
+- Place: Salt Lake City, United States
+- Bio: Software Developer
+- GitHub: [asotronot](https://github.com/asotronot)
