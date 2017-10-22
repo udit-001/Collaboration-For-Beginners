@@ -84,3 +84,8 @@
 - Place: Salt Lake City, United States
 - Bio: Software Developer
 - GitHub: [asotronot](https://github.com/asotronot)
+
+#### Name: [gabmars](https://github.com/gabmars)
+- Place: Russia
+- Bio: Student of Urfu
+- GitHub: [gabmars](https://github.com/gabmars)
