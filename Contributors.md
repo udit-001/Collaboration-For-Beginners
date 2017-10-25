@@ -89,3 +89,8 @@
 - Place: Russia
 - Bio: Student of Urfu
 - GitHub: [gabmars](https://github.com/gabmars)
+
+####: [Ricardo](https://github.com/granttrec)
+- Place: Toronto, Canada
+- Bio: Student
+- Github: [granttrec](https://github.com/granttrec)
