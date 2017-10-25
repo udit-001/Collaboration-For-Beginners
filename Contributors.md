@@ -93,4 +93,10 @@
 ####: [Ricardo](https://github.com/granttrec)
 - Place: Toronto, Canada
 - Bio: Student
-- Github: [granttrec](https://github.com/granttrec)
+- Github: [granttrec](https://github.com/granttrec)  
+
+####: [mind-as-well](https://github.com/mind-as-well)  
+- Place: Boston, MA  
+- Bio: Network Security Engineer  
+- GitHub: [mind-as-well](https://github.com/mind-as-well)  
+
