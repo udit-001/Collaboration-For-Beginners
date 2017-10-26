@@ -100,3 +100,7 @@
 - Bio: Network Security Engineer  
 - GitHub: [mind-as-well](https://github.com/mind-as-well)  
 
+####: [George Kampolis](https://github.com/gkampolis)  
+- Place: Athens, Greece & Aberdeen, UK  
+- Bio: MSc Student  
+- GitHub: [gkampolis](https://github.com/gkampolis)  
