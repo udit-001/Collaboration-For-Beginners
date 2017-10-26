@@ -90,17 +90,17 @@
 - Bio: Student of Urfu
 - GitHub: [gabmars](https://github.com/gabmars)
 
-####: [Ricardo](https://github.com/granttrec)
+#### Name: [Ricardo](https://github.com/granttrec)
 - Place: Toronto, Canada
 - Bio: Student
 - Github: [granttrec](https://github.com/granttrec)  
 
-####: [mind-as-well](https://github.com/mind-as-well)  
-- Place: Boston, MA  
+#### Name: [mind-as-well](https://github.com/mind-as-well)
+- Place: Boston, MA  
 - Bio: Network Security Engineer  
 - GitHub: [mind-as-well](https://github.com/mind-as-well)  
 
-####: [George Kampolis](https://github.com/gkampolis)  
-- Place: Athens, Greece & Aberdeen, UK  
+#### Name: [George Kampolis](https://github.com/gkampolis)   
+- Place: Athens, Greece & Aberdeen, UK  
 - Bio: MSc Student  
 - GitHub: [gkampolis](https://github.com/gkampolis)  
