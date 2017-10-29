@@ -104,3 +104,8 @@
 - Place: Athens, Greece & Aberdeen, UK  
 - Bio: MSc Student  
 - GitHub: [gkampolis](https://github.com/gkampolis)  
+
+#### Name: [Ariel Burriss](https://github.com/ariburr)
+- Place: Salt Lake City, UT, US
+- Bio: Student
+- GitHub: [ariburr](https://github.com/ariburr) 
