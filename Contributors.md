@@ -109,3 +109,8 @@
 - Place: Salt Lake City, UT, US
 - Bio: Student
 - GitHub: [ariburr](https://github.com/ariburr) 
+
+#### Name: [Richard Vaughan](https://github.com/rvaughan)
+- Place: Cardiff, UK
+- Bio: Just some guy, you know.
+- GitHub: [rvaughan](https://github.com/rvaughan)
