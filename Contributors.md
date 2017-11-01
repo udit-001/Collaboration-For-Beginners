@@ -114,3 +114,8 @@
 - Place: Cardiff, UK
 - Bio: Just some guy, you know.
 - GitHub: [rvaughan](https://github.com/rvaughan)
+
+#### Name: [Jacob](https://github.com/jacobv126)
+- Place: CA, USA
+- Bio: Tinkerer
+- GitHub: [jacobv126](https://github.com/jacobv126)
