@@ -119,3 +119,8 @@
 - Place: CA, USA
 - Bio: Tinkerer
 - GitHub: [jacobv126](https://github.com/jacobv126)
+
+#### Name: [Rene Diaz](https://github.com/ReneAlexandeR)
+- Place: Stockholm, Sweden
+- Bio: Mechatronics engineer with a great interest in learning everything around Embedded Systems
+- GitHub: [ReneAlexandeR](https://github.com/ReneAlexandeR)
