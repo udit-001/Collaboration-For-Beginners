@@ -10,6 +10,11 @@
 - Bio: Application Developer
 - GitHub: [YuganshT79](https://github.com/YuganshT79)
 
+#### Name: [Suraj Sharma](https://github.com/Iamsurajsharma)
+- Place: New Delhi, India
+- Bio: Developer who never miss semicolon.
+- GitHub: [Iamsurajsharma](https://github.com/Iamsurajsharma)
+
 #### Name: [Mounika Smitha](https://github.com/kallepallimounikasmitha)
 - Place: India
 - Bio: Student at Amrita University, Web enthusiast.
