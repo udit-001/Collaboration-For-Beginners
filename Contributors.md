@@ -129,3 +129,8 @@
 - Place: Stockholm, Sweden
 - Bio: Mechatronics engineer with a great interest in learning everything around Embedded Systems
 - GitHub: [ReneAlexandeR](https://github.com/ReneAlexandeR)
+
+#### Name: [Shubham Belwal](https://github.com/ShubhamBelwal)
+- Place: Pune, India
+- Bio: Python Enthusiast 
+- GitHub: [ShubhamBelwal](https://github.com/ShubhamBelwal)
