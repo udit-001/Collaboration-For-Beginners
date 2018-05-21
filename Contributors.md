@@ -134,3 +134,8 @@
 - Place: Pune, India
 - Bio: Python Enthusiast 
 - GitHub: [ShubhamBelwal](https://github.com/ShubhamBelwal)
+
+#### Name: [Abdullrahman Alzeidi](https://github.com/AbdullrahmanAlzeidi)
+- Place: Dhank, Oman
+- Bio: self-taught programmer 
+- GitHub: [AbdullrahmanAlzeidi](https://github.com/AbdullrahmanAlzeidi)
