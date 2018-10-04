@@ -5,6 +5,11 @@
 - Bio: Programmer who loves watching Mr.Robot 🤖
 - GitHub: [udit-001](https://github.com/udit-001)
 
+### Name: [Vanya Grover](https://github.com/VanyaGrover)
+- Place: Delhi, India
+- Bio: Budding Web Developer.
+- GitHub: [VanyaGrover](https://github.com/VanyaGrover)
+
 #### Name: [Yugansh Tyagi](https://github.com/YuganshT79)
 - Place: India
 - Bio: Application Developer
@@ -105,7 +110,7 @@
 - Bio: Network Security Engineer  
 - GitHub: [mind-as-well](https://github.com/mind-as-well)  
 
-#### Name: [George Kampolis](https://github.com/gkampolis)   
+#### Name: [George Kampolis](https://github.com/gkampolis)  
 - Place: Athens, Greece & Aberdeen, UK  
 - Bio: MSc Student  
 - GitHub: [gkampolis](https://github.com/gkampolis)  
@@ -113,7 +118,7 @@
 #### Name: [Ariel Burriss](https://github.com/ariburr)
 - Place: Salt Lake City, UT, US
 - Bio: Student
-- GitHub: [ariburr](https://github.com/ariburr) 
+- GitHub: [ariburr](https://github.com/ariburr)
 
 #### Name: [Richard Vaughan](https://github.com/rvaughan)
 - Place: Cardiff, UK
@@ -132,5 +137,5 @@
 
 #### Name: [Shubham Belwal](https://github.com/ShubhamBelwal)
 - Place: Pune, India
-- Bio: Python Enthusiast 
+- Bio: Python Enthusiast
 - GitHub: [ShubhamBelwal](https://github.com/ShubhamBelwal)
