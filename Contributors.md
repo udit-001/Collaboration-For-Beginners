@@ -140,6 +140,11 @@
 - Bio: Python Enthusiast 
 - GitHub: [ShubhamBelwal](https://github.com/ShubhamBelwal)
 
+#### Name: [Tanseer Saji](https://github.com/tanseersaji)
+- Place: Delhi, India
+- Bio: A N00B 
+- GitHub: [tanseersaji](https://github.com/tanseersaji)
+
 #### Name: [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - Place: Ghaziabad, India
 - Bio: Budding Front-End Developer 
