@@ -149,3 +149,8 @@
 - Place: Ghaziabad, India
 - Bio: Budding Front-End Developer 
 - GitHub: [Shubhankar Banerjee](https://github.com/shubhankarb180)
+
+#### Name: [Rod Gudge](https://github.com/RodGudge)
+- Place: Portsmouth, England
+- Bio: Up and coming web dev
+- GitHub: [Rod Gudge](https://github.com/RodGudge)
