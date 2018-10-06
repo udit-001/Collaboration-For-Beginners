@@ -14,6 +14,7 @@
 - Place: New Delhi, India
 - Bio: Developer who never miss semicolon.
 - GitHub: [Iamsurajsharma](https://github.com/Iamsurajsharma)
+- Website: http://codeparadox.in
 
 #### Name: [Mounika Smitha](https://github.com/kallepallimounikasmitha)
 - Place: India
