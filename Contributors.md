@@ -159,3 +159,8 @@
 - Place: Internet, Dubai
 - Bio: I wonder who I am aswell.
 - GitHub: [Jay](https://github.com/animecatgirl) 
+
+#### Name: [Oliver Schneider](https://github.com/2mt-schneider)
+- Place: Internet, Earth
+- Bio: Developer Coach
+- GitHub: [2mt-schneider](https://github.com/2mt-schneider)
