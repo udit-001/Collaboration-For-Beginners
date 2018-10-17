@@ -163,4 +163,4 @@
 #### Name: [Laverena W.](https://github.com/lennevia)
 - Place: Akron, Ohio, USA
 - Bio: Go Zips!
-- GitHub: [Laverena W.](https://github.com/lennevia) 
+- GitHub: [Lennevia](https://github.com/lennevia) 
