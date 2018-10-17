@@ -159,3 +159,8 @@
 - Place: Internet, Dubai
 - Bio: I wonder who I am aswell.
 - GitHub: [Jay](https://github.com/animecatgirl) 
+
+#### Name: [Laverena W.](https://github.com/lennevia)
+- Place: Akron, Ohio, USA
+- Bio: Go Zips!
+- GitHub: [Laverena W.](https://github.com/lennevia) 
