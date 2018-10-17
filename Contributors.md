@@ -161,7 +161,7 @@
 - GitHub: [Jay](https://github.com/animecatgirl) 
 
 #### Name: [mattertater](https://github.com/mattertater)
-- Place: Ohio, United States
+- Place: Stow, United States
 - Bio: Go HAkron!!! hacktoberfest is gr8
 - GitHub [mattertater](https://github.com/mattertater)
 
