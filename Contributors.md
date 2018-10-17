@@ -159,3 +159,8 @@
 - Place: Internet, Dubai
 - Bio: I wonder who I am aswell.
 - GitHub: [Jay](https://github.com/animecatgirl) 
+
+#### Name: [Cameron Sinko](https://github.com/csinko)
+- Place: Akron, USA
+- Bio: I am part of HAkron at the University of Akron
+- GitHub: [csinko](https://github.com/csinko) 
