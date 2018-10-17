@@ -159,3 +159,8 @@
 - Place: Internet, Dubai
 - Bio: I wonder who I am aswell.
 - GitHub: [Jay](https://github.com/animecatgirl) 
+
+#### Name: [Elissa Peters](https://github.com/ep33)
+- Place: Akron, Ohio
+- Bio: Electrical Engineering Student at The University of Akron, Hardware Engineer Co-op at ABB, Inc.
+- GitHub: [ep33](https://github.com/ep33)
