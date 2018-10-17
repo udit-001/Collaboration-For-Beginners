@@ -164,3 +164,9 @@
 - Place: Ohio, United States
 - Bio: Go HAkron!!! hacktoberfest is gr8
 - GitHub [mattertater](https://github.com/mattertater)
+
+#### Name: [Cameron Sinko](https://github.com/csinko)
+- Place: Akron, USA
+- Bio: I am part of HAkron at the University of Akron
+- GitHub: [csinko](https://github.com/csinko) 
+
