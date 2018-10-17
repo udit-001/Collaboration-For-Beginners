@@ -159,3 +159,8 @@
 - Place: Internet, Dubai
 - Bio: I wonder who I am aswell.
 - GitHub: [Jay](https://github.com/animecatgirl) 
+
+#### Name: [Nemasure](https://github.com/Nemasure)
+- Place: Kentuckey, United States
+- Bio: I live on earth.
+- GitHub: [Nemasure](https://github.com/Nemasure) 
