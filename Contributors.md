@@ -163,4 +163,4 @@
 #### Name: [Kenny Bender](https://github.com/Kbender424)
 - Place: Akron , Usa
 - Bio: Part of hakron club at University of Akron.
-- GitHub: [Kenny Bender](https://github.com/Kbender424) 
+- GitHub: [Kbender424](https://github.com/Kbender424) 
