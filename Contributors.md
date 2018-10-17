@@ -159,3 +159,8 @@
 - Place: Internet, Dubai
 - Bio: I wonder who I am aswell.
 - GitHub: [Jay](https://github.com/animecatgirl) 
+
+#### Name: [Kyle](https://github.com/kjv13)
+- Place: Akron, USA
+- Bio: A student
+- GitHub: [Kyle](https://github.com/kjv13) 
