@@ -159,3 +159,8 @@
 - Place: Internet, Dubai
 - Bio: I wonder who I am aswell.
 - GitHub: [Jay](https://github.com/animecatgirl) 
+
+#### Name: [Kenny Bender](https://github.com/Kbender424)
+- Place: Akron , Usa
+- Bio: Part of hakron club at University of Akron.
+- GitHub: [Kenny Bender](https://github.com/Kbender424) 
