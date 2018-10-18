@@ -214,3 +214,8 @@
 - Place: Internet, Earth
 - Bio: Developer Coach
 - GitHub: [2mt-schneider](https://github.com/2mt-schneider)
+
+#### Name: [Marcin Krysiński](https://github.com/Krysik)
+- Place: Warsaw, Poland
+- Bio: Nineteen-year programmer, currently student in high school, programmer in the future.
+- GitHub: [Marcin Krysiński](https://github.com/Krysik)
