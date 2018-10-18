@@ -165,6 +165,16 @@
 - Bio: I wonder who I am aswell.
 - GitHub: [Jay](https://github.com/animecatgirl) 
 
+#### Name: [mattertater](https://github.com/mattertater)
+- Place: Stow, United States
+- Bio: Go HAkron!!! hacktoberfest is gr8
+- GitHub [mattertater](https://github.com/mattertater)
+
+#### Name: [Cameron Sinko](https://github.com/csinko)
+- Place: Akron, USA
+- Bio: I am part of HAkron at the University of Akron
+- GitHub: [csinko](https://github.com/csinko) 
+
 #### Name: [Elissa Peters](https://github.com/ep33)
 - Place: Akron, Ohio
 - Bio: Electrical Engineering Student at The University of Akron, Hardware Engineer Co-op at ABB, Inc.
