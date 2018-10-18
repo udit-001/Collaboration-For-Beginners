@@ -165,6 +165,11 @@
 - Bio: I wonder who I am aswell.
 - GitHub: [Jay](https://github.com/animecatgirl) 
 
+#### Name: [Kyle](https://github.com/kjv13)
+- Place: Akron, USA
+- Bio: A student
+- GitHub: [Kyle](https://github.com/kjv13) 
+
 #### Name: [mattertater](https://github.com/mattertater)
 - Place: Stow, United States
 - Bio: Go HAkron!!! hacktoberfest is gr8
