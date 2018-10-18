@@ -115,6 +115,11 @@
 - Bio: MSc Student  
 - GitHub: [gkampolis](https://github.com/gkampolis)  
 
+#### Name: [Abhishek Kumar](https://github.com/Abhishek7081)  
+- Place: Gwalior , India  
+- Bio: Computer Science Student  
+- GitHub: [Abhishek7081](https://github.com/Abhishek7081)  
+
 #### Name: [Ariel Burriss](https://github.com/ariburr)
 - Place: Salt Lake City, UT, US
 - Bio: Student
@@ -164,3 +169,13 @@
 - Place: Akron, Ohio
 - Bio: Electrical Engineering Student at The University of Akron, Hardware Engineer Co-op at ABB, Inc.
 - GitHub: [ep33](https://github.com/ep33)
+
+#### Name: [Will Postlethwait](https://github.com/willpost11)
+- Place: Akron, United States
+- Bio: LeBron's Son
+- GitHub: [Will Postlethwait](https://github.com/willpost11)
+
+#### Name: [Oliver Schneider](https://github.com/2mt-schneider)
+- Place: Internet, Earth
+- Bio: Developer Coach
+- GitHub: [2mt-schneider](https://github.com/2mt-schneider)
