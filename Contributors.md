@@ -115,6 +115,11 @@
 - Bio: MSc Student  
 - GitHub: [gkampolis](https://github.com/gkampolis)  
 
+#### Name: [Abhishek Kumar](https://github.com/Abhishek7081)  
+- Place: Gwalior , India  
+- Bio: Computer Science Student  
+- GitHub: [Abhishek7081](https://github.com/Abhishek7081)  
+
 #### Name: [Ariel Burriss](https://github.com/ariburr)
 - Place: Salt Lake City, UT, US
 - Bio: Student
@@ -164,3 +169,43 @@
 - Place: Akron, Ohio, USA
 - Bio: Go Zips!
 - GitHub: [Lennevia](https://github.com/lennevia) 
+
+#### Name: [Joe Quinn](https://github.com/jpquinn1)
+- Akron, USA
+- Bio: Student at University of Akron
+- GitHub: [Joe Quinn](https://github.com/jpquinn1)
+
+#### Name: [Kenny Bender](https://github.com/Kbender424)
+- Place: Akron , Usa
+- Bio: Part of hakron club at University of Akron.
+- GitHub: [Kbender424](https://github.com/Kbender424) 
+
+#### Name: [Kyle](https://github.com/kjv13)
+- Place: Akron, USA
+- Bio: A student
+- GitHub: [Kyle](https://github.com/kjv13) 
+
+#### Name: [mattertater](https://github.com/mattertater)
+- Place: Stow, United States
+- Bio: Go HAkron!!! hacktoberfest is gr8
+- GitHub [mattertater](https://github.com/mattertater)
+
+#### Name: [Cameron Sinko](https://github.com/csinko)
+- Place: Akron, USA
+- Bio: I am part of HAkron at the University of Akron
+- GitHub: [csinko](https://github.com/csinko) 
+
+#### Name: [Elissa Peters](https://github.com/ep33)
+- Place: Akron, Ohio
+- Bio: Electrical Engineering Student at The University of Akron, Hardware Engineer Co-op at ABB, Inc.
+- GitHub: [ep33](https://github.com/ep33)
+
+#### Name: [Will Postlethwait](https://github.com/willpost11)
+- Place: Akron, United States
+- Bio: LeBron's Son
+- GitHub: [Will Postlethwait](https://github.com/willpost11)
+
+#### Name: [Oliver Schneider](https://github.com/2mt-schneider)
+- Place: Internet, Earth
+- Bio: Developer Coach
+- GitHub: [2mt-schneider](https://github.com/2mt-schneider)
