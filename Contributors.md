@@ -219,3 +219,8 @@
 - Place: Warsaw, Poland
 - Bio: Nineteen-year programmer, currently student in high school, programmer in the future.
 - GitHub: [Marcin Krysiński](https://github.com/Krysik)
+
+#### Name: [Rutuja Dicholkar](https://github.com/Rutujavd)
+- Place: Mumbai, India
+- Bio: Tech-Learner
+- GitHub: [Rutuja Dicholkar](https://githud.com/Rutujavd)
