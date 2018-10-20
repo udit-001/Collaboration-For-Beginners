@@ -223,4 +223,4 @@
 #### Name: [Rutuja Dicholkar](https://github.com/Rutujavd)
 - Place: Mumbai, India
 - Bio: Tech-Learner
-- GitHub: [Rutuja Dicholkar](https://githud.com/Rutujavd)
+- GitHub: [Rutuja Dicholkar](https://github.com/Rutujavd)
