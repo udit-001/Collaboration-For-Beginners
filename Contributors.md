@@ -224,3 +224,8 @@
 - Place: Mumbai, India
 - Bio: Tech-Learner
 - GitHub: [Rutuja Dicholkar](https://github.com/Rutujavd)
+
+#### Name: [Rayhan Hamada](https://github.com/RayhanHamada)
+- Place: Tangerang Selatan, Indonesia
+- Bio: An ordinary teenager who enyoyed coding and learning CS
+- GitHub: [RayhanHamada](https://github.com/RayhanHamada)
