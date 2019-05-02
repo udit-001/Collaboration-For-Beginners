@@ -224,3 +224,8 @@
 - Place: Mumbai, India
 - Bio: Tech-Learner
 - GitHub: [Rutuja Dicholkar](https://github.com/Rutujavd)
+
+#### Name: [Alexander Ikeh](https://github.com/AlexSwiss)
+- Place: Kaduna, Nigeria
+- Bio: Script Kid, i eat, speak, and sleep javascript
+- GitHub: [Alexander Ikeh](https://github.com/AlexSwiss)
