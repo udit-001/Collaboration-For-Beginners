@@ -142,17 +142,17 @@
 
 #### Name: [Shubham Belwal](https://github.com/ShubhamBelwal)
 - Place: Pune, India
-- Bio: Python Enthusiast 
+- Bio: Python Enthusiast
 - GitHub: [ShubhamBelwal](https://github.com/ShubhamBelwal)
 
 #### Name: [Tanseer Saji](https://github.com/tanseersaji)
 - Place: Delhi, India
-- Bio: A N00B 
+- Bio: A N00B
 - GitHub: [tanseersaji](https://github.com/tanseersaji)
 
 #### Name: [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - Place: Ghaziabad, India
-- Bio: Budding Front-End Developer 
+- Bio: Budding Front-End Developer
 - GitHub: [Shubhankar Banerjee](https://github.com/shubhankarb180)
 
 #### Name: [Rod Gudge](https://github.com/RodGudge)
@@ -163,17 +163,17 @@
 #### Name: [Jay](https://github.com/animecatgirl)
 - Place: Internet, Dubai
 - Bio: I wonder who I am aswell.
-- GitHub: [Jay](https://github.com/animecatgirl) 
+- GitHub: [Jay](https://github.com/animecatgirl)
 
 #### Name: [Nemasure](https://github.com/Nemasure)
 - Place: Kentuckey, United States
 - Bio: I live on earth.
-- GitHub: [Nemasure](https://github.com/Nemasure) 
+- GitHub: [Nemasure](https://github.com/Nemasure)
 
 #### Name: [Laverena W.](https://github.com/lennevia)
 - Place: Akron, Ohio, USA
 - Bio: Go Zips!
-- GitHub: [Lennevia](https://github.com/lennevia) 
+- GitHub: [Lennevia](https://github.com/lennevia)
 
 #### Name: [Joe Quinn](https://github.com/jpquinn1)
 - Akron, USA
@@ -183,12 +183,12 @@
 #### Name: [Kenny Bender](https://github.com/Kbender424)
 - Place: Akron , Usa
 - Bio: Part of hakron club at University of Akron.
-- GitHub: [Kbender424](https://github.com/Kbender424) 
+- GitHub: [Kbender424](https://github.com/Kbender424)
 
 #### Name: [Kyle](https://github.com/kjv13)
 - Place: Akron, USA
 - Bio: A student
-- GitHub: [Kyle](https://github.com/kjv13) 
+- GitHub: [Kyle](https://github.com/kjv13)
 
 #### Name: [mattertater](https://github.com/mattertater)
 - Place: Stow, United States
@@ -198,7 +198,7 @@
 #### Name: [Cameron Sinko](https://github.com/csinko)
 - Place: Akron, USA
 - Bio: I am part of HAkron at the University of Akron
-- GitHub: [csinko](https://github.com/csinko) 
+- GitHub: [csinko](https://github.com/csinko)
 
 #### Name: [Elissa Peters](https://github.com/ep33)
 - Place: Akron, Ohio
@@ -229,3 +229,8 @@
 - Place: Kaduna, Nigeria
 - Bio: Script Kid, i eat, speak, and sleep javascript
 - GitHub: [Alexander Ikeh](https://github.com/AlexSwiss)
+
+#### Name: [David Kim](https://github.com/davidsjk)
+- Place: California, USA
+- Bio: Datahead
+- GitHub: [David Kim](https://github.com/davidsjk)
