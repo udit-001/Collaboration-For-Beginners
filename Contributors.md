@@ -230,6 +230,11 @@
 - Bio: Script Kid, i eat, speak, and sleep javascript
 - GitHub: [Alexander Ikeh](https://github.com/AlexSwiss)
 
+#### Name: [Rayhan Hamada](https://github.com/RayhanHamada)
+- Place: Tangerang Selatan, Indonesia
+- Bio: An ordinary teenager who enyoyed coding and learning CS
+- GitHub: [RayhanHamada](https://github.com/RayhanHamada)
+
 #### Name: [David Kim](https://github.com/davidsjk)
 - Place: California, USA
 - Bio: Datahead
