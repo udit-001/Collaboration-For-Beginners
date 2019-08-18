@@ -225,6 +225,11 @@
 - Bio: Tech-Learner
 - GitHub: [Rutuja Dicholkar](https://github.com/Rutujavd)
 
+#### Name: [Alexander Ikeh](https://github.com/AlexSwiss)
+- Place: Kaduna, Nigeria
+- Bio: Script Kid, i eat, speak, and sleep javascript
+- GitHub: [Alexander Ikeh](https://github.com/AlexSwiss)
+
 #### Name: [Rayhan Hamada](https://github.com/RayhanHamada)
 - Place: Tangerang Selatan, Indonesia
 - Bio: An ordinary teenager who enyoyed coding and learning CS
