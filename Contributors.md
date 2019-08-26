@@ -239,3 +239,8 @@
 - Place: California, USA
 - Bio: Datahead
 - GitHub: [David Kim](https://github.com/davidsjk)
+
+#### Name: [Shruti Tiwari](https://github.com/aspire009)
+- Place: Noida, India
+- Bio: An average programmer with great interest in open source development
+- GitHub: [Shruti Tiwari](https://github.com/aspire009)
