@@ -244,3 +244,8 @@
 - Place: Noida, India
 - Bio: An average programmer with great interest in open source development
 - GitHub: [Shruti Tiwari](https://github.com/aspire009)
+
+#### Name: [David Barrera](https://github.com/dbarrerap)
+- Place: Guayaquil, Ecuador
+- Bio: Programmer/Data Analyst/Maker
+- GitHub: [David Barrera](https://github.com/dbarrerap)
