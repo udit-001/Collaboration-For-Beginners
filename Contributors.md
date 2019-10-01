@@ -249,3 +249,18 @@
 - Place: Hyderabad, India
 - Bio: Competitive Programmer
 - GitHub: [Shashi Jangra](https://github.com/shashijangra22) 
+
+#### Name: [Alejandro Villanueva](https://github.com/Alejandro-Villa)
+- Place: Granada, Spain
+- Bio: An IT and Maths student lover of libre software and looking for interesting projects!
+- GitHub: [Alejandro-Villa](https://github.com/Alejandro-Villa) 
+
+#### Name: [David Barrera](https://github.com/dbarrerap)
+- Place: Guayaquil, Ecuador
+- Bio: Programmer/Data Analyst/Maker
+- GitHub: [David Barrera](https://github.com/dbarrerap)
+
+#### Name: [Wan Adri](https://github.com/wanadri)
+- Place: Malaysia
+- Bio: A programmer that never stop learning.
+- GitHub: [Wan Adri](https://github.com/wanadri)
