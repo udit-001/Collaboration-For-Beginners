@@ -245,6 +245,11 @@
 - Bio: An average programmer with great interest in open source development
 - GitHub: [Shruti Tiwari](https://github.com/aspire009)
 
+#### Name: [Shashi Jangra](https://github.com/shashijangra22)
+- Place: Hyderabad, India
+- Bio: Competitive Programmer
+- GitHub: [Shashi Jangra](https://github.com/shashijangra22) 
+
 #### Name: [Alejandro Villanueva](https://github.com/Alejandro-Villa)
 - Place: Granada, Spain
 - Bio: An IT and Maths student lover of libre software and looking for interesting projects!
