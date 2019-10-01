@@ -244,3 +244,7 @@
 - Place: Noida, India
 - Bio: An average programmer with great interest in open source development
 - GitHub: [Shruti Tiwari](https://github.com/aspire009)
+#### Name: [Alejandro Villanueva](https://github.com/Alejandro-Villa)
+- Place: Granada, Spain
+- Bio: An IT and Maths student lover of libre software and looking for interesting projects!
+- GitHub: [Alejandro-Villa](https://github.com/Alejandro-Villa) 
