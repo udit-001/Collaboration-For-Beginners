@@ -244,3 +244,8 @@
 - Place: Noida, India
 - Bio: An average programmer with great interest in open source development
 - GitHub: [Shruti Tiwari](https://github.com/aspire009)
+
+#### Name: [Wan Adri](https://github.com/wanadri)
+- Place: Malaysia
+- Bio: A programmer that never stop learning.
+- GitHub: [Wan Adri](https://github.com/wanadri)
