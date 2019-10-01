@@ -264,3 +264,8 @@
 - Place: Malaysia
 - Bio: A programmer that never stop learning.
 - GitHub: [Wan Adri](https://github.com/wanadri)
+
+#### Name: [Tathagata Paul](https://github.com/4molybdenum2)
+- Place: Howrah, India
+- Bio: A Noob Developer
+- GitHub: [Tathagata Paul](https://github.com/4molybdenum2)
