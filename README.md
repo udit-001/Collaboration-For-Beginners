@@ -10,7 +10,7 @@ Learning to collaborate can be difficult for the first time contributors, and it
 
 >Check out other awesome contributors of this project [here.](https://udit-001.github.io/Collaboration-For-Beginners/Contributors)
 
-Here are the steps to contribute by making your first successful pull requests:
+Here are the steps to make contributions by making your first successful pull requests:
 
 1. Star this repository
 2. Fork this repository.
@@ -32,22 +32,22 @@ git clone https://github.com/udit-001/Collaboration-For-Beginners.git
 #### Name: [YOUR NAME](GitHub Link)
 - Place: City, Country
 - Bio: Who are you?
-- GitHub: [Your Name](GitHub Link) 
+- GitHub: [Your Name](GitHub Link)
 ```
 
-5. Enter the following commands into your `git console` 
+5. Enter the following commands into your `git console`
 ```git
 git add .
 git commit -m "Added myself to Contributors.md"
 git push origin master
 ```
-6. Now create a pull request and add the title as `"Added myself to Contributors.md"`
+6. Now creating a pull request and add the title as `"Added myself to Contributors.md"`
 
 ![Create a Pull Request](https://raw.githubusercontent.com/udit-001/Collaboration-For-Beginners/master/img/PR.jpg)
 
 7. Sit back and relax while your pull request is being reviewed and merged.
 
-## Reference Links 
+## Reference Links
 
 - Syncing a Fork : [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
 - Merging an upstream repository into your fork : [https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/)
