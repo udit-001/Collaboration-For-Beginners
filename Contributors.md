@@ -244,3 +244,8 @@
 - Place: Noida, India
 - Bio: An average programmer with great interest in open source development
 - GitHub: [Shruti Tiwari](https://github.com/aspire009)
+
+#### Name: [Shashi Jangra](https://github.com/shashijangra22)
+- Place: Hyderabad, India
+- Bio: Competitive Programmer
+- GitHub: [Shashi Jangra](https://github.com/shashijangra22) 
