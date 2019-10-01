@@ -249,3 +249,8 @@
 - Place: Guayaquil, Ecuador
 - Bio: Programmer/Data Analyst/Maker
 - GitHub: [David Barrera](https://github.com/dbarrerap)
+
+#### Name: [Wan Adri](https://github.com/wanadri)
+- Place: Malaysia
+- Bio: A programmer that never stop learning.
+- GitHub: [Wan Adri](https://github.com/wanadri)
