@@ -269,3 +269,8 @@
 - Place: Belo Horizonte, Brazil
 - Bio: Back-end software developer, currently working with Java and microservices.
 - GitHub: [Bárbara Perdigão](https://github.com/barbaraips)
+
+#### Name: [Rev](https://github.com/rev44/)
+- Place: Durgapur, India
+- Bio: Full Stack Developer, Pythonista.
+- GitHub: [Rev](https://github.com/rev44/)
