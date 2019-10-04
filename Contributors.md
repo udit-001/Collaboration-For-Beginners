@@ -269,3 +269,8 @@
 - Place: Bangalore, India 
 - Bio: Just a guy on the internet.
 - GitHub: [Hari Om](https://github.com/BuzzHari)
+
+#### Name: [Bárbara Perdigão](https://github.com/barbaraips)
+- Place: Belo Horizonte, Brazil
+- Bio: Back-end software developer, currently working with Java and microservices.
+- GitHub: [Bárbara Perdigão](https://github.com/barbaraips)
