@@ -269,3 +269,8 @@
 - Place: Belo Horizonte, Brazil
 - Bio: Back-end software developer, currently working with Java and microservices.
 - GitHub: [Bárbara Perdigão](https://github.com/barbaraips)
+
+#### Name: [Daniel Barros](https://github.com/barrosdaniel)
+- Place: Sao Paulo, Brazil
+- Bio: Web Developer transitioning from the HR industry
+- GitHub: [Daniel Barros](https://github.com/barrosdaniel)
