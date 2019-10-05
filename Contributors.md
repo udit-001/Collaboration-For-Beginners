@@ -269,3 +269,9 @@
 - Place: India
 - Bio: Full Stack Developer, JavaScript Lover
 - GitHub: [Subham Sahu](https://github.com/subhamX)
+
+#### Name: [Bárbara Perdigão](https://github.com/barbaraips)
+- Place: Belo Horizonte, Brazil
+- Bio: Back-end software developer, currently working with Java and microservices.
+- GitHub: [Bárbara Perdigão](https://github.com/barbaraips)
+
