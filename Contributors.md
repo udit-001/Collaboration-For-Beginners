@@ -269,3 +269,8 @@
 - Place: Belo Horizonte, Brazil
 - Bio: Back-end software developer, currently working with Java and microservices.
 - GitHub: [Bárbara Perdigão](https://github.com/barbaraips)
+
+#### Name: [Romy kumari](https://github.com/Romy701kumari)
+- Place : New Delhi , India
+- Bio : A proogrammer 
+- Github :  [Romy kumari](https://github.com/Romy701kumari)
