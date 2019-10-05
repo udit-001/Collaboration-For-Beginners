@@ -269,3 +269,8 @@
 - Place: Belo Horizonte, Brazil
 - Bio: Back-end software developer, currently working with Java and microservices.
 - GitHub: [Bárbara Perdigão](https://github.com/barbaraips)
+
+#### Name : [Avinav pandey](https://github.com/avinavpandey142)
+- Place : New delhi, india
+- Bio : Mechanical engineer, student
+- Github : [Avinav Pandey](https://github.com/avinavpandey142)
