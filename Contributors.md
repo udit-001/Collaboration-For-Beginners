@@ -270,6 +270,11 @@
 - Bio: A programmer that never stop learning.
 - GitHub: [Wan Adri](https://github.com/wanadri)
 
+#### Name: [Jeethendra Balaji](https://github.com/JeeBoomBoi)
+- Place: Kollam, India
+- Bio: Sophomore | Codes in C++/Java | Android Developer.
+- GitHub: [Jeethendra Balaji](https://github.com/JeeBoomBoi)
+
 #### Name: [Hari Om](https://github.com/BuzzHari)
 - Place: Bangalore, India 
 - Bio: Just a guy on the internet.
