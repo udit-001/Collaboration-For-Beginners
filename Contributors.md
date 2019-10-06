@@ -265,6 +265,11 @@
 - Bio: A programmer that never stop learning.
 - GitHub: [Wan Adri](https://github.com/wanadri)
 
+#### Name: [Tathagata Paul](https://github.com/4molybdenum2)
+- Place: Howrah, India
+- Bio: A Noob Developer
+- GitHub: [Tathagata Paul](https://github.com/4molybdenum2)
+
 #### Name: [Bárbara Perdigão](https://github.com/barbaraips)
 - Place: Belo Horizonte, Brazil
 - Bio: Back-end software developer, currently working with Java and microservices.
