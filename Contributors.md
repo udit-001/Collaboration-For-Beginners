@@ -270,6 +270,11 @@
 - Bio: A programmer that never stop learning.
 - GitHub: [Wan Adri](https://github.com/wanadri)
 
+#### Name: [Hari Om](https://github.com/BuzzHari)
+- Place: Bangalore, India 
+- Bio: Just a guy on the internet.
+- GitHub: [Hari Om](https://github.com/BuzzHari)
+
 #### Name: [Tathagata Paul](https://github.com/4molybdenum2)
 - Place: Howrah, India
 - Bio: A Noob Developer
