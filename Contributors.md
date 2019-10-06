@@ -15,6 +15,11 @@
 - Bio: Application Developer
 - GitHub: [YuganshT79](https://github.com/YuganshT79)
 
+#### Name: [Shivansh Narayan](https://github.com/narayanshivansh49)
+- Place: India
+- Bio: Engineering 3rd Year
+- GitHub: [YuganshT79](https://github.com/narayanshivansh49)
+
 #### Name: [Suraj Sharma](https://github.com/Iamsurajsharma)
 - Place: New Delhi, India
 - Bio: Developer who never miss semicolon.
