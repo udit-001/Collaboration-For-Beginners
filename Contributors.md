@@ -15,6 +15,11 @@
 - Bio: Application Developer
 - GitHub: [YuganshT79](https://github.com/YuganshT79)
 
+#### Name: [Shivansh Narayan](https://github.com/narayanshivansh49)
+- Place: India
+- Bio: Engineering 3rd Year
+- GitHub: [YuganshT79](https://github.com/narayanshivansh49)
+
 #### Name: [Suraj Sharma](https://github.com/Iamsurajsharma)
 - Place: New Delhi, India
 - Bio: Developer who never miss semicolon.
@@ -269,6 +274,11 @@
 - Place: Bangalore, India 
 - Bio: Just a guy on the internet.
 - GitHub: [Hari Om](https://github.com/BuzzHari)
+
+#### Name: [Tathagata Paul](https://github.com/4molybdenum2)
+- Place: Howrah, India
+- Bio: A Noob Developer
+- GitHub: [Tathagata Paul](https://github.com/4molybdenum2)
 
 #### Name: [Bárbara Perdigão](https://github.com/barbaraips)
 - Place: Belo Horizonte, Brazil
