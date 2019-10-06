@@ -275,6 +275,16 @@
 - Bio: A programmer that never stop learning.
 - GitHub: [Wan Adri](https://github.com/wanadri)
 
+#### Name: [Subham Sahu](https://www.linkedin.com/in/subhamX/)
+- Place: India
+- Bio: Full Stack Developer, JavaScript Lover
+- GitHub: [Subham Sahu](https://github.com/subhamX)
+
+#### Name: [Adeyoriju Olabode Wilson](https://github.com/whilson03/)
+- Place: Lagos, Nigeria
+- Bio: Am Computer science student who is passionate about problem solving?
+- GitHub: [whilson03](https://github.com/whilson03/)
+
 #### Name: [Jeethendra Balaji](https://github.com/JeeBoomBoi)
 - Place: Kollam, India
 - Bio: Sophomore | Codes in C++/Java | Android Developer.
@@ -299,3 +309,9 @@
 - Place: Melbourne, Australia
 - Bio: Student
 - GitHub: [fanuuh](https://github.com/fanauch)
+
+#### Name: [Rev](https://github.com/rev44/)
+- Place: Durgapur, India
+- Bio: Full Stack Developer, Pythonista.
+- GitHub: [Rev](https://github.com/rev44/)
+
