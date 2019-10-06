@@ -305,7 +305,13 @@
 - Bio: Back-end software developer, currently working with Java and microservices.
 - GitHub: [Bárbara Perdigão](https://github.com/barbaraips)
 
+#### Name: [AF](https://github.com/fanuch)
+- Place: Melbourne, Australia
+- Bio: Student
+- GitHub: [fanuuh](https://github.com/fanauch)
+
 #### Name: [Rev](https://github.com/rev44/)
 - Place: Durgapur, India
 - Bio: Full Stack Developer, Pythonista.
 - GitHub: [Rev](https://github.com/rev44/)
+
