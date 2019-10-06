@@ -294,3 +294,8 @@
 - Place: Belo Horizonte, Brazil
 - Bio: Back-end software developer, currently working with Java and microservices.
 - GitHub: [Bárbara Perdigão](https://github.com/barbaraips)
+
+#### Name: [AF](https://github.com/fanuch)
+- Place: Melbourne, Australia
+- Bio: Student
+- GitHub: [fanuuh](https://github.com/fanauch)
