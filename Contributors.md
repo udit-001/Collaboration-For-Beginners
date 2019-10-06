@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Carline Durmus](https://github.com/bioprogram1316)
+- Place: Brooklyn, USA
+- Bio: ReactJS, NodeJS developer looking for remote full stack or front end development work.
+- GitHub: [bioprogram1316](https://github.com/bioprogram1316)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
@@ -14,6 +19,11 @@
 - Place: India
 - Bio: Application Developer
 - GitHub: [YuganshT79](https://github.com/YuganshT79)
+
+#### Name: [Shivansh Narayan](https://github.com/narayanshivansh49)
+- Place: India
+- Bio: Engineering 3rd Year
+- GitHub: [YuganshT79](https://github.com/narayanshivansh49)
 
 #### Name: [Suraj Sharma](https://github.com/Iamsurajsharma)
 - Place: New Delhi, India
@@ -265,6 +275,31 @@
 - Bio: A programmer that never stop learning.
 - GitHub: [Wan Adri](https://github.com/wanadri)
 
+#### Name: [Subham Sahu](https://www.linkedin.com/in/subhamX/)
+- Place: India
+- Bio: Full Stack Developer, JavaScript Lover
+- GitHub: [Subham Sahu](https://github.com/subhamX)
+
+#### Name: [Adeyoriju Olabode Wilson](https://github.com/whilson03/)
+- Place: Lagos, Nigeria
+- Bio: Am Computer science student who is passionate about problem solving?
+- GitHub: [whilson03](https://github.com/whilson03/)
+
+#### Name: [Jeethendra Balaji](https://github.com/JeeBoomBoi)
+- Place: Kollam, India
+- Bio: Sophomore | Codes in C++/Java | Android Developer.
+- GitHub: [Jeethendra Balaji](https://github.com/JeeBoomBoi)
+
+#### Name: [Hari Om](https://github.com/BuzzHari)
+- Place: Bangalore, India 
+- Bio: Just a guy on the internet.
+- GitHub: [Hari Om](https://github.com/BuzzHari)
+
+#### Name: [Tathagata Paul](https://github.com/4molybdenum2)
+- Place: Howrah, India
+- Bio: A Noob Developer
+- GitHub: [Tathagata Paul](https://github.com/4molybdenum2)
+
 #### Name: [Bárbara Perdigão](https://github.com/barbaraips)
 - Place: Belo Horizonte, Brazil
 - Bio: Back-end software developer, currently working with Java and microservices.
@@ -274,3 +309,8 @@
 - Place : New Delhi , India
 - Bio : A proogrammer 
 - Github :  [Romy kumari](https://github.com/Romy701kumari)
+
+#### Name: [Rev](https://github.com/rev44/)
+- Place: Durgapur, India
+- Bio: Full Stack Developer, Pythonista.
+- GitHub: [Rev](https://github.com/rev44/)
