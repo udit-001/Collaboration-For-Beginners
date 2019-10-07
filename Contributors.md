@@ -315,3 +315,7 @@
 - Bio: Full Stack Developer, Pythonista.
 - GitHub: [Rev](https://github.com/rev44/)
 
+#### Name: [Aman Chande](https://github.com/amanchande)
+- Place: Betul, India
+- Bio: Student
+- Github: [Aman Chande](https://github.com/amanchande)
