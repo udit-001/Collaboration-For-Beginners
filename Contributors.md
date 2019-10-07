@@ -315,3 +315,7 @@
 - Bio: Full Stack Developer, Pythonista.
 - GitHub: [Rev](https://github.com/rev44/)
 
+#### Name: [Harsh Sharma](https://github.com/hs2361/)
+- Place: Mumbai, India
+- Bio: Pythonista | Reader.
+- GitHub: [Harsh Sharma](https://github.com/hs2361/)
