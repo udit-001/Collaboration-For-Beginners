@@ -319,3 +319,8 @@
 - Place: Betul, India
 - Bio: Student
 - Github: [Aman Chande](https://github.com/amanchande)
+
+#### Name: [Harsh Sharma](https://github.com/hs2361)
+- Place: Mumbai, India
+- Bio: Pythonista | Reader
+- Github: [Harsh Sharma](https://github.com/hs2361)
