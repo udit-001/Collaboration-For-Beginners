@@ -324,3 +324,8 @@
 - Place: Kalyani, India
 - Bio: Computer Science Engineering Student
 - Github: [Subrata Kumar Biswas](https://github.com/subrata3112)
+
+#### Name: [Cristian Silva](https://github.com/Cristuker)
+- Place: São Paulo, Brazil
+- Bio: Student and a future JS developer
+- Github: [Cristian Silva](https://github.com/Cristuker)
