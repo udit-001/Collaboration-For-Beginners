@@ -319,3 +319,8 @@
 - Place: Betul, India
 - Bio: Student
 - Github: [Aman Chande](https://github.com/amanchande)
+
+#### Name: [Subrata Kumar Biswas](https://github.com/subrata3112)
+- Place: Kalyani, India
+- Bio: Computer Science Engineering Student
+- Github: [Subrata Kumar Biswas](https://github.com/subrata3112)
