@@ -324,3 +324,13 @@
 - Place: Mumbai, India
 - Bio: Pythonista | Reader
 - Github: [Harsh Sharma](https://github.com/hs2361)
+
+#### Name: [Subrata Kumar Biswas](https://github.com/subrata3112)
+- Place: Kalyani, India
+- Bio: Computer Science Engineering Student
+- Github: [Subrata Kumar Biswas](https://github.com/subrata3112)
+
+#### Name: [Cristian Silva](https://github.com/Cristuker)
+- Place: São Paulo, Brazil
+- Bio: Student and a future JS developer
+- Github: [Cristian Silva](https://github.com/Cristuker)
