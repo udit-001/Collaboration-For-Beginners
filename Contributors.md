@@ -319,3 +319,8 @@
 - Place: Betul, India
 - Bio: Student
 - Github: [Aman Chande](https://github.com/amanchande)
+
+#### Name: [Cristian Silva](https://github.com/Cristuker)
+- Place: São Paulo, Brazil
+- Bio: Student and a future JS developer
+- Github: [Cristian Silva](https://github.com/Cristuker)
