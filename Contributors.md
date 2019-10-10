@@ -334,3 +334,8 @@
 - Place: São Paulo, Brazil
 - Bio: Student and a future JS developer
 - Github: [Cristian Silva](https://github.com/Cristuker)
+
+#### Name: [Megan Kim](https://github.com/Megarpie)
+- Place: California, USA
+- Bio: Front-end developer
+- Github: [Megan Kim](https://github.com/Megarpie)
