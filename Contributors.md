@@ -334,3 +334,8 @@
 - Place: São Paulo, Brazil
 - Bio: Student and a future JS developer
 - Github: [Cristian Silva](https://github.com/Cristuker)
+
+#### Name : [Avinav pandey](https://github.com/avinavpandey142)
+- Place: New delhi, India
+- Bio: student , mechanical engineer
+-Github : [Avinav pandey]9https://github.com/avinavpandey142)
