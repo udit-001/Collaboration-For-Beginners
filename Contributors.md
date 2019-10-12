@@ -334,3 +334,16 @@
 - Place: São Paulo, Brazil
 - Bio: Student and a future JS developer
 - Github: [Cristian Silva](https://github.com/Cristuker)
+
+
+#### Name: [Tarannum Ara](https://github.com/giTan7 )
+- Place: Kolkata, India
+- Bio: a tech geek, data science learning enthusiast, a developer.
+- GitHub: [giTan7](https://github.com/giTan7)
+
+
+
+
+
+
+
