@@ -5,6 +5,11 @@
 - Bio: ReactJS, NodeJS developer looking for remote full stack or front end development work.
 - GitHub: [bioprogram1316](https://github.com/bioprogram1316)
 
+#### Name: [Pratik Mandlecha](https://github.com/PratikMandlecha)
+- Place: Pune , India
+- Bio: C++ , Python , Programmer , Love Anime.
+- GitHub: [PratikMandlecha](https://github.com/PratikMandlecha)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
