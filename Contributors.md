@@ -40,6 +40,11 @@
 - Bio: Technology enthusiast and real life Iron Man!
 - GitHub: [gh0st](https://github.com/gh0st)
 
+#### Name: [Avinash gupta](https://github.com/avinash2201)
+- Place: Gujarat, India
+- Bio: Technology enthusiast and web developer.
+- GitHub: [avinash2201](https://github.com/avinash2201)
+
 #### Name: [David Fink](https://github.com/davidfinkdev)
 - Place: Cincinnati, United States
 - Bio: Art is in my code. Full-Stack PHP Web Developer with a love for caffeine.
