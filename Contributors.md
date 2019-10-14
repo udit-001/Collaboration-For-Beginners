@@ -334,3 +334,8 @@
 - Place: São Paulo, Brazil
 - Bio: Student and a future JS developer
 - Github: [Cristian Silva](https://github.com/Cristuker)
+
+#### Name: [Yanshu Kishore](https://github.com/superyassh)
+- Place: Chandigarh, India
+- Bio: Student,Future Developer and Innovator.
+- GitHub: [Yanshu Kishore](https://github.com/superyassh)
