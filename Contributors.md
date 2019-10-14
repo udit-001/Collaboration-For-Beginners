@@ -334,3 +334,8 @@
 - Place: São Paulo, Brazil
 - Bio: Student and a future JS developer
 - Github: [Cristian Silva](https://github.com/Cristuker)
+
+#### Name: [Samya Subhro Roy](https://github.com/SubhroSamya)
+- Place: Kolkata, India
+- Bio: tech geek, learner, introvert.
+- GitHub: [Samya Subhro Roy](https://github.com/SubhroSamya)
