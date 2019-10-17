@@ -334,3 +334,9 @@
 - Place: São Paulo, Brazil
 - Bio: Student and a future JS developer
 - Github: [Cristian Silva](https://github.com/Cristuker)
+
+#### Name: [V Patil](https://github.com/vpatiltech)
+- Place: Pune, India 
+- Bio: IT Professional
+- Github: [V Patil](https://github.com/vpatiltech) 
+
