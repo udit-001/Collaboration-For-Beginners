@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Alexander Bourne](https://github.com/alexander-bourne)
+- Place: City, Country
+- Bio: Who are you?
+- GitHub: [Alexander Bourne](https://github.com/alexander-bourne)
+
 #### Name: [Carline Durmus](https://github.com/bioprogram1316)
 - Place: Brooklyn, USA
 - Bio: ReactJS, NodeJS developer looking for remote full stack or front end development work.
@@ -39,6 +44,11 @@
 - Place: Sacramento, USA
 - Bio: Technology enthusiast and real life Iron Man!
 - GitHub: [gh0st](https://github.com/gh0st)
+
+#### Name: [Avinash gupta](https://github.com/avinash2201)
+- Place: Gujarat, India
+- Bio: Technology enthusiast and web developer.
+- GitHub: [avinash2201](https://github.com/avinash2201)
 
 #### Name: [David Fink](https://github.com/davidfinkdev)
 - Place: Cincinnati, United States
@@ -324,3 +334,28 @@
 - Place: Hyderabad, India
 - Bio: I am Computer Science Undergrad and a full stack web Dev
 - GitHub: [Revanth Reddy](https://github.com/revanth-reddy)
+
+#### Name: [Harsh Sharma](https://github.com/hs2361)
+- Place: Mumbai, India
+- Bio: Pythonista | Reader
+- Github: [Harsh Sharma](https://github.com/hs2361)
+
+#### Name: [Subrata Kumar Biswas](https://github.com/subrata3112)
+- Place: Kalyani, India
+- Bio: Computer Science Engineering Student
+- Github: [Subrata Kumar Biswas](https://github.com/subrata3112)
+
+#### Name: [Cristian Silva](https://github.com/Cristuker)
+- Place: São Paulo, Brazil
+- Bio: Student and a future JS developer
+- Github: [Cristian Silva](https://github.com/Cristuker)
+
+#### Name: [Harsh Singh Bais](https://github.com/harshsbais)
+- Place: Lucknow, India
+- Bio: Student
+- Github: [Harsh Singh Bais](https://github.com/harshsbais)
+
+#### Name: [Yanshu Kishore](https://github.com/superyassh)
+- Place: Chandigarh, India
+- Bio: Student,Future Developer and Innovator.
+- GitHub: [Yanshu Kishore](https://github.com/superyassh)
