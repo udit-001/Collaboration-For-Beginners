@@ -330,6 +330,11 @@
 - Bio: Student
 - Github: [Aman Chande](https://github.com/amanchande)
 
+#### Name: [Revanth Reddy](https://github.com/revanth-reddy)
+- Place: Hyderabad, India
+- Bio: I am Computer Science Undergrad and a full stack web Dev
+- GitHub: [Revanth Reddy](https://github.com/revanth-reddy)
+
 #### Name: [Harsh Sharma](https://github.com/hs2361)
 - Place: Mumbai, India
 - Bio: Pythonista | Reader
