@@ -340,6 +340,11 @@
 - Bio: Student and a future JS developer
 - Github: [Cristian Silva](https://github.com/Cristuker)
 
+#### Name: [Harsh Singh Bais](https://github.com/harshsbais)
+- Place: Lucknow, India
+- Bio: Student
+- Github: [Harsh Singh Bais](https://github.com/harshsbais)
+
 #### Name: [Yanshu Kishore](https://github.com/superyassh)
 - Place: Chandigarh, India
 - Bio: Student,Future Developer and Innovator.
