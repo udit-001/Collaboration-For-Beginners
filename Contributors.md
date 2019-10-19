@@ -359,3 +359,8 @@
 - Place: Chandigarh, India
 - Bio: Student,Future Developer and Innovator.
 - GitHub: [Yanshu Kishore](https://github.com/superyassh)
+
+#### Name: [Ziane Maamar](https://github.com/drxdesign)
+- Place: Tipaza, Alegria
+- Bio: Hello my name is Ziane Maamar and I am a 27 year old self-taught Web and Graphics Designer. Road to #FullStack Developer #Pythoneer
+- GitHub: [DRXDESIGN](https://github.com/drxdesign)
