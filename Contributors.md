@@ -364,3 +364,8 @@
 - Place: Tipaza, Alegria
 - Bio: Hello my name is Ziane Maamar and I am a 27 year old self-taught Web and Graphics Designer. Road to #FullStack Developer #Pythoneer
 - GitHub: [DRXDESIGN](https://github.com/drxdesign)
+
+#### Name: [Ryan Papazoglou](https://github.com/RyanPapazoglou)
+- Place: New York, New York
+- Bio: Recent college grad entering the world as a tech analyst. 
+- GitHub: [Ryan Papazoglou](https://github.com/RyanPapazoglou)
