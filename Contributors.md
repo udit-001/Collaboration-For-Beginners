@@ -364,3 +364,8 @@
 - Place: Tipaza, Alegria
 - Bio: Hello my name is Ziane Maamar and I am a 27 year old self-taught Web and Graphics Designer. Road to #FullStack Developer #Pythoneer
 - GitHub: [DRXDESIGN](https://github.com/drxdesign)
+
+#### Name: [V Patil](https://github.com/vpatiltech)
+- Place: Pune, India 
+- Bio: IT Professional
+- Github: [V Patil](https://github.com/vpatiltech) 
