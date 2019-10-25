@@ -369,3 +369,8 @@
 - Place: Pune, India 
 - Bio: IT Professional
 - Github: [V Patil](https://github.com/vpatiltech) 
+
+### Name: [Deepak Singh](https://github.com/deepsingh9868)
+- Place: Gurugram, India
+- Bio: Student and beginner in web development.
+- Github: [Deepak Singh](https://github.com/deepsingh9868)
