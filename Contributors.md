@@ -374,3 +374,8 @@
 - Place: Pune, India 
 - Bio: IT Professional
 - Github: [V Patil](https://github.com/vpatiltech) 
+
+#### Name: [Namrata](https://github.com/2-95)
+- Place: Kanpur, India 
+- Bio:   Student
+- Github: [Namrata](https://github.com/vpatiltech) 
