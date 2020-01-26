@@ -374,3 +374,8 @@
 - Place: Pune, India 
 - Bio: IT Professional
 - Github: [V Patil](https://github.com/vpatiltech) 
+
+#### Name: [Jeffry Gunawan](https://github.com/jeffrywu28)
+- Place: Surabaya, Indonesia
+- Bio: Student
+- GitHub: [Jeffry Gunawan](https://github.com/jeffrywu28)
