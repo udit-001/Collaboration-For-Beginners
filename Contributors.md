@@ -374,3 +374,9 @@
 - Place: Pune, India 
 - Bio: IT Professional
 - Github: [V Patil](https://github.com/vpatiltech) 
+
+#### Name: [Ameny Touihri](https://github.com/Ameny98)
+- Place: Tunis, Tunisia
+- Bio: Junior Software Engineering Student
+- Github: [Ameny98](https://github.com/Ameny98) 
+
