@@ -6,11 +6,13 @@
 
 
 
-Learning to collaborate can be difficult for the first time contributors, and it may seem tedious to find open source projects to contribute to without adequate knowledge of programming. But fear not, this project is made especially to ease the process of contributing to an open source project for a newcomer. You can learn to contribute to open source projects by contributing to this project, and you wouldn't require any programming knowledge at all, to contribute to this.
+Learning to collaborate can be difficult for the first time contributors, and it may seem tedious to find open source projects to contribute to without adequate knowledge of programming. But fear not, this project is made especially to ease the process of contributing to an open source project for a newcomer.
 
 >Check out other awesome contributors of this project [here.](https://udit-001.github.io/Collaboration-For-Beginners/Contributors)
 
-Here are the steps to make contributions by making your first successful pull requests:
+## Contribution Guide
+
+Here are the steps to contribute to this project:
 
 1. Star this repository
 2. Fork this repository.
@@ -30,7 +32,7 @@ Replace the above git repo link with that of the fork you just created.
 
 4. Now before making changes to the files, let's take a different route than the usual tutorials you see on the internet, and let's try to do this in an efficient manner. 
 
-For that, first go to your terminal under the repo you just cloned, run:
+For that, first go to your terminal under the repo you just cloned, and type the following:
 
 ```git
 git checkout -b add-my-name
@@ -49,7 +51,7 @@ By running the above command, you just created a new branch called `add-my-name`
 
 6. Enter the following commands into your `terminal`:
 ```git
-git add .
+git add Contributors.md
 git commit -m "Added myself to Contributors.md"
 git push origin add-my-name
 ```
@@ -61,6 +63,45 @@ This will create a new commit with the changes you made in the `Contributors.md`
 ![Create a Pull Request](https://raw.githubusercontent.com/udit-001/Collaboration-For-Beginners/master/img/PR.jpg)
 
 7. Sit back and relax while your pull request is being reviewed and merged.
+
+## Cleanup Process
+After your pull request has been merged in the project, you can safely delete the branch called `add-my-name` you created above.
+
+You can do this by using the GitHub UI itself, just go the pull request you created and you will see something like this:
+
+![Delete Branch](/img/merged.png)
+
+Just click on delete branch, and you're done.
+
+## Syncing a Fork
+Now if you were to contribute to a project only once, the above instructions would work just fine. But if you were to contribute to a project on a regular basis, you would run across a very common issue, that is how to update your fork with the changes made in the original project. So let's begin with the process:
+
+1. First you will need to add a remote for the original project to the local repository of your fork present on your system. To do this, enter the following into your terminal:
+
+```
+git remote add upstream https://github.com/udit-001/Collaboration-For-Beginners.git
+```
+
+This just added a remote by the name `upstream` to the original project.
+
+
+2. If you've made any changes on your local repository, you will either need to commit them first or you can stash them. Then enter the following into your terminal:
+
+```
+git pull upstream master 
+```
+
+That's it, now your repository is up to date with the changes in the original project.
+
+3. Let's update the our fork on GitHub now, type the following into your terminal:
+
+```
+git push origin master
+```
+
+And now, your fork is also up-to-date.
+
+
 
 ## Reference Links
 
