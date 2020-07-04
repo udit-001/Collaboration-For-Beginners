@@ -26,7 +26,19 @@ Type the following command on Git bash console:
 git clone https://github.com/udit-001/Collaboration-For-Beginners.git
 ```
 
-4. Open `Contributors.md` and enter the details in the following format.
+Replace the above git repo link with that of the fork you just created.
+
+4. Now before making changes to the files, let's take a different route than the usual tutorials you see on the internet, and let's try to do this in an efficient manner. 
+
+For that, first go to your terminal under the repo you just cloned, run:
+
+```git
+git checkout -b add-my-name
+```
+
+By running the above command, you just created a new branch called `add-my-name` and checked it out, what this does is that it creates a new branch with the commit history of the master branch or the branch that you were on previously.
+
+5. Now open `Contributors.md` and enter the details in the following format.
 
 ```
 #### Name: [YOUR NAME](GitHub Link)
@@ -35,13 +47,16 @@ git clone https://github.com/udit-001/Collaboration-For-Beginners.git
 - GitHub: [Your Name](GitHub Link)
 ```
 
-5. Enter the following commands into your `git console`
+6. Enter the following commands into your `terminal`:
 ```git
 git add .
 git commit -m "Added myself to Contributors.md"
-git push origin master
+git push origin add-my-name
 ```
-6. Now creating a pull request and add the title as `"Added myself to Contributors.md"`
+
+This will create a new commit with the changes you made in the `Contributors.md` file. Then we pushed these updates on the `add-my-name` branch of your fork.
+
+7. Now create a pull request and add the title as `"Added myself to Contributors.md"`
 
 ![Create a Pull Request](https://raw.githubusercontent.com/udit-001/Collaboration-For-Beginners/master/img/PR.jpg)
 
