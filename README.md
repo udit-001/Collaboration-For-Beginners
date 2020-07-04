@@ -93,7 +93,7 @@ git pull upstream master
 
 That's it, now your repository is up to date with the changes in the original project.
 
-3. Let's update the our fork on GitHub now, type the following into your terminal:
+3. Let's update our fork on GitHub now, type the following into your terminal:
 
 ```
 git push origin master
