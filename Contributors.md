@@ -374,3 +374,9 @@
 - Place: Pune, India 
 - Bio: IT Professional
 - Github: [V Patil](https://github.com/vpatiltech) 
+
+#### Name: [Abhishek Patel](https://github.com/ABHI-PATEL1812)
+- Place: Rajkot, India
+- Bio: student
+- GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
+
