@@ -380,3 +380,7 @@
 - Bio: Junior Software Engineering Student
 - Github: [Ameny98](https://github.com/Ameny98) 
 
+#### Name: [Abhishek Patel](https://github.com/ABHI-PATEL1812)
+- Place: Rajkot, India
+- Bio: student
+- GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
