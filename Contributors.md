@@ -350,6 +350,11 @@
 - Bio: Student and a future JS developer
 - Github: [Cristian Silva](https://github.com/Cristuker)
 
+#### Name: [Tarannum Ara](https://github.com/giTan7 )
+- Place: Kolkata, India
+- Bio: a tech geek, data science learning enthusiast, a developer.
+- GitHub: [giTan7](https://github.com/giTan7)
+
 #### Name: [Harsh Singh Bais](https://github.com/harshsbais)
 - Place: Lucknow, India
 - Bio: Student
@@ -375,3 +380,12 @@
 - Bio: IT Professional
 - Github: [Dor34](https://github.com/Dor34)
 
+#### Name: [Ameny Touihri](https://github.com/Ameny98)
+- Place: Tunis, Tunisia
+- Bio: Junior Software Engineering Student
+- Github: [Ameny98](https://github.com/Ameny98) 
+
+#### Name: [Abhishek Patel](https://github.com/ABHI-PATEL1812)
+- Place: Rajkot, India
+- Bio: student
+- GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
