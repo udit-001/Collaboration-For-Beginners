@@ -375,6 +375,11 @@
 - Bio: IT Professional
 - Github: [V Patil](https://github.com/vpatiltech) 
 
+#### Name: [Dorian Grove](https://github.com/Dor34)
+- Place: Pennsylvania, USA
+- Bio: IT Professional
+- Github: [Dor34](https://github.com/Dor34)
+
 #### Name: [Ameny Touihri](https://github.com/Ameny98)
 - Place: Tunis, Tunisia
 - Bio: Junior Software Engineering Student
