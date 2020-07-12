@@ -375,8 +375,12 @@
 - Bio: IT Professional
 - Github: [V Patil](https://github.com/vpatiltech) 
 
+#### Name: [Ameny Touihri](https://github.com/Ameny98)
+- Place: Tunis, Tunisia
+- Bio: Junior Software Engineering Student
+- Github: [Ameny98](https://github.com/Ameny98) 
+
 #### Name: [Abhishek Patel](https://github.com/ABHI-PATEL1812)
 - Place: Rajkot, India
 - Bio: student
 - GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
-
