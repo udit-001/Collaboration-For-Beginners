@@ -389,3 +389,8 @@
 - Place: Rajkot, India
 - Bio: student
 - GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
+
+#### Name: [Olayiwola Ololade](https://github.com/lolyparty)
+- Place: Nigeria
+- Bio: Student
+- Github: [lolyparty](https://github.com/lolyparty)
