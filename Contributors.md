@@ -389,3 +389,8 @@
 - Place: Rajkot, India
 - Bio: student
 - GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
+
+#### Name: [Anisat Akinbani](https://github.com/Annysah)
+- Place: Lagos, Nigeria
+- Bio: Frontend Developer
+- GitHub: [Annysah](https://github.com/Annysah)
