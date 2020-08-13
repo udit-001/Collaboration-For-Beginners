@@ -389,3 +389,8 @@
 - Place: Rajkot, India
 - Bio: student
 - GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
+
+#### Name: [EntwicklerSherr](https://github.com/EntwicklerSherr)
+- Place: Harare, Zimbabwe
+- Bio: Data Scientist
+- GitHub: [AEntwicklerSherr](https://github.com/EntwicklerSherr)
