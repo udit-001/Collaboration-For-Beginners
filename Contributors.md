@@ -15,6 +15,12 @@
 - Bio: Programmer who loves watching Mr.Robot 🤖
 - GitHub: [udit-001](https://github.com/udit-001)
 
+#### Name: [Venkatesh](https://github.com/venkatesh1226)
+- Place: Hyderabad, India
+- Bio: Learner..
+- GitHub: [Venkatesh](https://github.com/venkatesh1226)
+
+
 ### Name: [Vanya Grover](https://github.com/VanyaGrover)
 - Place: Delhi, India
 - Bio: Budding Web Developer.
