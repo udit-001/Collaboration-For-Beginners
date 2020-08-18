@@ -389,3 +389,8 @@
 - Place: Rajkot, India
 - Bio: student
 - GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
+
+#### Name: [Joseph Chinedu](https://github.com/Josephchinedu)
+- Place: Lagos, Nigeria
+- Bio: Junior Frontend Developer
+- GitHub: [Joseph-Chinedu](https://github.com/Josephchinedu)
