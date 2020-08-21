@@ -1,5 +1,20 @@
 # Contributors
 
+#### Name: [Udit Mittal](https://github.com/udit-001)
+- Place: Delhi, India
+- Bio: Programmer who loves watching Mr.Robot 🤖
+- GitHub: [udit-001](https://github.com/udit-001)
+
+#### Name: [Tanseer Saji](https://github.com/tanseersaji)
+- Place: Delhi, India
+- Bio: A N00B
+- GitHub: [tanseersaji](https://github.com/tanseersaji)
+
+#### Name: [Alexander Bourne](https://github.com/alexander-bourne)
+- Place: City, Country
+- Bio: Who are you?
+- GitHub: [Alexander Bourne](https://github.com/alexander-bourne)
+
 #### Name: [Carline Durmus](https://github.com/bioprogram1316)
 - Place: Brooklyn, USA
 - Bio: ReactJS, NodeJS developer looking for remote full stack or front end development work.
@@ -9,11 +24,6 @@
 - Place: Pune , India
 - Bio: C++ , Python , Programmer , Love Anime.
 - GitHub: [PratikMandlecha](https://github.com/PratikMandlecha)
-
-#### Name: [Udit Mittal](https://github.com/udit-001)
-- Place: Delhi, India
-- Bio: Programmer who loves watching Mr.Robot 🤖
-- GitHub: [udit-001](https://github.com/udit-001)
 
 ### Name: [Vanya Grover](https://github.com/VanyaGrover)
 - Place: Delhi, India
@@ -44,6 +54,11 @@
 - Place: Sacramento, USA
 - Bio: Technology enthusiast and real life Iron Man!
 - GitHub: [gh0st](https://github.com/gh0st)
+
+#### Name: [Avinash gupta](https://github.com/avinash2201)
+- Place: Gujarat, India
+- Bio: Technology enthusiast and web developer.
+- GitHub: [avinash2201](https://github.com/avinash2201)
 
 #### Name: [David Fink](https://github.com/davidfinkdev)
 - Place: Cincinnati, United States
@@ -159,11 +174,6 @@
 - Place: Pune, India
 - Bio: Python Enthusiast
 - GitHub: [ShubhamBelwal](https://github.com/ShubhamBelwal)
-
-#### Name: [Tanseer Saji](https://github.com/tanseersaji)
-- Place: Delhi, India
-- Bio: A N00B
-- GitHub: [tanseersaji](https://github.com/tanseersaji)
 
 #### Name: [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - Place: Ghaziabad, India
@@ -325,6 +335,11 @@
 - Bio: Student
 - Github: [Aman Chande](https://github.com/amanchande)
 
+#### Name: [Revanth Reddy](https://github.com/revanth-reddy)
+- Place: Hyderabad, India
+- Bio: I am Computer Science Undergrad and a full stack web Dev
+- GitHub: [Revanth Reddy](https://github.com/revanth-reddy)
+
 #### Name: [Harsh Sharma](https://github.com/hs2361)
 - Place: Mumbai, India
 - Bio: Pythonista | Reader
@@ -339,3 +354,43 @@
 - Place: São Paulo, Brazil
 - Bio: Student and a future JS developer
 - Github: [Cristian Silva](https://github.com/Cristuker)
+
+#### Name: [Tarannum Ara](https://github.com/giTan7 )
+- Place: Kolkata, India
+- Bio: a tech geek, data science learning enthusiast, a developer.
+- GitHub: [giTan7](https://github.com/giTan7)
+
+#### Name: [Harsh Singh Bais](https://github.com/harshsbais)
+- Place: Lucknow, India
+- Bio: Student
+- Github: [Harsh Singh Bais](https://github.com/harshsbais)
+
+#### Name: [Yanshu Kishore](https://github.com/superyassh)
+- Place: Chandigarh, India
+- Bio: Student,Future Developer and Innovator.
+- GitHub: [Yanshu Kishore](https://github.com/superyassh)
+
+#### Name: [Ziane Maamar](https://github.com/drxdesign)
+- Place: Tipaza, Alegria
+- Bio: Hello my name is Ziane Maamar and I am a 27 year old self-taught Web and Graphics Designer. Road to #FullStack Developer #Pythoneer
+- GitHub: [DRXDESIGN](https://github.com/drxdesign)
+
+#### Name: [V Patil](https://github.com/vpatiltech)
+- Place: Pune, India 
+- Bio: IT Professional
+- Github: [V Patil](https://github.com/vpatiltech) 
+
+#### Name: [Dorian Grove](https://github.com/Dor34)
+- Place: Pennsylvania, USA
+- Bio: IT Professional
+- Github: [Dor34](https://github.com/Dor34)
+
+#### Name: [Ameny Touihri](https://github.com/Ameny98)
+- Place: Tunis, Tunisia
+- Bio: Junior Software Engineering Student
+- Github: [Ameny98](https://github.com/Ameny98) 
+
+#### Name: [Abhishek Patel](https://github.com/ABHI-PATEL1812)
+- Place: Rajkot, India
+- Bio: student
+- GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
