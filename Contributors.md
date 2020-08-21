@@ -400,6 +400,11 @@
 - Bio: student
 - GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
 
+#### Name: [Olayiwola Ololade](https://github.com/lolyparty)
+- Place: Nigeria
+- Bio: Student
+- Github: [lolyparty](https://github.com/lolyparty)
+
 #### Name: [Anisat Akinbani](https://github.com/Annysah)
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
