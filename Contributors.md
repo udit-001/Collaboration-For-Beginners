@@ -380,6 +380,11 @@
 - Bio: IT Professional
 - Github: [V Patil](https://github.com/vpatiltech) 
 
+#### Name: [Tyler Hueter](https://github.com/ethueter)
+- Place: Charleston, SC USA 
+- Bio:  Transitioning from small business owner to software dev
+- Github: [Tyler Hueter](https://github.com/ethueter) 
+
 #### Name: [Dorian Grove](https://github.com/Dor34)
 - Place: Pennsylvania, USA
 - Bio: IT Professional
