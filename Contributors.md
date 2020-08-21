@@ -25,6 +25,12 @@
 - Bio: C++ , Python , Programmer , Love Anime.
 - GitHub: [PratikMandlecha](https://github.com/PratikMandlecha)
 
+#### Name: [Venkatesh](https://github.com/venkatesh1226)
+- Place: Hyderabad, India
+- Bio: Learner..
+- GitHub: [Venkatesh](https://github.com/venkatesh1226)
+
+
 ### Name: [Vanya Grover](https://github.com/VanyaGrover)
 - Place: Delhi, India
 - Bio: Budding Web Developer.
