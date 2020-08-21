@@ -1,5 +1,15 @@
 # Contributors
 
+#### Name: [Udit Mittal](https://github.com/udit-001)
+- Place: Delhi, India
+- Bio: Programmer who loves watching Mr.Robot 🤖
+- GitHub: [udit-001](https://github.com/udit-001)
+
+#### Name: [Tanseer Saji](https://github.com/tanseersaji)
+- Place: Delhi, India
+- Bio: A N00B
+- GitHub: [tanseersaji](https://github.com/tanseersaji)
+
 #### Name: [Alexander Bourne](https://github.com/alexander-bourne)
 - Place: City, Country
 - Bio: Who are you?
@@ -10,10 +20,10 @@
 - Bio: ReactJS, NodeJS developer looking for remote full stack or front end development work.
 - GitHub: [bioprogram1316](https://github.com/bioprogram1316)
 
-#### Name: [Udit Mittal](https://github.com/udit-001)
-- Place: Delhi, India
-- Bio: Programmer who loves watching Mr.Robot 🤖
-- GitHub: [udit-001](https://github.com/udit-001)
+#### Name: [Pratik Mandlecha](https://github.com/PratikMandlecha)
+- Place: Pune , India
+- Bio: C++ , Python , Programmer , Love Anime.
+- GitHub: [PratikMandlecha](https://github.com/PratikMandlecha)
 
 ### Name: [Vanya Grover](https://github.com/VanyaGrover)
 - Place: Delhi, India
@@ -164,11 +174,6 @@
 - Place: Pune, India
 - Bio: Python Enthusiast
 - GitHub: [ShubhamBelwal](https://github.com/ShubhamBelwal)
-
-#### Name: [Tanseer Saji](https://github.com/tanseersaji)
-- Place: Delhi, India
-- Bio: A N00B
-- GitHub: [tanseersaji](https://github.com/tanseersaji)
 
 #### Name: [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - Place: Ghaziabad, India
@@ -375,6 +380,11 @@
 - Bio: IT Professional
 - Github: [V Patil](https://github.com/vpatiltech) 
 
+#### Name: [Tyler Hueter](https://github.com/ethueter)
+- Place: Charleston, SC USA 
+- Bio:  Transitioning from small business owner to software dev
+- Github: [Tyler Hueter](https://github.com/ethueter) 
+
 #### Name: [Dorian Grove](https://github.com/Dor34)
 - Place: Pennsylvania, USA
 - Bio: IT Professional
@@ -394,3 +404,13 @@
 - Place: Harare, Zimbabwe
 - Bio: Data Scientist
 - GitHub: [AEntwicklerSherr](https://github.com/EntwicklerSherr)
+
+#### Name: [Olayiwola Ololade](https://github.com/lolyparty)
+- Place: Nigeria
+- Bio: Student
+- Github: [lolyparty](https://github.com/lolyparty)
+
+#### Name: [Anisat Akinbani](https://github.com/Annysah)
+- Place: Lagos, Nigeria
+- Bio: Frontend Developer
+- GitHub: [Annysah](https://github.com/Annysah)
