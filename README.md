@@ -1,8 +1,9 @@
 # Collaboration Guide for Beginners
 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 [![HitCount](http://hits.dwyl.io/udit-001/Collaboration-For-Beginners.svg)](http://hits.dwyl.io/udit-001/Collaboration-For-Beginners)
+[![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy+me+a+coffee)](https://www.buymeacoffee.com/idiomprog)
 
 
 
