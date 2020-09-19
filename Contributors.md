@@ -420,3 +420,8 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+#### Name: [Alice Refla](https://github.com/a-rfl)
+- Place: Brussels, Belgium
+- Bio: Teacher in reconversion to Frontend developer
+- GitHub: [a-rfl](https://github.com/a-rfl)
