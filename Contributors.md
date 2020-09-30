@@ -420,3 +420,8 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+#### Name: [Shekhar Parmar](https://github.com/sentinelprime619)
+- Place: Jaipur, India
+- Bio: Student
+- GitHub: [Annysah](https://github.com/sentinelprime619)
