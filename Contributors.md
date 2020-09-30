@@ -420,3 +420,8 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+#### Name: [Bhupendra Soni](https://github.com/bhnpat)
+- Place: Bhopal, Madhya Pradesh
+- Bio: Student
+- GitHub: [bhnpat](https://github.com/bhnpat)
