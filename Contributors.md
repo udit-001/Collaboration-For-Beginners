@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Waqar Ali Siyal](https://github.com/siraiwaqarali)
+- Place: Karachi, Pakistan
+- Bio: Microsoft Student Ambassador | B.E Software Engineering Student at Mehran Uet, Jamshoro | Mobile App Developer
+- GitHub: [siraiwaqarali](https://github.com/siraiwaqarali)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
