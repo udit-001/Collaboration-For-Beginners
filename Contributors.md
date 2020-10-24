@@ -423,5 +423,5 @@
 
 #### Name: [LokeshR](https://github.com/lokeshrajgadkar)
 - Place: Mumbai, India
-- Bio: student
+- Bio:student
 - GitHub: [LokeshR](https://github.com/lokeshrajgadkar)
