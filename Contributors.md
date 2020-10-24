@@ -420,3 +420,8 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+#### Name: [LokeshR](https://github.com/lokeshrajgadkar)
+- Place: Mumbai, India
+- Bio: student
+- GitHub: [LokeshR](https://github.com/lokeshrajgadkar)
