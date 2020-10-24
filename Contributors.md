@@ -420,3 +420,8 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+#### Name: [Qaasim Muhammad A](https://github.com/Quwaysim)
+- Place: Ilorin, Nigeria
+- Bio: Android Developer
+- GitHub: [Quwaysim](https://github.com/Quwaysim)
