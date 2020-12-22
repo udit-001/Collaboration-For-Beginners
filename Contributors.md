@@ -420,3 +420,8 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+#### Name: [Ademola Ogunmokun](https://github.com/Ademola101)
+- Place: Ibadan, Nigeria
+- Bio: Web Developer
+- Github:[Ademola101](https://github.com/Ademola101)
