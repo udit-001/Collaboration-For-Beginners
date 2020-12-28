@@ -1,5 +1,11 @@
 # Contributors
 
+#### Name: [Yashasvi](https://github.com/kmryashasvi)
+- Place: Siwan, India
+- Bio: 1st year graduation student
+- GitHub: [Yashasvi](https://github.com/kmryashasvi)
+
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
