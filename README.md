@@ -118,6 +118,3 @@ And now, your fork is also up-to-date.
 
 ## How To Choose a License
 GitHub License Explained : [https://choosealicense.com](https://choosealicense.com)
-
-## Christina Forked This Project
-Christina is contributing to this open source project.
