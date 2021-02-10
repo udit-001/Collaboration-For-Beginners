@@ -420,3 +420,8 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+#### Name: [Christina Loiacono](https://github.com/christina-ml)
+- Place: New York, USA
+- Bio: Computer Programer in HTML, CSS, Python, and JavaScript
+- GitHub: [Christina L](https://github.com/christina-ml)
