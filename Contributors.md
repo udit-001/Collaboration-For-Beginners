@@ -279,12 +279,12 @@
 #### Name: [Shashi Jangra](https://github.com/shashijangra22)
 - Place: Hyderabad, India
 - Bio: Competitive Programmer
-- GitHub: [Shashi Jangra](https://github.com/shashijangra22) 
+- GitHub: [Shashi Jangra](https://github.com/shashijangra22)
 
 #### Name: [Alejandro Villanueva](https://github.com/Alejandro-Villa)
 - Place: Granada, Spain
 - Bio: An IT and Maths student lover of libre software and looking for interesting projects!
-- GitHub: [Alejandro-Villa](https://github.com/Alejandro-Villa) 
+- GitHub: [Alejandro-Villa](https://github.com/Alejandro-Villa)
 
 #### Name: [David Barrera](https://github.com/dbarrerap)
 - Place: Guayaquil, Ecuador
@@ -312,7 +312,7 @@
 - GitHub: [Jeethendra Balaji](https://github.com/JeeBoomBoi)
 
 #### Name: [Hari Om](https://github.com/BuzzHari)
-- Place: Bangalore, India 
+- Place: Bangalore, India
 - Bio: Just a guy on the internet.
 - GitHub: [Hari Om](https://github.com/BuzzHari)
 
@@ -382,14 +382,14 @@
 - GitHub: [DRXDESIGN](https://github.com/drxdesign)
 
 #### Name: [V Patil](https://github.com/vpatiltech)
-- Place: Pune, India 
+- Place: Pune, India
 - Bio: IT Professional
-- Github: [V Patil](https://github.com/vpatiltech) 
+- Github: [V Patil](https://github.com/vpatiltech)
 
 #### Name: [Tyler Hueter](https://github.com/ethueter)
-- Place: Charleston, SC USA 
+- Place: Charleston, SC USA
 - Bio:  Transitioning from small business owner to software dev
-- Github: [Tyler Hueter](https://github.com/ethueter) 
+- Github: [Tyler Hueter](https://github.com/ethueter)
 
 #### Name: [Dorian Grove](https://github.com/Dor34)
 - Place: Pennsylvania, USA
@@ -399,7 +399,7 @@
 #### Name: [Ameny Touihri](https://github.com/Ameny98)
 - Place: Tunis, Tunisia
 - Bio: Junior Software Engineering Student
-- Github: [Ameny98](https://github.com/Ameny98) 
+- Github: [Ameny98](https://github.com/Ameny98)
 
 #### Name: [Abhishek Patel](https://github.com/ABHI-PATEL1812)
 - Place: Rajkot, India
@@ -420,3 +420,8 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+#### Name: [Marie] (https://github.com/marierutwentyfour)
+- Place: USA
+- Bio: Person
+- Github: [marierutwentyfour](https://github.com/marierutwentyfour)
