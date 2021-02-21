@@ -7,7 +7,7 @@
 
 
 
-Learning to collaborate can be difficult for the first time contributors, and it may seem tedious to find open source projects to contribute to without adequate knowledge of programming. But fear not, this project is made especially to ease the process of contributing to an open source project for a newcomer.
+Learning to collaborate can be difficult for the first time for  contributors, and it may seem tedious to find open source projects to contribute to without adequate knowledge of programming. But fear not, this project is made especially to ease the process of contributing to an open source project for a newcomer.
 
 >Check out other awesome contributors of this project [here.](https://udit-001.github.io/Collaboration-For-Beginners/Contributors)
 
@@ -118,3 +118,5 @@ And now, your fork is also up-to-date.
 
 ## How To Choose a License
 GitHub License Explained : [https://choosealicense.com](https://choosealicense.com)
+
+Happy Coding :)
