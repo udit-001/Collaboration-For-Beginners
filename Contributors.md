@@ -420,3 +420,9 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+#### Name: [Michelle Zelechoski] (https://github.com/mzrithm)
+- Place: Seattle, USA
+- Bio: CS Student
+- GitHub: [mzrithm] (https://github.com/mzrithm)
+
