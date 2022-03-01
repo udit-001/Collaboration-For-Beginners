@@ -1,4 +1,8 @@
 # Contributors
+#### Name: [Darío Monge Arce](https://github.com/100dario)
+- Place: San José, Costa Rica
+- Bio: Coding learner
+- GitHub: [Darío Monge Arce](https://github.com/100dario)
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
