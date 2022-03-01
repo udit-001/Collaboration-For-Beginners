@@ -424,3 +424,8 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+##### Name: [Margarida Melo](https://github.com/1181092)
+- Place: Porto, Portugal
+- Bio: Student
+- GitHub: [1181092](https://github.com/1181092)
