@@ -429,3 +429,8 @@
 - Place: Porto, Portugal
 - Bio: Student
 - GitHub: [1181092](https://github.com/1181092)
+
+##### Name: [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
+- Place: Ethiopia
+- Bio: Student at KAIST, South Korea
+- GitHub: [Kaleb](https://github.com/kalebmes)
