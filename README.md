@@ -92,6 +92,12 @@ This just added a remote by the name `upstream` to the original project.
 git pull upstream master 
 ```
 
+incase git shows you an error, you can allow it to merge unrelated histories
+
+```
+git pull upstream master --allow-unrelated-histories
+```
+
 That's it, now your repository is up to date with the changes in the original project.
 
 3. Let's update our fork on GitHub now, type the following into your terminal:
