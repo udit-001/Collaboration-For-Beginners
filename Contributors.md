@@ -429,3 +429,8 @@
 - Place: Porto, Portugal
 - Bio: Student
 - GitHub: [1181092](https://github.com/1181092)
+
+#### Name: [Lanisha Anusri](https://github.com/Lani-Skyy)
+- Place: Selangor, Malaysia
+- Bio: Student
+- GitHub: [Lani-Skyy](https://github.com/Lani-Skyy)
