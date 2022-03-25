@@ -429,3 +429,8 @@
 - Place: Porto, Portugal
 - Bio: Student
 - GitHub: [1181092](https://github.com/1181092)
+
+##### Name: [Meghana R](https://github.com/tortsBsus)
+- Place: Bengaluru, India
+- Bio: Student
+- GitHub: [Meghana](https://github.com/tortsBsus)
