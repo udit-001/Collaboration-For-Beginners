@@ -1,4 +1,8 @@
 # Contributors
+#### Name: [Darío Monge Arce](https://github.com/100dario)
+- Place: San José, Costa Rica
+- Bio: Coding learner
+- GitHub: [Darío Monge Arce](https://github.com/100dario)
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
@@ -426,3 +430,17 @@
 - Bio: CS Student
 - GitHub: [mzrithm] (https://github.com/mzrithm)
 
+##### Name: [Margarida Melo](https://github.com/1181092)
+- Place: Porto, Portugal
+- Bio: Student
+- GitHub: [1181092](https://github.com/1181092)
+
+##### Name: [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
+- Place: Ethiopia
+- Bio: Student at KAIST, South Korea
+- GitHub: [Kaleb](https://github.com/kalebmes)
+
+##### Name: [Meghana R](https://github.com/tortsBsus)
+- Place: Bengaluru, India
+- Bio: Student
+- GitHub: [Meghana](https://github.com/tortsBsus)
