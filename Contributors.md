@@ -425,6 +425,11 @@
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
 
+#### Name: [Michelle Zelechoski] (https://github.com/mzrithm)
+- Place: Seattle, USA
+- Bio: CS Student
+- GitHub: [mzrithm] (https://github.com/mzrithm)
+
 ##### Name: [Margarida Melo](https://github.com/1181092)
 - Place: Porto, Portugal
 - Bio: Student
