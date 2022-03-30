@@ -434,3 +434,8 @@
 - Place: Ethiopia
 - Bio: Student at KAIST, South Korea
 - GitHub: [Kaleb](https://github.com/kalebmes)
+
+##### Name: [Meghana R](https://github.com/tortsBsus)
+- Place: Bengaluru, India
+- Bio: Student
+- GitHub: [Meghana](https://github.com/tortsBsus)
