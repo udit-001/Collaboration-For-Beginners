@@ -1,4 +1,10 @@
 # Contributors
+
+#### Name: [Andrew Landry](https://github.com/Landycodes)
+- Place: city, country
+- Bio: anime enthusiast, beginner programmer
+- GitHub: [Landycodes](https://github.com/Landycodes)
+
 #### Name: [Darío Monge Arce](https://github.com/100dario)
 - Place: San José, Costa Rica
 - Bio: Coding learner
