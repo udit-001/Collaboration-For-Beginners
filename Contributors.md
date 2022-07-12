@@ -444,3 +444,9 @@
 - Place: Bengaluru, India
 - Bio: Student
 - GitHub: [Meghana](https://github.com/tortsBsus)
+
+
+#### Name: [Amandeep Singh](https://github.com/Amandeep404)
+- Place: Kolkata, India
+- Bio: CS Student
+- GitHub: [Amandeep Singh](https://github.com/Amandeep404)
