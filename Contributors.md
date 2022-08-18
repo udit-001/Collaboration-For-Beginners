@@ -1,4 +1,10 @@
 # Contributors
+
+#### Name: [Rachel Dooley](https://github.com/Rae1821)
+- Place: Chattanooga, TN
+- Bio: Budding web developer
+- Github: [Rachel Dooley](https://github.com/Rae1821)
+
 #### Name: [Darío Monge Arce](https://github.com/100dario)
 - Place: San José, Costa Rica
 - Bio: Coding learner
