@@ -4,6 +4,12 @@
 - Bio: Coding learner
 - GitHub: [Darío Monge Arce](https://github.com/100dario)
 
+
+#### Name: [Addy]
+- Place: Nashik, India
+- Bio: Open source heck
+- GitHub: sry
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
