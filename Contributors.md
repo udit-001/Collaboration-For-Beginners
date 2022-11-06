@@ -444,3 +444,9 @@
 - Place: Bengaluru, India
 - Bio: Student
 - GitHub: [Meghana](https://github.com/tortsBsus)
+
+#### Name: [Odell](https://github.com/itsOdell)
+- Place: Chicago, U.S.A
+- Bio: 10x developer
+- Github: [Odell](https://github.com/itsOdell)
+)
