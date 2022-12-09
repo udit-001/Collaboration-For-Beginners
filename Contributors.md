@@ -34,7 +34,6 @@
 - Bio: Learner..
 - GitHub: [Venkatesh](https://github.com/venkatesh1226)
 
-
 ### Name: [Vanya Grover](https://github.com/VanyaGrover)
 - Place: Delhi, India
 - Bio: Budding Web Developer.
@@ -444,3 +443,8 @@
 - Place: Bengaluru, India
 - Bio: Student
 - GitHub: [Meghana](https://github.com/tortsBsus)
+
+#### Name: [The Son Ngo](https://github.com/Ngoson2004)
+- Place: Melbourne, Australia
+- Bio: Student
+- GitHub: [The Son Ngo](https://github.com/Ngoson2004)
