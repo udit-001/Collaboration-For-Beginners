@@ -449,6 +449,6 @@
 
 #### Name: [Bram Leisink](https://github.com/BramLeisink)
 - Place: Nijmegen, Nederland
-- Bio: Just some magic guy
+- Bio: Student
 - GitHub: [Bram Leisink](https://github.com/BramLeisink)
 
