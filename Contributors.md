@@ -1,4 +1,10 @@
 # Contributors
+
+#### Name: [Rachel Dooley](https://github.com/Rae1821)
+- Place: Chattanooga, TN
+- Bio: Budding web developer
+- Github: [Rachel Dooley](https://github.com/Rae1821)
+
 #### Name: [Darío Monge Arce](https://github.com/100dario)
 - Place: San José, Costa Rica
 - Bio: Coding learner
@@ -44,6 +50,11 @@
 - Place: India
 - Bio: Application Developer
 - GitHub: [YuganshT79](https://github.com/YuganshT79)
+
+#### Name: [Bestin K Benny](https://github.com/bestin015)
+- Place: India
+- Bio: Tech innovator
+- GitHub: [YuganshT79](https://github.com/bestin015)
 
 #### Name: [Shivansh Narayan](https://github.com/narayanshivansh49)
 - Place: India
@@ -450,3 +461,8 @@
 - Bio: 10x developer
 - Github: [Odell](https://github.com/itsOdell)
 )
+
+##### Name: [Marcos S](https://github.com/msastre73)
+- Place: Buenos Aires, Argentina
+- Bio: Student
+- GitHub: [Marcos S](https://github.com/msastre73)
