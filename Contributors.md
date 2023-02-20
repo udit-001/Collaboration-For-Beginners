@@ -466,3 +466,8 @@
 - Place: Buenos Aires, Argentina
 - Bio: Student
 - GitHub: [Marcos S](https://github.com/msastre73)
+
+#### Name: [Ken I](https://github.com/Rouvx)
+- Place: St. Louis, USA
+- Bio: Student
+- GitHub: [Ken I](https://github.com/Rouvx)
