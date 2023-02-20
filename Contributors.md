@@ -460,7 +460,11 @@
 - Place: Chicago, U.S.A
 - Bio: 10x developer
 - Github: [Odell](https://github.com/itsOdell)
-)
+
+##### Name: [Jose J Lopez](https://github.com/Jos3Lpz)
+- Place: Miami, Florida
+- Bio: Soft Developer
+- GitHub: [Jose J Lopez](https://github.com/Jos3Lpz)
 
 ##### Name: [Marcos S](https://github.com/msastre73)
 - Place: Buenos Aires, Argentina
