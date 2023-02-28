@@ -466,3 +466,8 @@
 - Place: Buenos Aires, Argentina
 - Bio: Student
 - GitHub: [Marcos S](https://github.com/msastre73)
+
+#### Name: [HADJI KHALIL](https://github.com/H-ADJI)
+- Place: Safi, Morocco
+- Bio: Software Engineer
+- GitHub: [HADJI KHALIL](https://github.com/H-ADJI)
