@@ -470,4 +470,4 @@
 #### Name: [HADJI KHALIL](https://github.com/H-ADJI)
 - Place: Safi, Morocco
 - Bio: Software Engineer
-- GitHub: [HADJI KHALIL](https://github.com/H-ADJI)
+- GitHub: [H-ADJI](https://github.com/H-ADJI)
