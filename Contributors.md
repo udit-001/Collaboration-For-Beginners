@@ -460,9 +460,15 @@
 - Place: Chicago, U.S.A
 - Bio: 10x developer
 - Github: [Odell](https://github.com/itsOdell)
-)
+
 
 ##### Name: [Marcos S](https://github.com/msastre73)
 - Place: Buenos Aires, Argentina
 - Bio: Student
 - GitHub: [Marcos S](https://github.com/msastre73)
+
+
+#### Name: [Kella O](https://github.com/Kell1000/)
+- Place: TINGHIR, MOROCCO
+- Bio: Data Scientist
+- GitHub: [Kella O](https://github.com/Kell1000/)
