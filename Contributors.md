@@ -471,3 +471,8 @@
 - Place: Mars
 - Bio: Alien
 - GitHub: [ARCA-KO](https://github.com/arca-ko)
+
+#### Name: [Nolanogenn](https://github.com/Nolanogenn)
+- Place: Napoli, Italy
+- Bio: Factotum
+- GitHub: [Nolanogenn](https://github.com/Nolanogenn)
