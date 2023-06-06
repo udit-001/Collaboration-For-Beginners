@@ -474,5 +474,5 @@
 
 #### Name: [Anushka Chaubal](https://github.com/AFA22SCM68C)
 - Place: Chicago, USA
--Bio: Student
--GitHub: [AFA22SCM68C](https://github.com/AFA22SCM68C)
+- Bio: Student
+- GitHub: [AFA22SCM68C](https://github.com/AFA22SCM68C)
