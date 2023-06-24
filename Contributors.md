@@ -471,3 +471,8 @@
 - Place: Mars
 - Bio: Alien
 - GitHub: [ARCA-KO](https://github.com/arca-ko)
+#### Name: [Jonathan Nyquist](https://github.com/Jonathan-Nyquist)
+- Place: Philadelphia, USA
+- Bio: Professor
+- GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
+
