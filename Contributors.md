@@ -476,3 +476,8 @@
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
 
+#### Name: [EspressoCat](https://github.com/EspressoCat)
+- Place: Vienna, AT
+- Bio: Student
+- GitHub: [EspressoCat](https://github.com/EspressoCat)
+
