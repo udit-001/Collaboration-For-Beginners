@@ -476,3 +476,8 @@
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
 
+#### Name: [ARS](https://github.com/ars-4)
+- Place: Lahore, Pakistan
+- Bio: Student
+- GitHub: [ARS-4](https://github.com/ars-4)
+
