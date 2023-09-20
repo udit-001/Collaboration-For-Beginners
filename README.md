@@ -44,9 +44,9 @@ By running the above command, you just created a new branch called `add-my-name`
 5. Now open `Contributors.md` and enter the details in the following format.
 
 ```
-#### Name: [YOUR NAME](GitHub Link)
-- Place: City, Country
-- Bio: Who are you?
+#### Name: [Anthony](anthonyguera551@gmail.com)
+- Place: Cuba,Santiago
+- Bio: Student
 - GitHub: [Your Name](GitHub Link)
 ```
 
