@@ -1,4 +1,8 @@
 # Contributors
+### Name: [Cristian Marty](https://github.com/cmarty02)
+- Place: Valencia, ES
+- Bio: Data Analyst
+- Github: [Cristian Marty](https://github.com/cmarty02)
 
 #### Name: [Rachel Dooley](https://github.com/Rae1821)
 - Place: Chattanooga, TN
