@@ -1,4 +1,9 @@
 # Contributors
+#### Name: [Rafa Pérez](https://github.com/rafap21)
+- Place: Valencia, Spain
+- Bio: Data Analyst
+- Github: [Rafael Pérez](https://github.com/rafap21)
+
 
 #### Name: [Rachel Dooley](https://github.com/Rae1821)
 - Place: Chattanooga, TN
