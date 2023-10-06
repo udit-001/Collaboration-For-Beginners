@@ -475,4 +475,7 @@
 - Place: Philadelphia, USA
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
-
+#### Name: [Stanislav Korotchenko](https://github.com/StasKorotchenko)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Stanislav Korotchenko](https://github.com/StasKorotchenko)
