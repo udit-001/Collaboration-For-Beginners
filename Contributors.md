@@ -476,3 +476,8 @@
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
 
+#### Name: [Jackeline Romero](https://github.com/Jonathan-Nyquist)
+- Place: Valencia, SPAIN
+- Bio: Student
+- GitHub: [Jackelinerxm](https://github.com/Jackelinerxm)
+
