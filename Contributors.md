@@ -1,4 +1,6 @@
 # Contributors
+Alberto de Gea Pla
+
 
 #### Name: [Rachel Dooley](https://github.com/Rae1821)
 - Place: Chattanooga, TN
