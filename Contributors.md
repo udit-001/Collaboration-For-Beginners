@@ -478,5 +478,5 @@
 
 #### Name: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
 - Place: Valencia, España
-- Bio: Tortuga Ninja
+- Bio: Tortuga Ninja.
 - GitHub: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
