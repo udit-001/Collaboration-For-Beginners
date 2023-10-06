@@ -475,4 +475,7 @@
 - Place: Philadelphia, USA
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
-
+#### Name: [Juan Cornejo]
+- Place: Valencia, ESP EU
+- Bio: Alien
+- GitHub: [Juancl90](https://github.com/juancl90)
