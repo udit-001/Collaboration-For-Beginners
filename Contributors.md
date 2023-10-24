@@ -475,4 +475,9 @@
 - Place: Philadelphia, USA
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
+- 
+#### Name: [Eloy Martínez](https://github.com/emartgo)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Eloy-Martínez](https://github.com/emartgo)
 
