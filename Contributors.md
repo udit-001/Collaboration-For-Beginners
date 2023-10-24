@@ -475,9 +475,19 @@
 - Place: Philadelphia, USA
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
+- 
+#### Name: [Eloy Martínez](https://github.com/emartgo)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Eloy-Martínez](https://github.com/emartgo)
 
 #### Name: [Jose Aguilar](https://github.com/pepe54aguilar)
 - Place: Alicante, Spain
 - Bio: Student
 - GitHub: [Jose Aguilar](https://github.com/pepe54aguilar)
 
+
+#### Carlos [Carlos Ferrer](https://github.com/carlosferrersanchez)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [carlosferrersanchez] (https://github.com/carlosferrersanchez)
