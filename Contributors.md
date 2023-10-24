@@ -1,5 +1,11 @@
 # Contributors
 
+#### Name: [Udit Mittal](https://github.com/udit-001)
+- Place: Delhi, India
+- Bio: Programmer who loves watching Mr.Robot 🤖
+- GitHub: [udit-001](https://github.com/udit-001)
+
+
 #### Name: [Rachel Dooley](https://github.com/Rae1821)
 - Place: Chattanooga, TN
 - Bio: Budding web developer
@@ -9,11 +15,6 @@
 - Place: San José, Costa Rica
 - Bio: Coding learner
 - GitHub: [Darío Monge Arce](https://github.com/100dario)
-
-#### Name: [Udit Mittal](https://github.com/udit-001)
-- Place: Delhi, India
-- Bio: Programmer who loves watching Mr.Robot 🤖
-- GitHub: [udit-001](https://github.com/udit-001)
 
 #### Name: [Tanseer Saji](https://github.com/tanseersaji)
 - Place: Delhi, India
@@ -436,10 +437,10 @@
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
 
-#### Name: [Michelle Zelechoski] (https://github.com/mzrithm)
+#### Name: [Michelle Zelechoski](https://github.com/mzrithm)
 - Place: Seattle, USA
 - Bio: CS Student
-- GitHub: [mzrithm] (https://github.com/mzrithm)
+- GitHub: [mzrithm](https://github.com/mzrithm)
 
 ##### Name: [Margarida Melo](https://github.com/1181092)
 - Place: Porto, Portugal
@@ -501,4 +502,4 @@
 #### Carlos [Carlos Ferrer](https://github.com/carlosferrersanchez)
 - Place: Valencia, Spain
 - Bio: Student
-- Github: [carlosferrersanchez] (https://github.com/carlosferrersanchez)
+- Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
