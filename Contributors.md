@@ -503,3 +503,8 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
+
+#### Hugo [Hugo Maria](https://github.com/hugofmr)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [hugomaria](https://github.com/hugofmr)
