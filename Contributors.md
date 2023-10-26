@@ -503,3 +503,8 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
+
+#### Name: [Julián Merino]([GitHub Link](https://github.com/jumepre))
+- Place: Valencia, Spain
+- Bio: Student, Engineer, Runner, Biker 
+- GitHub: [jumepre]([GitHub Link](https://github.com/jumepre))
