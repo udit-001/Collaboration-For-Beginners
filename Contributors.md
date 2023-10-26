@@ -503,3 +503,8 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
+
+#### Name: [Luis Segura](https://github.com/Luseca)
+- Place: Alacuás, España
+- Bio: Student
+- Github: [Luseca](https://github.com/Luseca)
