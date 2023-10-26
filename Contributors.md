@@ -503,3 +503,9 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
+
+
+#### Name: [Jorge Domínguez](https://github.com/jorgedom5)
+- Place: Valencia, Spain
+- Bio: Citizen of the world🌎
+- GitHub: [Jorge Dominguez](https://github.com/jorgedom5)
