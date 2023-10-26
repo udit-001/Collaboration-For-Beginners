@@ -5,6 +5,10 @@
 - Bio: Programmer who loves watching Mr.Robot 🤖
 - GitHub: [udit-001](https://github.com/udit-001)
 
+#### Pau: [Pau Garcia](https://github.com/Paugb124)
+- Place: Gandia, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Paugb124](https://github.com/Paugb124)
 
 #### Name: [Rachel Dooley](https://github.com/Rae1821)
 - Place: Chattanooga, TN
