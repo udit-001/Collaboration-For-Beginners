@@ -503,3 +503,9 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
+
+#### Josan Rc [Josan Rodrigo Cortés](https://github.com/Josanrc)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [Josanrc](https://github.com/Josanrc)
+
