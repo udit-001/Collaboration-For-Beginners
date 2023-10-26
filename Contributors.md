@@ -505,6 +505,6 @@
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
 
 #### Name: [Luis Segura](https://github.com/Luseca)
-- Place: Alacuás, España
+- Place: Alacuás, Spain
 - Bio: Student
 - Github: [Luseca](https://github.com/Luseca)
