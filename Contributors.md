@@ -503,3 +503,8 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
+
+#### Andres: [Andres Roncancio](GitHub Link)
+- Place: Valencia, Espana
+- Bio: Student
+- GitHub: [Gandrex87](https://github.com/Gandrex87)
