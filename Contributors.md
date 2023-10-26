@@ -503,3 +503,7 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
+### Diego [Diego Pitarch](https://github.com/DiegoPF77)
+-Place: Valencia
+-Bio: Student
+-Github: [Diego Pitarch](https://github.com/DiegoPF77)
