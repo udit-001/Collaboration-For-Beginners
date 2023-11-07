@@ -503,3 +503,9 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
+
+
+#### Name: [Jorge Alberto Lorenzo](https://github.com/jlorenz2)
+- Place: Madriod, Spain
+- Bio: Consultant
+- Github: [jlorenz2](https://github.com/jlorenz2)
