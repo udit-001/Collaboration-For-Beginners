@@ -506,6 +506,6 @@
 
 
 #### Name: [Jorge Alberto Lorenzo](https://github.com/jlorenz2)
-- Place: Madriod, Spain
+- Place: Madrid, Spain
 - Bio: Consultant
 - Github: [jlorenz2](https://github.com/jlorenz2)
