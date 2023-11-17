@@ -461,7 +461,6 @@
 - Place: Chicago, U.S.A
 - Bio: 10x developer
 - Github: [Odell](https://github.com/itsOdell)
-)
 
 ##### Name: [Marcos S](https://github.com/msastre73)
 - Place: Buenos Aires, Argentina
@@ -498,7 +497,6 @@
 - Bio: Student
 - GitHub: [Jose Aguilar](https://github.com/pepe54aguilar)
 
-
 #### Carlos [Carlos Ferrer](https://github.com/carlosferrersanchez)
 - Place: Valencia, Spain
 - Bio: Student
@@ -508,3 +506,18 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [Antonio Faura](https://github.com/tonifaura)
+
+### Diego [Diego Pitarch](https://github.com/DiegoPF77)
+-Place: Valencia
+-Bio: Student
+-Github: [Diego Pitarch](https://github.com/DiegoPF77)
+
+#### Name: [Luis Segura](https://github.com/Luseca)
+- Place: Alacuás, Spain
+- Bio: Student
+- Github: [Luseca](https://github.com/Luseca)
+
+#### Name: [Jorge Alberto Lorenzo](https://github.com/jlorenz2)
+- Place: Madrid, Spain
+- Bio: Consultant
+- Github: [jlorenz2](https://github.com/jlorenz2)
