@@ -498,7 +498,6 @@
 - Bio: Student
 - GitHub: [Jose Aguilar](https://github.com/pepe54aguilar)
 
-
 #### Carlos [Carlos Ferrer](https://github.com/carlosferrersanchez)
 - Place: Valencia, Spain
 - Bio: Student
@@ -508,3 +507,8 @@
 - Place: Alacuás, Spain
 - Bio: Student
 - Github: [Luseca](https://github.com/Luseca)
+
+#### Name: [Jorge Alberto Lorenzo](https://github.com/jlorenz2)
+- Place: Madrid, Spain
+- Bio: Consultant
+- Github: [jlorenz2](https://github.com/jlorenz2)
