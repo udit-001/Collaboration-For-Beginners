@@ -482,6 +482,11 @@
 - Bio: Student
 - GitHub: [Marcos S](https://github.com/msastre73)
 
+#### Name: [Ken I](https://github.com/Rouvx)
+- Place: St. Louis, USA
+- Bio: Student
+- GitHub: [Ken I](https://github.com/Rouvx)
+
 #### Name: [ARCA](https://github.com/arca-ko)
 - Place: Mars
 - Bio: Alien
