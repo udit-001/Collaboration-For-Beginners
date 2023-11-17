@@ -512,6 +512,11 @@
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
 
+#### Name: [Jackeline Romero](https://github.com/Jonathan-Nyquist)
+- Place: Valencia, SPAIN
+- Bio: Student
+- GitHub: [Jackelinerxm](https://github.com/Jackelinerxm)
+
 #### Name: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
 - Place: Valencia, España
 - Bio: Tortuga Ninja
