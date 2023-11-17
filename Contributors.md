@@ -507,6 +507,11 @@
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
 
+#### Javier [Javier Ruiz](https://github.com/jarupu)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [jarupu](https://github.com/jarupu)
+
 #### Carlos [Francisco Tudela](https://github.com/Tumup)
 - Place: Valencia, Spain
 - Bio: Student
