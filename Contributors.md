@@ -1,5 +1,11 @@
 # Contributors
 
+#### Name: [Udit Mittal](https://github.com/udit-001)
+- Place: Delhi, India
+- Bio: Programmer who loves watching Mr.Robot 🤖
+- GitHub: [udit-001](https://github.com/udit-001)
+
+
 #### Name: [Rachel Dooley](https://github.com/Rae1821)
 - Place: Chattanooga, TN
 - Bio: Budding web developer
@@ -9,11 +15,6 @@
 - Place: San José, Costa Rica
 - Bio: Coding learner
 - GitHub: [Darío Monge Arce](https://github.com/100dario)
-
-#### Name: [Udit Mittal](https://github.com/udit-001)
-- Place: Delhi, India
-- Bio: Programmer who loves watching Mr.Robot 🤖
-- GitHub: [udit-001](https://github.com/udit-001)
 
 #### Name: [Tanseer Saji](https://github.com/tanseersaji)
 - Place: Delhi, India
@@ -436,10 +437,10 @@
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
 
-#### Name: [Michelle Zelechoski] (https://github.com/mzrithm)
+#### Name: [Michelle Zelechoski](https://github.com/mzrithm)
 - Place: Seattle, USA
 - Bio: CS Student
-- GitHub: [mzrithm] (https://github.com/mzrithm)
+- GitHub: [mzrithm](https://github.com/mzrithm)
 
 ##### Name: [Margarida Melo](https://github.com/1181092)
 - Place: Porto, Portugal
@@ -460,7 +461,6 @@
 - Place: Chicago, U.S.A
 - Bio: 10x developer
 - Github: [Odell](https://github.com/itsOdell)
-)
 
 ##### Name: [Marcos S](https://github.com/msastre73)
 - Place: Buenos Aires, Argentina
@@ -471,6 +471,12 @@
 - Place: Mars
 - Bio: Alien
 - GitHub: [ARCA-KO](https://github.com/arca-ko)
+
+#### Name: [Nolanogenn](https://github.com/Nolanogenn)
+- Place: Napoli, Italy
+- Bio: Factotum
+- GitHub: [Nolanogenn](https://github.com/Nolanogenn)
+
 #### Name: [Jonathan Nyquist](https://github.com/Jonathan-Nyquist)
 - Place: Philadelphia, USA
 - Bio: Professor
@@ -480,3 +486,43 @@
 - Place: Valencia, España
 - Bio: Tortuga Ninja.
 - GitHub: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
+
+#### Name: [Stanislav Korotchenko](https://github.com/StasKorotchenko)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Stanislav Korotchenko](https://github.com/StasKorotchenko)
+ 
+#### Name: [Eloy Martínez](https://github.com/emartgo)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Eloy-Martínez](https://github.com/emartgo)
+
+#### Name: [Jose Aguilar](https://github.com/pepe54aguilar)
+- Place: Alicante, Spain
+- Bio: Student
+- GitHub: [Jose Aguilar](https://github.com/pepe54aguilar)
+
+#### Carlos [Carlos Ferrer](https://github.com/carlosferrersanchez)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
+
+#### Name: [Antonio Faura](https://github.com/tonifaura)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [Antonio Faura](https://github.com/tonifaura)
+
+### Diego [Diego Pitarch](https://github.com/DiegoPF77)
+-Place: Valencia
+-Bio: Student
+-Github: [Diego Pitarch](https://github.com/DiegoPF77)
+
+#### Name: [Luis Segura](https://github.com/Luseca)
+- Place: Alacuás, Spain
+- Bio: Student
+- Github: [Luseca](https://github.com/Luseca)
+
+#### Name: [Jorge Alberto Lorenzo](https://github.com/jlorenz2)
+- Place: Madrid, Spain
+- Bio: Consultant
+- Github: [jlorenz2](https://github.com/jlorenz2)
