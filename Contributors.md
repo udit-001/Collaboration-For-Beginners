@@ -457,21 +457,50 @@
 - Bio: Student
 - GitHub: [Meghana](https://github.com/tortsBsus)
 
+##### Name: [Robin L](https://github.com/RobinLilly)
+- Place: Ohio, USA
+- Bio: Developer in training
+- GitHub: [Robin L](https://github.com/RobinLilly)
+
+#### Name: [The Son Ngo](https://github.com/Ngoson2004)
+- Place: Melbourne, Australia
+- Bio: Student
+- GitHub: [The Son Ngo](https://github.com/Ngoson2004)
+
+##### Name: [Ryan Arnold](https://github.com/ryannarnoldd)
+- Place: New Paltz, NY
+- Bio: Graduate from SUNY New Paltz
+- GitHub: [Ryan Arnold](https://github.com/ryannarnoldd)
+
 #### Name: [Odell](https://github.com/itsOdell)
 - Place: Chicago, U.S.A
 - Bio: 10x developer
 - Github: [Odell](https://github.com/itsOdell)
-)
 
 ##### Name: [Marcos S](https://github.com/msastre73)
 - Place: Buenos Aires, Argentina
 - Bio: Student
 - GitHub: [Marcos S](https://github.com/msastre73)
 
+#### Name: [HADJI KHALIL](https://github.com/H-ADJI)
+- Place: Safi, Morocco
+- Bio: Software Engineer
+- GitHub: [H-ADJI](https://github.com/H-ADJI)
+
+#### Name: [Ken I](https://github.com/Rouvx)
+- Place: St. Louis, USA
+- Bio: Student
+- GitHub: [Ken I](https://github.com/Rouvx)
+
 #### Name: [ARCA](https://github.com/arca-ko)
 - Place: Mars
 - Bio: Alien
 - GitHub: [ARCA-KO](https://github.com/arca-ko)
+
+#### Name: [Anushka Chaubal](https://github.com/AFA22SCM68C)
+- Place: Chicago, USA
+- Bio: Student
+- GitHub: [AFA22SCM68C](https://github.com/AFA22SCM68C)
 
 #### Name: [Nolanogenn](https://github.com/Nolanogenn)
 - Place: Napoli, Italy
@@ -482,6 +511,36 @@
 - Place: Philadelphia, USA
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
+
+### Name: [Pablo Pérez] (https://github.com/realpabloperez)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Pablo-PErez](https://github.com/realpabloperez)
+
+#### Name: [Jackeline Romero](https://github.com/Jonathan-Nyquist)
+- Place: Valencia, SPAIN
+- Bio: Student
+- GitHub: [Jackelinerxm](https://github.com/Jackelinerxm)
+
+#### Name: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
+- Place: Valencia, España
+- Bio: Tortuga Ninja
+- GitHub: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
+
+#### Name: [Usman Abbas](https://github.com/usmanabbas2211)
+- Place: Lahore, Pakistan
+- Bio: Software Engineer
+- GitHub: [usmanabbas2211](https://github.com/usmanabbas2211)
+
+#### Name: [ARS](https://github.com/ars-4)
+- Place: Lahore, Pakistan
+- Bio: Student
+- GitHub: [ARS-4](https://github.com/ars-4)
+
+#### Name: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
+- Place: Valencia, España
+- Bio: Tortuga Ninja.
+- GitHub: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
 
 #### Name: [Stanislav Korotchenko](https://github.com/StasKorotchenko)
 - Place: Valencia, Spain
@@ -498,7 +557,6 @@
 - Bio: Student
 - GitHub: [Jose Aguilar](https://github.com/pepe54aguilar)
 
-
 #### Carlos [Carlos Ferrer](https://github.com/carlosferrersanchez)
 - Place: Valencia, Spain
 - Bio: Student
@@ -508,3 +566,48 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [cbuenrostrovalverde](https://github.com/cbuenrostrovalverde)
+
+#### Hugo [Hugo Maria](https://github.com/hugofmr)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [hugomaria](https://github.com/hugofmr)
+
+#### Name: [Julián Merino]([GitHub Link](https://github.com/jumepre))
+- Place: Valencia, Spain
+- Bio: Student, Engineer, Runner, Biker 
+- GitHub: [jumepre]([GitHub Link](https://github.com/jumepre))
+
+#### Nacho [Nacho Reyes](https://github.com/nachoreyesv)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [nachoreyesv](https://github.com/nachoreyesv)
+
+#### Javier [Javier Ruiz](https://github.com/jarupu)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [jarupu](https://github.com/jarupu)
+
+#### Carlos [Francisco Tudela](https://github.com/Tumup)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [Tumup](https://github.com/Tumup)
+
+#### Name: [Antonio Faura](https://github.com/tonifaura)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [Antonio Faura](https://github.com/tonifaura)
+
+### Diego [Diego Pitarch](https://github.com/DiegoPF77)
+-Place: Valencia
+-Bio: Student
+-Github: [Diego Pitarch](https://github.com/DiegoPF77)
+
+#### Name: [Luis Segura](https://github.com/Luseca)
+- Place: Alacuás, Spain
+- Bio: Student
+- Github: [Luseca](https://github.com/Luseca)
+
+#### Name: [Jorge Alberto Lorenzo](https://github.com/jlorenz2)
+- Place: Madrid, Spain
+- Bio: Consultant
+- Github: [jlorenz2](https://github.com/jlorenz2)
