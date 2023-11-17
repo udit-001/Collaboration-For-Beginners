@@ -457,6 +457,11 @@
 - Bio: Student
 - GitHub: [Meghana](https://github.com/tortsBsus)
 
+#### Name: [The Son Ngo](https://github.com/Ngoson2004)
+- Place: Melbourne, Australia
+- Bio: Student
+- GitHub: [The Son Ngo](https://github.com/Ngoson2004)
+
 ##### Name: [Ryan Arnold](https://github.com/ryannarnoldd)
 - Place: New Paltz, NY
 - Bio: Graduate from SUNY New Paltz
