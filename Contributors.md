@@ -507,6 +507,11 @@
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
 
+#### Hugo [Hugo Maria](https://github.com/hugofmr)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [hugomaria](https://github.com/hugofmr)
+
 #### Name: [Julián Merino]([GitHub Link](https://github.com/jumepre))
 - Place: Valencia, Spain
 - Bio: Student, Engineer, Runner, Biker 
