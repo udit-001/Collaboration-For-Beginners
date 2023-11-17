@@ -512,6 +512,11 @@
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
 
+### Name: [Pablo Pérez] (https://github.com/realpabloperez)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Pablo-PErez](https://github.com/realpabloperez)
+
 #### Name: [Jackeline Romero](https://github.com/Jonathan-Nyquist)
 - Place: Valencia, SPAIN
 - Bio: Student
