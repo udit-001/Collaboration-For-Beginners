@@ -512,6 +512,11 @@
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
 
+#### Name: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
+- Place: Valencia, España
+- Bio: Tortuga Ninja
+- GitHub: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
+
 #### Name: [Usman Abbas](https://github.com/usmanabbas2211)
 - Place: Lahore, Pakistan
 - Bio: Software Engineer
