@@ -457,6 +457,11 @@
 - Bio: Student
 - GitHub: [Meghana](https://github.com/tortsBsus)
 
+##### Name: [Ryan Arnold](https://github.com/ryannarnoldd)
+- Place: New Paltz, NY
+- Bio: Graduate from SUNY New Paltz
+- GitHub: [Ryan Arnold](https://github.com/ryannarnoldd)
+
 #### Name: [Odell](https://github.com/itsOdell)
 - Place: Chicago, U.S.A
 - Bio: 10x developer
