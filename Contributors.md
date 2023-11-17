@@ -461,7 +461,6 @@
 - Place: Chicago, U.S.A
 - Bio: 10x developer
 - Github: [Odell](https://github.com/itsOdell)
-)
 
 ##### Name: [Marcos S](https://github.com/msastre73)
 - Place: Buenos Aires, Argentina
@@ -502,6 +501,11 @@
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
+
+#### Name: [Antonio Faura](https://github.com/tonifaura)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [Antonio Faura](https://github.com/tonifaura)
 
 ### Diego [Diego Pitarch](https://github.com/DiegoPF77)
 -Place: Valencia
