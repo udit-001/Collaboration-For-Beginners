@@ -566,6 +566,11 @@
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
 
+#### Borja: [Borja Cabo](https://github.com/borjach26)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [borjach26](https://github.com/borjach26)
+
 ### Balma Agost
 - Place: Valencia, Spain
 - Bio: Student
