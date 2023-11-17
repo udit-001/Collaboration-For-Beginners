@@ -482,6 +482,11 @@
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
 
+#### Name: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
+- Place: Valencia, España
+- Bio: Tortuga Ninja.
+- GitHub: [Fernando Cabrera](https://github.com/FernandoCabreraCarbonell/)
+
 #### Name: [Stanislav Korotchenko](https://github.com/StasKorotchenko)
 - Place: Valencia, Spain
 - Bio: Student
