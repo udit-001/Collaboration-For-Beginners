@@ -566,6 +566,11 @@
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
 
+#### Josan Rc [Josan Rodrigo Cortés](https://github.com/Josanrc)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [Josanrc](https://github.com/Josanrc)
+
 #### Borja: [Borja Cabo](https://github.com/borjach26)
 - Place: Valencia, Spain
 - Bio: Student
