@@ -18,11 +18,11 @@ Here are the steps to contribute to this project:
 1. Star this repository
 2. Fork this repository.
 
-![Fork & Star the Repository](https://raw.githubusercontent.com/udit-001/Collaboration-For-Beginners/master/img/fork.jpg)
+![Fork & Star the Repository](./img/fork.jpg)
 
-3. Clone the fork you just created on your computer.
+1. Clone the fork you just created on your computer.
 
-![Clone this repository](https://raw.githubusercontent.com/udit-001/Collaboration-For-Beginners/master/img/clone.jpg)
+![Clone this repository](./img/clone.jpg)
 
 Type the following command on Git bash console:
 ```git
@@ -31,7 +31,7 @@ git clone https://github.com/udit-001/Collaboration-For-Beginners.git
 
 Replace the above git repo link with that of the fork you just created.
 
-4. Now before making changes to the files, let's take a different route than the usual tutorials you see on the internet, and let's try to do this in an efficient manner. 
+1. Now before making changes to the files, let's take a different route than the usual tutorials you see on the internet, and let's try to do this in an efficient manner. 
 
 For that, first go to your terminal under the repo you just cloned, and type the following:
 
@@ -61,9 +61,9 @@ This will create a new commit with the changes you made in the `Contributors.md`
 
 7. Now create a pull request and add the title as `"Added myself to Contributors.md"`
 
-![Create a Pull Request](https://raw.githubusercontent.com/udit-001/Collaboration-For-Beginners/master/img/PR.jpg)
+![Create a Pull Request](./img/PR.png)
 
-7. Sit back and relax while your pull request is being reviewed and merged.
+1. Sit back and relax while your pull request is being reviewed and merged.
 
 ## Cleanup Process
 After your pull request has been merged in the project, you can safely delete the branch called `add-my-name` you created above.
