@@ -497,6 +497,11 @@
 - Bio: Alien
 - GitHub: [ARCA-KO](https://github.com/arca-ko)
 
+#### Name: [Anushka Chaubal](https://github.com/AFA22SCM68C)
+- Place: Chicago, USA
+- Bio: Student
+- GitHub: [AFA22SCM68C](https://github.com/AFA22SCM68C)
+
 #### Name: [Nolanogenn](https://github.com/Nolanogenn)
 - Place: Napoli, Italy
 - Bio: Factotum
