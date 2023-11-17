@@ -503,6 +503,11 @@
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
 
+### Diego [Diego Pitarch](https://github.com/DiegoPF77)
+-Place: Valencia
+-Bio: Student
+-Github: [Diego Pitarch](https://github.com/DiegoPF77)
+
 #### Name: [Luis Segura](https://github.com/Luseca)
 - Place: Alacuás, Spain
 - Bio: Student
