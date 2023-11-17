@@ -507,6 +507,11 @@
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
 
+#### Carlos [Francisco Tudela](https://github.com/Tumup)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [Tumup](https://github.com/Tumup)
+
 #### Name: [Antonio Faura](https://github.com/tonifaura)
 - Place: Valencia, Spain
 - Bio: Student
