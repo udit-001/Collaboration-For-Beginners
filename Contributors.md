@@ -512,6 +512,11 @@
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
 
+#### Name: [Usman Abbas](https://github.com/usmanabbas2211)
+- Place: Lahore, Pakistan
+- Bio: Software Engineer
+- GitHub: [usmanabbas2211](https://github.com/usmanabbas2211)
+
 #### Name: [ARS](https://github.com/ars-4)
 - Place: Lahore, Pakistan
 - Bio: Student
