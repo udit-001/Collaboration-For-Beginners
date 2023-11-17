@@ -562,6 +562,11 @@
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
 
+### Balma Agost
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Balma Agost](https://github.com/balagostr)
+
 #### Carlos [Carlos Buenrostro](https://github.com/cbuenrostrovalverde)
 - Place: Valencia, Spain
 - Bio: Student
