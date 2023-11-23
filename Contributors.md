@@ -20,6 +20,11 @@
 - Bio: Coding learner
 - GitHub: [Darío Monge Arce](https://github.com/100dario)
 
+#### Name: [Auni Raden](https://github.com/auniraden)
+- Place: Kuala Lumpur, Malaysia
+- Bio: Lifelong learning alien who first love is a front-end stuff
+- GitHub: [Auni Raden](https://github.com/auniraden)
+
 #### Name: [Tanseer Saji](https://github.com/tanseersaji)
 - Place: Delhi, India
 - Bio: A N00B
@@ -159,22 +164,22 @@
 #### Name: [Ricardo](https://github.com/granttrec)
 - Place: Toronto, Canada
 - Bio: Student
-- Github: [granttrec](https://github.com/granttrec)  
+- Github: [granttrec](https://github.com/granttrec)
 
 #### Name: [mind-as-well](https://github.com/mind-as-well)
 - Place: Boston, MA  
-- Bio: Network Security Engineer  
-- GitHub: [mind-as-well](https://github.com/mind-as-well)  
+- Bio: Network Security Engineer
+- GitHub: [mind-as-well](https://github.com/mind-as-well)
 
 #### Name: [George Kampolis](https://github.com/gkampolis)  
 - Place: Athens, Greece & Aberdeen, UK  
-- Bio: MSc Student  
-- GitHub: [gkampolis](https://github.com/gkampolis)  
+- Bio: MSc Student
+- GitHub: [gkampolis](https://github.com/gkampolis)
 
 #### Name: [Abhishek Kumar](https://github.com/Abhishek7081)  
 - Place: Gwalior , India  
-- Bio: Computer Science Student  
-- GitHub: [Abhishek7081](https://github.com/Abhishek7081)  
+- Bio: Computer Science Student
+- GitHub: [Abhishek7081](https://github.com/Abhishek7081)
 
 #### Name: [Ariel Burriss](https://github.com/ariburr)
 - Place: Salt Lake City, UT, US
@@ -299,12 +304,12 @@
 #### Name: [Shashi Jangra](https://github.com/shashijangra22)
 - Place: Hyderabad, India
 - Bio: Competitive Programmer
-- GitHub: [Shashi Jangra](https://github.com/shashijangra22) 
+- GitHub: [Shashi Jangra](https://github.com/shashijangra22)
 
 #### Name: [Alejandro Villanueva](https://github.com/Alejandro-Villa)
 - Place: Granada, Spain
 - Bio: An IT and Maths student lover of libre software and looking for interesting projects!
-- GitHub: [Alejandro-Villa](https://github.com/Alejandro-Villa) 
+- GitHub: [Alejandro-Villa](https://github.com/Alejandro-Villa)
 
 #### Name: [David Barrera](https://github.com/dbarrerap)
 - Place: Guayaquil, Ecuador
@@ -332,7 +337,7 @@
 - GitHub: [Jeethendra Balaji](https://github.com/JeeBoomBoi)
 
 #### Name: [Hari Om](https://github.com/BuzzHari)
-- Place: Bangalore, India 
+- Place: Bangalore, India
 - Bio: Just a guy on the internet.
 - GitHub: [Hari Om](https://github.com/BuzzHari)
 
@@ -402,14 +407,14 @@
 - GitHub: [DRXDESIGN](https://github.com/drxdesign)
 
 #### Name: [V Patil](https://github.com/vpatiltech)
-- Place: Pune, India 
+- Place: Pune, India
 - Bio: IT Professional
-- Github: [V Patil](https://github.com/vpatiltech) 
+- Github: [V Patil](https://github.com/vpatiltech)
 
 #### Name: [Tyler Hueter](https://github.com/ethueter)
-- Place: Charleston, SC USA 
+- Place: Charleston, SC USA
 - Bio:  Transitioning from small business owner to software dev
-- Github: [Tyler Hueter](https://github.com/ethueter) 
+- Github: [Tyler Hueter](https://github.com/ethueter)
 
 #### Name: [Dorian Grove](https://github.com/Dor34)
 - Place: Pennsylvania, USA
@@ -419,7 +424,7 @@
 #### Name: [Ameny Touihri](https://github.com/Ameny98)
 - Place: Tunis, Tunisia
 - Bio: Junior Software Engineering Student
-- Github: [Ameny98](https://github.com/Ameny98) 
+- Github: [Ameny98](https://github.com/Ameny98)
 
 #### Name: [Abhishek Patel](https://github.com/ABHI-PATEL1812)
 - Place: Rajkot, India
@@ -550,7 +555,7 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [Stanislav Korotchenko](https://github.com/StasKorotchenko)
- 
+
 #### Name: [Eloy Martínez](https://github.com/emartgo)
 - Place: Valencia, Spain
 - Bio: Student
@@ -593,7 +598,7 @@
 
 #### Name: [Julián Merino]([GitHub Link](https://github.com/jumepre))
 - Place: Valencia, Spain
-- Bio: Student, Engineer, Runner, Biker 
+- Bio: Student, Engineer, Runner, Biker
 - GitHub: [jumepre]([GitHub Link](https://github.com/jumepre))
 
 #### Nacho [Nacho Reyes](https://github.com/nachoreyesv)
