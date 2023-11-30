@@ -10,6 +10,11 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Paugb124](https://github.com/Paugb124)
 
+#### Edo: [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
+- Place: Madrid, Spain
+- Bio: Photographer and full stack development student
+- GitHub: [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
+
 #### Name: [Rachel Dooley](https://github.com/Rae1821)
 - Place: Chattanooga, TN
 - Bio: Budding web developer
