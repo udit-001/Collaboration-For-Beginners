@@ -46,7 +46,7 @@
 - GitHub: [Venkatesh](https://github.com/venkatesh1226)
 
 
-### Name: [Vanya Grover](https://github.com/VanyaGrover)
+#### Name: [Vanya Grover](https://github.com/VanyaGrover)
 - Place: Delhi, India
 - Bio: Budding Web Developer.
 - GitHub: [VanyaGrover](https://github.com/VanyaGrover)
@@ -561,52 +561,52 @@
 - Bio: Student
 - GitHub: [Jose Aguilar](https://github.com/pepe54aguilar)
 
-#### Carlos [Carlos Ferrer](https://github.com/carlosferrersanchez)
+#### Name: [Carlos Ferrer](https://github.com/carlosferrersanchez)
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [carlosferrersanchez](https://github.com/carlosferrersanchez)
 
-#### Josan Rc [Josan Rodrigo Cortés](https://github.com/Josanrc)
+#### Name: [Josan Rodrigo Cortés](https://github.com/Josanrc)
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [Josanrc](https://github.com/Josanrc)
 
-#### Borja: [Borja Cabo](https://github.com/borjach26)
+#### Name: [Borja Cabo](https://github.com/borjach26)
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [borjach26](https://github.com/borjach26)
 
-### Balma Agost
+### Name: Balma Agost
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [Balma Agost](https://github.com/balagostr)
 
-#### Carlos [Carlos Buenrostro](https://github.com/cbuenrostrovalverde)
+#### Name: [Carlos Buenrostro](https://github.com/cbuenrostrovalverde)
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [cbuenrostrovalverde](https://github.com/cbuenrostrovalverde)
 
-#### Hugo [Hugo Maria](https://github.com/hugofmr)
+#### Name: [Hugo Maria](https://github.com/hugofmr)
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [hugomaria](https://github.com/hugofmr)
 
-#### Name: [Julián Merino]([GitHub Link](https://github.com/jumepre))
+#### Name: [Julián Merino](https://github.com/jumepre)
 - Place: Valencia, Spain
 - Bio: Student, Engineer, Runner, Biker 
-- GitHub: [jumepre]([GitHub Link](https://github.com/jumepre))
+- GitHub: [jumepre](https://github.com/jumepre)
 
-#### Nacho [Nacho Reyes](https://github.com/nachoreyesv)
+#### Name: [Nacho Reyes](https://github.com/nachoreyesv)
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [nachoreyesv](https://github.com/nachoreyesv)
 
-#### Javier [Javier Ruiz](https://github.com/jarupu)
+#### Name: [Javier Ruiz](https://github.com/jarupu)
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [jarupu](https://github.com/jarupu)
 
-#### Carlos [Francisco Tudela](https://github.com/Tumup)
+#### Name: [Francisco Tudela](https://github.com/Tumup)
 - Place: Valencia, Spain
 - Bio: Student
 - Github: [Tumup](https://github.com/Tumup)
@@ -616,10 +616,10 @@
 - Bio: Student
 - Github: [Antonio Faura](https://github.com/tonifaura)
 
-### Diego [Diego Pitarch](https://github.com/DiegoPF77)
--Place: Valencia
--Bio: Student
--Github: [Diego Pitarch](https://github.com/DiegoPF77)
+#### Name: [Diego Pitarch](https://github.com/DiegoPF77)
+- Place: Valencia
+- Bio: Student
+- Github: [Diego Pitarch](https://github.com/DiegoPF77)
 
 #### Name: [Luis Segura](https://github.com/Luseca)
 - Place: Alacuás, Spain
