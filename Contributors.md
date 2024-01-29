@@ -630,3 +630,8 @@
 - Place: Madrid, Spain
 - Bio: Consultant
 - Github: [jlorenz2](https://github.com/jlorenz2)
+
+#### Name: [Federico Pepe](https://github.com/federicopepedev)
+- Place: Rome, Italy
+- Bio: Student
+- Github: [federicopepedev](https://github.com/federicopepedev)
