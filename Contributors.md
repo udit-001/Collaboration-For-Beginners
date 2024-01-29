@@ -630,3 +630,8 @@
 - Place: Madrid, Spain
 - Bio: Consultant
 - Github: [jlorenz2](https://github.com/jlorenz2)
+
+#### Name: [Jonas Ermert](https://github.com/jonasermert)
+- Place: Erfurt, Germany
+- Bio: Fullstack Developer
+- Github: [jonasermert](https://github.com/jonasermert)
