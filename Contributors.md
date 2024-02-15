@@ -630,3 +630,8 @@
 - Place: Madrid, Spain
 - Bio: Consultant
 - Github: [jlorenz2](https://github.com/jlorenz2)
+
+#### Name: [Travis Findley](https://github.com/Travis-DV)
+- Place: St. Louis, United States
+- Bio: Student
+- GitHub: [Travis-DV](https://github.com/Travis-DV)
