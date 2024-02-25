@@ -630,3 +630,8 @@
 - Place: Madrid, Spain
 - Bio: Consultant
 - Github: [jlorenz2](https://github.com/jlorenz2)
+
+#### Name: [Tanika Bryant] 
+-Place: San Antonio, TX
+-Bio: Student
+-Github: [Tanika] https://github.com/Tanikalb
