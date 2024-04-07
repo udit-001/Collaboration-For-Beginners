@@ -630,3 +630,8 @@
 - Place: Madrid, Spain
 - Bio: Consultant
 - Github: [jlorenz2](https://github.com/jlorenz2)
+
+#### Name: [Eyob Berhanu](https://github.com/Eyobagithub)
+ - Place: Addis Ababa, Ethiopia
+ - Bio: Student
+ - Github: [Eyoba](https://github.com/Eyobagithub)
