@@ -641,6 +641,11 @@
 - Bio: Consultant
 - Github: [jlorenz2](https://github.com/jlorenz2)
 
+#### Name: [Eyob Berhanu](https://github.com/Eyobagithub)
+ - Place: Addis Ababa, Ethiopia
+ - Bio: Student
+ - Github: [Eyoba](https://github.com/Eyobagithub)
+
 #### Name: [Tanika Bryant] 
 -Place: San Antonio, TX
 -Bio: Student
@@ -660,3 +665,4 @@
 - Place: Gujarat,India
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
+
