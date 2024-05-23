@@ -630,3 +630,8 @@
 - Place: Madrid, Spain
 - Bio: Consultant
 - Github: [jlorenz2](https://github.com/jlorenz2)
+
+#### Name: [Tirth Patel](https://github.com/T1rth1)
+- Place: Gujarat,India
+- Bio: Student
+- Github: [T1rth1](https://github.com/T1rth1)
