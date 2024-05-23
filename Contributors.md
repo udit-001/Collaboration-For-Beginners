@@ -641,6 +641,11 @@
 - Bio: Consultant
 - Github: [jlorenz2](https://github.com/jlorenz2)
 
+#### Name: [Tanika Bryant] 
+-Place: San Antonio, TX
+-Bio: Student
+-Github: [Tanika](https://github.com/Tanikalb)
+
 #### Name: [Travis Findley](https://github.com/Travis-DV)
 - Place: St. Louis, United States
 - Bio: Student
