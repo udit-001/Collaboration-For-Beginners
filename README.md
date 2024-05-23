@@ -2,7 +2,7 @@
 
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
-[![HitCount](http://hits.dwyl.io/udit-001/Collaboration-For-Beginners.svg)](http://hits.dwyl.io/udit-001/Collaboration-For-Beginners)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fudit-001%2FCollaboration-For-Beginners&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy+me+a+coffee)](https://www.buymeacoffee.com/idiomprog)
 
 
