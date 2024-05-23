@@ -10,6 +10,11 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Paugb124](https://github.com/Paugb124)
 
+#### Edo: [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
+- Place: Madrid, Spain
+- Bio: Photographer and full stack development student
+- GitHub: [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
+
 #### Name: [Rachel Dooley](https://github.com/Rae1821)
 - Place: Chattanooga, TN
 - Bio: Budding web developer
@@ -635,3 +640,13 @@
 - Place: St. Louis, United States
 - Bio: Student
 - GitHub: [Travis-DV](https://github.com/Travis-DV)
+
+#### Name: [Jonas Ermert](https://github.com/jonasermert)
+- Place: Erfurt, Germany
+- Bio: Fullstack Developer
+- Github: [jonasermert](https://github.com/jonasermert)
+
+#### Name: [Tirth Patel](https://github.com/T1rth1)
+- Place: Gujarat,India
+- Bio: Student
+- Github: [T1rth1](https://github.com/T1rth1)
