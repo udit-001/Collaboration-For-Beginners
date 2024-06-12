@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [M Omer Bhatti](https://github.com/omerbhatti)
+- Place: Lahore, Pakistan
+- Bio: Web Developer and Automation Engineer
+- GitHub: [omerbhatti](https://github.com/omerbhatti)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
