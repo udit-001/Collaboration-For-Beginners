@@ -35,6 +35,12 @@
 - Bio: A N00B
 - GitHub: [tanseersaji](https://github.com/tanseersaji)
 
+#### Name: [Amogh Nagar](https://github.com/probablyamogh)
+- Place: Ghaziabad ,Uttar Pradesh , India
+- Bio: A N00B
+- GitHub: [Amoghtech](https://github.com/Amoghtech)
+
+
 #### Name: [Alexander Bourne](https://github.com/alexander-bourne)
 - Place: City, Country
 - Bio: Who are you?
