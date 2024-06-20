@@ -91,6 +91,11 @@
 - Bio: Technology enthusiast and real life Iron Man!
 - GitHub: [gh0st](https://github.com/gh0st)
 
+### Name: [Utkrist Neupane](https://github.com/utkrixx)
+- Place: Kathmandu, Nepal
+- Bio: AI & ML Enthusiast
+- Github: [utkrixx](https://github.com/utkrixx/)
+
 #### Name: [Avinash gupta](https://github.com/avinash2201)
 - Place: Gujarat, India
 - Bio: Technology enthusiast and web developer.
