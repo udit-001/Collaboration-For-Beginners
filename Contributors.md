@@ -131,6 +131,11 @@
 - Bio: Undergrad At IIITA
 - Github: [Agam](https://github.com/agam98)
 
+#### Name: [HeyGroot](https://github.com/heygroot)
+- Place: Delhi, India
+- Bio: MERN Stack
+- Github: [heygroot](https://github.com/heygroot)
+
 #### Name: [Hunter Mcnulty](https://github.com/heckerman100)
 - Place: United States
 - Bio: Just an average programmer
