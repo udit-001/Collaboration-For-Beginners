@@ -666,3 +666,8 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Manjyot Kalkat](https://github.com/ManjyotK)
+- Place: Manitoba, Canada
+- Bio: Engineer
+- Github: [Manjyot](https://github.com/ManjyotK)
+
