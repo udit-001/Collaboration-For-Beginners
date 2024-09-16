@@ -666,3 +666,7 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [going for a test drive]
+- Place: nowhere, nowhere
+- Bio: Something
+- Github: [Don't've one]
