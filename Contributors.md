@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Russell Dsouza](https://github.com/Russell-Dsouzaa)
+- Place: Mumbai, India
+- Bio: 22 y.o, pursuing B.E. in Computer Science
+- GitHub: [Russell-Dsouzaa](https://github.com/Russell-Dsouzaa)
+- 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
