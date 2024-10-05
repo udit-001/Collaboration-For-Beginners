@@ -1,4 +1,8 @@
 # Contributors
+#### Name: [Joan](https://github.com/joangs12)
+- Place: Sueca, Valencia
+- Bio: Student in EDEM, Valencia.
+- GitHub: [joangs12](https://github.com/joangs12)
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
