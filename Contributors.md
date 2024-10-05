@@ -3,7 +3,7 @@
 #### Name: [Vicente Martí](https://github.com/vicentmg6)
 - Place: Valencia, España
 - Bio: Student in EDEM, Valencia.
-- GitHub: [udit-001](https://github.com/vicentmg6)
+- GitHub: [vicentmg6](https://github.com/vicentmg6)
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
