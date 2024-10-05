@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Mar](https://github.com/marsolermendez)
+- Place: Valencia, España
+- Bio: Data analyst
+- GitHub: [marsolermendez](https://github.com/marsolermendez)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
@@ -665,4 +670,3 @@
 - Place: Gujarat,India
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
-
