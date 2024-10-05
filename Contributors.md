@@ -1,4 +1,8 @@
 # Contributors
+#### Alejandro: [Alejandro Escolano](https://github.com/aesctor-cloud)
+- Place: Novelda, Alicante; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [aesctor-cloud](https://github.com/aesctor-cloud)
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
