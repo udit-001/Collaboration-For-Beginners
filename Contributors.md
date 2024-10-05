@@ -1,5 +1,10 @@
 # Contributors
 
+#### Miguel: [Miguel Torres](https://github.com/migueltocu)
+- Place: Valencia, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [migueltocu](https://github.com/migueltocu)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
