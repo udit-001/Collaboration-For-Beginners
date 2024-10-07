@@ -670,4 +670,3 @@
 - Place: Valencia, Spain
 - Bio: Community Manager
 - GitHub: [Claudiarg13](https://github.com/Claudiarg13)
-
