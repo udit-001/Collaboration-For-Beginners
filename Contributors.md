@@ -666,3 +666,7 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Coke Stuyck](https://github.com/cokecancook)
+- Place: Valencia, Spain
+- Bio: UX Designer & AI Student
+- GitHub: [cokecancook](https://github.com/cokecancook)
