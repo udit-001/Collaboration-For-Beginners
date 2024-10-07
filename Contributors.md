@@ -666,3 +666,7 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Ting Wang](https://github.com/e-wach)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Ting Wang](https://github.com/e-wach)
