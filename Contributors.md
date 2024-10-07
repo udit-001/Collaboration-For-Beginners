@@ -666,3 +666,8 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Alejandro Bosch](https://github.com/Alejbc27)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [Alejbc27](https://github.com/Alejbc27)
+
