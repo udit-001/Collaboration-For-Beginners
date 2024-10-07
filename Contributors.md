@@ -666,3 +666,7 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Joaquin Zapata](https://github.com/joaquinzapata99)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [joaquinzapata99](https://github.com/joaquinzapata99)
