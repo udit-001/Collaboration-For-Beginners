@@ -666,3 +666,7 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Mauro Balaguer](https://github.com/Maurobalas)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Maurobalas](https://github.com/Maurobalas)
