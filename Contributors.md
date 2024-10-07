@@ -664,5 +664,9 @@
 #### Name: [Tirth Patel](https://github.com/T1rth1)
 - Place: Gujarat,India
 - Bio: Student
-- Github: [T1rth1](https://github.com/T1rth1)
+- Github: (https://github.com/T1rth1)
 
+#### Name: [Carlos Oliver](https://github.com/Carlos-Oliver-O)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [(https://github.com/Carlos-Oliver-O)]
