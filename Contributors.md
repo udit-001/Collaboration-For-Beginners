@@ -666,3 +666,8 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Jose Barbero](https://github.com/jobarbru)
+- Place: Cullera, Spain
+- Bio: Student
+- Github: [jobarbru](https://github.com/jobarbru)
+
