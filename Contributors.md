@@ -664,5 +664,4 @@
 #### Name: [Tirth Patel](https://github.com/T1rth1)
 - Place: Gujarat,India
 - Bio: Student
-- Github: [T1rth1](https://github.com/T1rth1)
-
+- Github: (https://github.com/T1rth1)
