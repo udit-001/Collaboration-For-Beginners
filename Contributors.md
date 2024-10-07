@@ -666,3 +666,8 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Claudia Romero](https://github.com/Claudiarg13)
+- Place: Valencia, Spain
+- Bio: Community Manager
+- GitHub: [Claudiarg13](https://github.com/Claudiarg13)
+
