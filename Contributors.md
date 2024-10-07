@@ -666,3 +666,8 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Joel Seguí](https://github.com/joel1091)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [joel1091](https://github.com/joel1091)
+
