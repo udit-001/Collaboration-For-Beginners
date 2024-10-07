@@ -666,3 +666,8 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+
+#### Name: [Lara Rubio](https://github.com/T1rth1)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [lararub14](https://github.com/lararub14)
