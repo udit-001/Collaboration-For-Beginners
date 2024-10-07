@@ -666,3 +666,7 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Marc Cantero](https://github.com/Marcanta7)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [Marcanta7](https://github.com/Marcanta7)
