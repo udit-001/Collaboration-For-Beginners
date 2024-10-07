@@ -666,3 +666,7 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Fabian Miulescu](https://github.com/fab1an12)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [fab1an12](https://github.com/fab1an12)
