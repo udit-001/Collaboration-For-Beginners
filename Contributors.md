@@ -666,3 +666,8 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Juan Oviedo](https://github.com/juovma)
+- Place: Valencia, Spain
+- Bio: Student
+- Github: [juova](https://github.com/juovma)
+
