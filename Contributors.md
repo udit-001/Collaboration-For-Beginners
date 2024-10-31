@@ -666,3 +666,8 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Areeb Khan](https://github.com/curiousbud)
+- Place: Mumbai, India
+- Bio: 3rd Year Computer Engineering Student.
+- GitHub: [Areeb Khan](https://github.com/curiousbud)
+
