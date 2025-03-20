@@ -296,6 +296,11 @@
 - Bio: An ordinary teenager who enyoyed coding and learning CS
 - GitHub: [RayhanHamada](https://github.com/RayhanHamada)
 
+#### Name: [Sulton Wibawa](https://github.com/msultont)
+- Place: Kota Tangerang, Indonesia
+- Bio: I took a 2-year-break from the software engineering world and now I'm back to work on a big project! Just Join [Artea.ai](https://artea.ai) & [cukur.in](https://cukur.in)
+- GitHub: [Sulton Wibawa](https://github.com/msultont)
+
 #### Name: [David Kim](https://github.com/davidsjk)
 - Place: California, USA
 - Bio: Datahead
