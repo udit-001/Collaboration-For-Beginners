@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Biswajit Sahoo](https://github.com/bisu2580)
+- Place: Odisha, India
+- Bio: Programmer,Android developing enthusiastic, Love movies
+- Github: [bisu2580](https://github.com/bisu2580)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
