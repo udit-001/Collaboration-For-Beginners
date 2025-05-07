@@ -11,7 +11,7 @@ jobs:
   greeting:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/first-interaction@v1.2.0
+    - uses: actions/first-interaction@v1.3.0
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         pr-message: 'Thanks for contributing to this project, hope you liked the guide provided to facilitate easy contribution.'
