@@ -1,6 +1,8 @@
 name: Greetings
 
-on: [pull_request_target]
+on: 
+   pull_request_target:
+      types: [opened, labeled]
 permissions:
    pull-requests: write
    contents: read
