@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Riandry](https://github.com/RiandryDevelop)
+- Place: Santo Domingo, Dominican Republic
+- Bio: fullstack developer
+- GitHub: [RiandryDevelop](https://github.com/RiandryDevelop)
