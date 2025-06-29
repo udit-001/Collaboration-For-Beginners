@@ -1,4 +1,7 @@
 # Contributors
+Name:Adeline2006
+place: kigali,Rwanda
+GitHub:https://github.com/Adeline2006/MyFirstRepo/blob/feature-update/README.md
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
