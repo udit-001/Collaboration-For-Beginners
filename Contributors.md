@@ -1,4 +1,8 @@
 # Contributors
+Name:Adeline Uwizeyimana
+place: kigali,Rwanda
+Bio: Learner
+GitHub:Adeline2006
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
