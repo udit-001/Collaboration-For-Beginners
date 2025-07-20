@@ -10,6 +10,11 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Paugb124](https://github.com/Paugb124)
 
+#### Name: [Coke Stuyck](https://github.com/cokecancook/cokecancook)
+- Place: Valencia, Spain
+- Bio: Frontend developer, AI Master's student in EDEM, Valencia
+- Github: [cokecancook](https://github.com/cokecancook/cokecancook)
+
 #### Edo: [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
 - Place: Madrid, Spain
 - Bio: Photographer and full stack development student
