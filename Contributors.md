@@ -656,6 +656,12 @@
 - Bio: Student
 - GitHub: [Travis-DV](https://github.com/Travis-DV)
 
+#### Name: Ayushman Gupta 
+- Place: jabalpur,India
+- Bio: A tech mad who loves to learn new tech.
+- GitHub: https://github.com/Ayushman-21
+
+
 #### Name: [Jonas Ermert](https://github.com/jonasermert)
 - Place: Erfurt, Germany
 - Bio: Fullstack Developer
