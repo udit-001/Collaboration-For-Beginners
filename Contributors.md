@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Rionn](https://github.com/34949504)
+- Place:  nowhere,nowhere
+- Bio: Learning to code, learning git
+- GitHub: [Rionn](https://github.com/34949504)
