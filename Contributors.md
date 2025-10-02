@@ -1,9 +1,15 @@
 # Contributors
 
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
 - GitHub: [udit-001](https://github.com/udit-001)
+
+#### Pau: [Pau García](https://github.com/iTzPauG)
+- Place: Valencia, España
+- Bio: Student in EDEM, Valencia.
+- Github: [Pau García](https://github.com/iTzPauG)
 
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
