@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+### Name:  [Raul](https://github.com/aragall)
+- Place: Valencia, España
+- Bio: Student
+- Github: [aragall](https://github.com/aragall)  
