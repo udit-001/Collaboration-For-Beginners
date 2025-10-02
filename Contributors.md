@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Marina](https://github.com/marina-a-lopez)
+- Place: Valencia, España
+- Bio: student
+- Github: [Marina López](https://github.com/marina-a-lopez)
