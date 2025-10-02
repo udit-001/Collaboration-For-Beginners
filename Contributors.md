@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Celia](https://github.com/celiiasarrio)
+- Place: Moixent, Valencia
+- Bio: Student
+- GitHub: [celiiasarrio](https://github.com/celiiasarrio)
