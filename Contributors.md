@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+- 
+#### Name: [Javier López](https://github.com/javilopez0204)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Ludloops](https://github.com/javilopez0204)
