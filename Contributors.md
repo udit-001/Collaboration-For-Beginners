@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+  
+  #### Name: [Javier](https://github.com/JaviPlazaRosique)
+  - Place: Torre Pacheco, Murcia, Spain
+  - Bio: Student in EDEM, Valencia.
+  - GitHub: [JaviPlazaRosique](https://github.com/JaviPlazaRosique)
