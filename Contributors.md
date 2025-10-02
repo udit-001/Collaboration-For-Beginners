@@ -680,3 +680,7 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+#### Name: [Ivan](https://github.com/ivanhuertasg)
+- Place: Spain, Valencia
+- BIO: EDEM Student
+- Github:[ivan](https://github.com/ivanhuertasg)
