@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Daniel Adam](https://github.com/adamgdaniel)
+- Place: Algemesí, Valencia
+- Bio: Student
+- GitHub: [adamgdaniel](https://github.com/adamgdaniel)
