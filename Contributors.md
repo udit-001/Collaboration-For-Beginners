@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Iñaki Buj](https://github.com/inakibuj)
+- Place: Valencia, España
+- Bio: Student
+- GitHub: [inakibuj](https://github.com/inakibuj)
