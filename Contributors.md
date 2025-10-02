@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Paola](https://github.com/paolargzl)
+- Place: Valencia, España
+- Bio: Student
+- GitHub: [paolargzl](https://github.com/paolargzl)
