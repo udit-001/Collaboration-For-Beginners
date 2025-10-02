@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+  
+#### Name: [Alejandro](https://github.com/aleexxmorenno)
+- Place: Dénia, España
+- Bio: Student
+- GitHub: [aleexxmorenno](https://github.com/aleexxmorenno)
