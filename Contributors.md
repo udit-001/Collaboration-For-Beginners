@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+### Name: [Clàudia](https://github.com/claudiasalgado)
+- Place: Castellón, Spain
+- Bio: AI student in EDEM
+- GitHub: [claudiasalgado](https://github.com/claudiasalgado)
