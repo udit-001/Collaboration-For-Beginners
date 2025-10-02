@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Kike](https://github.com/kikejm)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [kikejm](https://github.com/kikejm)
