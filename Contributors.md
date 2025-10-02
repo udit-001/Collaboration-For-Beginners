@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Jorge](https://github.com/jorgitogh)
+- Place: Valencia, España
+- Bio: Student
+- GitHub: [jorgitogh](https://github.com/jorgitogh)
