@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Martha Segura](https://github.com/MarthaSegura98)
+- Place: Valencia, Spain
+- Bio: Student in EDEM
+- GitHub: [MarthaSegura98](https://github.com/MarthaSegura98)
