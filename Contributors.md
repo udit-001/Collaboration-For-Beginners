@@ -20,6 +20,11 @@
 - Bio: Budding web developer
 - Github: [Rachel Dooley](https://github.com/Rae1821)
 
+#### Fran: [FranciscoAlvarezVaras](https://github.com/FranciscoAlvarezVaras)
+- Place: Valencia, Spain
+- Bio: Student in EDEM, Valencia.
+- GitHub: [FranciscoAlvarezVaras](https://github.com/FranciscoAlvarezVaras)
+
 #### Name: [Darío Monge Arce](https://github.com/100dario)
 - Place: San José, Costa Rica
 - Bio: Coding learner
