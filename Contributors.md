@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Rafael](https://github.com/rmorata00)
+- Place: Alicante, SPAIN.
+- Bio: Student
+- GitHub: [rmorata00](https://github.com/rmorata00)
