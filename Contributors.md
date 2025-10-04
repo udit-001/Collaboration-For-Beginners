@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Sergio](https://github.com/SergioM-prog)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [SergioM-prog](https://github.com/SergioM-prog)
