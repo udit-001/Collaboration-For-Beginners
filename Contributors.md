@@ -5,6 +5,11 @@
 - Bio: Programmer who loves watching Mr.Robot 🤖
 - GitHub: [udit-001](https://github.com/udit-001)
 
+#### Name: [Miguel Ángel Navarro](https://github.com/miguenav11)
+- Place: Valencia, Spain
+- Bio: Master's in Big Data & Cloud's student
+- GitHub: [Miguel Ángel Navarro](https://github.com/miguenav11)
+
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
 - Bio: Student in EDEM, Valencia.
