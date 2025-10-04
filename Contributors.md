@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Ricardo](https://github.com/riedpe)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [riedpe](https://github.com/riedpe)
