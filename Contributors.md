@@ -682,6 +682,6 @@
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
 
 #### Name: [Ricardo](https://github.com/riedpe)
-- Place: Valencia, Espain
+- Place: Valencia, Spain
 - Bio: Student
 - GitHub: [riedpe](https://github.com/riedpe)
