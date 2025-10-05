@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [AJ](https://github.com/Aerobrid)
+- Place: Texas, US
+- Bio: Student
+- GitHub: [Aerobrid](https://github.com/Aerobrid)
