@@ -10,6 +10,11 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Paugb124](https://github.com/Paugb124)
 
+#### Name: [Kaylin Yang](https://github.com/kyangOrange)
+- Place: Seattle, United States
+- Bio: High school student 
+- GitHub: [kyangOrange](https://github.com/kyangOrange)
+
 #### Edo: [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
 - Place: Madrid, Spain
 - Bio: Photographer and full stack development student
