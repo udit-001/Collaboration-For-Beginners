@@ -676,7 +676,7 @@
 - Bio: Something
 - Github: (MIT-8)[https://github.com/MIT-8]
 
-#### Name: [Elias](https://github.com/eliasbenyahia)
-- Place: Lille, France
-- Bio: Student
-- GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+#### Name: [Felix](https://github.com/felixortuno)
+- Castellon, España
+- Bio: EDEM Student
+- GitHub: [felixortuno](https://github.com/felixortuno)
