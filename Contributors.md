@@ -680,3 +680,8 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Oussama Oulini]
+- Place: Marrakech, Morocco
+- Bio: Student
+- GitHub: [oussamaoulini7-max](https://github.com/oussamaoulini7-max)
