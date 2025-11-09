@@ -680,3 +680,7 @@
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
+
+#### Name: [Flor] https://github.com/florsastre-gif
+- Place: Valencia, Spain
+- Github: [florsastre-gif] (https://github.com/florsastre-gif)
