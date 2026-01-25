@@ -686,3 +686,7 @@
 - Bio: Old guy
 - GitHub: [heavenlyart](https://github.com.heavenlyart)
 
+#### Name: [Haris](https://github.com/httpsharis)
+- Place: Lahore, Pakistan
+- Bio: Student
+- GitHub: [httpsharis](https://github.com/httpsharis)
