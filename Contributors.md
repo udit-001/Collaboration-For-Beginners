@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Juan Luis German](https://github.com/ygs1629)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [ygs1629](https://github.com/ygs1629)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
