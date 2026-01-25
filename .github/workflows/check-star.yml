@@ -1,0 +1,140 @@
+name: Check Star
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+  issue_comment:
+    types: [created]
+
+permissions:
+  pull-requests: write
+  contents: write
+
+jobs:
+  check-star:
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'pull_request_target' ||
+      (github.event_name == 'issue_comment' && github.event.issue.pull_request && contains(github.event.comment.body, '/recheck'))
+    steps:
+      - name: Check if PR author starred the repo
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            // Get PR author - different payload structure for issue_comment vs pull_request
+            let prAuthor, prNumber;
+            
+            if (context.eventName === 'issue_comment') {
+              // Fetch the PR to get the author
+              const pr = await github.rest.pulls.get({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.payload.issue.number
+              });
+              prAuthor = pr.data.user.login;
+              prNumber = context.payload.issue.number;
+            } else {
+              prAuthor = context.payload.pull_request.user.login;
+              prNumber = context.payload.pull_request.number;
+            }
+            
+            // Paginate through all stargazers to check if PR author starred
+            let hasStarred = false;
+            for await (const response of github.paginate.iterator(
+              github.rest.activity.listStargazersForRepo,
+              {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                per_page: 100
+              }
+            )) {
+              const found = response.data.some(stargazer => stargazer.login === prAuthor);
+              if (found) {
+                hasStarred = true;
+                break;
+              }
+            }
+            
+            if (!hasStarred) {
+              // Check if we already commented
+              const comments = await github.rest.issues.listComments({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: prNumber
+              });
+              
+              const botComment = comments.data.find(comment => 
+                comment.user.type === 'Bot' && 
+                comment.body.includes('please star this repository')
+              );
+              
+              if (!botComment) {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: prNumber,
+                  body: `👋 Hey @${prAuthor}, thanks for your contribution!\n\nIt looks like you haven't starred this repository yet. Please ⭐ **star this repository** before your PR can be merged.\n\nOnce you've starred the repo, comment \`/recheck\` to verify.`
+                });
+              }
+            } else {
+              console.log(`✅ ${prAuthor} has already starred the repository`);
+              
+              // Check if PR is mergeable and auto squash-merge
+              const pr = await github.rest.pulls.get({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: prNumber
+              });
+              
+              if (pr.data.mergeable === null) {
+                // GitHub is still computing mergeability, wait a bit
+                await new Promise(resolve => setTimeout(resolve, 3000));
+                const prRetry = await github.rest.pulls.get({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  pull_number: prNumber
+                });
+                pr.data.mergeable = prRetry.data.mergeable;
+                pr.data.mergeable_state = prRetry.data.mergeable_state;
+              }
+              
+              if (pr.data.mergeable && pr.data.state === 'open') {
+                try {
+                  await github.rest.pulls.merge({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    pull_number: prNumber,
+                    merge_method: 'squash'
+                  });
+                  
+                  await github.rest.issues.createComment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: prNumber,
+                    body: `✅ Thanks @${prAuthor}! Your PR has been automatically squash-merged. 🎉`
+                  });
+                } catch (error) {
+                  await github.rest.issues.createComment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: prNumber,
+                    body: `✅ Thanks @${prAuthor}! You've starred the repository.\n\n⚠️ Auto-merge failed: ${error.message}\n\nA maintainer will review and merge your PR manually.`
+                  });
+                }
+              } else if (pr.data.mergeable === false) {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: prNumber,
+                  body: `✅ Thanks @${prAuthor}! You've starred the repository.\n\n⚠️ Your PR has merge conflicts. Please resolve them, then comment \`/recheck\` again.`
+                });
+              } else {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: prNumber,
+                  body: `✅ Thanks @${prAuthor}! You've starred the repository. Your PR is now eligible for review.`
+                });
+              }
+            }
