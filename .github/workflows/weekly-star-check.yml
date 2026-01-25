@@ -1,0 +1,156 @@
+name: Weekly Star Check
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Every Sunday at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  pull-requests: write
+  contents: read
+
+jobs:
+  check-all-prs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check stars for all open PRs
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const LABEL_AWAITING_STAR = 'awaiting-star';
+            const LABEL_MERGE_CONFLICT = 'merge-conflict';
+            const LABEL_READY_TO_MERGE = 'ready-to-merge';
+            
+            const labels = [
+              { name: LABEL_AWAITING_STAR, color: 'fbca04', description: 'PR author has not starred the repository' },
+              { name: LABEL_MERGE_CONFLICT, color: 'd93f0b', description: 'PR has merge conflicts' },
+              { name: LABEL_READY_TO_MERGE, color: '0e8a16', description: 'PR is ready to be merged' }
+            ];
+            
+            // Ensure all labels exist
+            for (const label of labels) {
+              try {
+                await github.rest.issues.getLabel({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  name: label.name
+                });
+              } catch (e) {
+                if (e.status === 404) {
+                  await github.rest.issues.createLabel({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    ...label
+                  });
+                }
+              }
+            }
+            
+            // Get all open PRs
+            const prs = await github.paginate(github.rest.pulls.list, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100
+            });
+            
+            console.log(`Found ${prs.length} open PRs`);
+            
+            // Get all stargazers
+            const stargazers = await github.paginate(github.rest.activity.listStargazersForRepo, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              per_page: 100
+            });
+            const stargazerLogins = new Set(stargazers.map(s => s.login));
+            
+            console.log(`Found ${stargazerLogins.size} stargazers`);
+            
+            // Helper to add/remove labels
+            async function addLabel(prNumber, labelName) {
+              try {
+                await github.rest.issues.addLabels({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: prNumber,
+                  labels: [labelName]
+                });
+              } catch (e) { console.log(`Failed to add label ${labelName}: ${e.message}`); }
+            }
+            
+            async function removeLabel(prNumber, labelName) {
+              try {
+                await github.rest.issues.removeLabel({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: prNumber,
+                  name: labelName
+                });
+              } catch (e) { /* Label might not exist */ }
+            }
+            
+            for (const pr of prs) {
+              const prAuthor = pr.user.login;
+              const hasStarred = stargazerLogins.has(prAuthor);
+              const currentLabels = pr.labels.map(l => l.name);
+              
+              // Fetch full PR details for mergeable status
+              const prDetails = await github.rest.pulls.get({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number
+              });
+              
+              const mergeable = prDetails.data.mergeable;
+              const hasConflict = mergeable === false;
+              
+              // Handle awaiting-star label
+              if (!hasStarred && !currentLabels.includes(LABEL_AWAITING_STAR)) {
+                await addLabel(pr.number, LABEL_AWAITING_STAR);
+                
+                const comments = await github.rest.issues.listComments({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: pr.number
+                });
+                
+                const botComment = comments.data.find(comment => 
+                  comment.user.type === 'Bot' && 
+                  comment.body.includes('please star this repository')
+                );
+                
+                if (!botComment) {
+                  await github.rest.issues.createComment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: pr.number,
+                    body: `👋 Hey @${prAuthor}, friendly reminder!\n\nIt looks like you haven't starred this repository yet. Please ⭐ **star this repository** before your PR can be merged.\n\nOnce you've starred the repo, comment \`/recheck\` to verify.`
+                  });
+                }
+                console.log(`❌ PR #${pr.number} by ${prAuthor} - not starred`);
+              } else if (hasStarred && currentLabels.includes(LABEL_AWAITING_STAR)) {
+                await removeLabel(pr.number, LABEL_AWAITING_STAR);
+                console.log(`✅ PR #${pr.number} by ${prAuthor} - now starred, label removed`);
+              }
+              
+              // Handle merge-conflict label
+              if (hasConflict && !currentLabels.includes(LABEL_MERGE_CONFLICT)) {
+                await addLabel(pr.number, LABEL_MERGE_CONFLICT);
+                await removeLabel(pr.number, LABEL_READY_TO_MERGE);
+                console.log(`⚠️ PR #${pr.number} - has merge conflicts`);
+              } else if (!hasConflict && currentLabels.includes(LABEL_MERGE_CONFLICT)) {
+                await removeLabel(pr.number, LABEL_MERGE_CONFLICT);
+              }
+              
+              // Handle ready-to-merge label (starred + no conflicts)
+              if (hasStarred && mergeable === true) {
+                if (!currentLabels.includes(LABEL_READY_TO_MERGE)) {
+                  await addLabel(pr.number, LABEL_READY_TO_MERGE);
+                  await removeLabel(pr.number, LABEL_MERGE_CONFLICT);
+                  console.log(`🚀 PR #${pr.number} by ${prAuthor} - ready to merge`);
+                }
+              } else if (currentLabels.includes(LABEL_READY_TO_MERGE)) {
+                await removeLabel(pr.number, LABEL_READY_TO_MERGE);
+              }
+            }
