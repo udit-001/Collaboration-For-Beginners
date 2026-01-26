@@ -671,17 +671,12 @@
 - Bio: Student
 - GitHub: [Ludloops](https://github.com/ludloops)
 
-#### Name: [MIT-8]
+#### Name: [MIT-8](https://github.com/MIT-8)
 - Place: nowhere, nowhere
 - Bio: Something
-- Github: (MIT-8)[https://github.com/MIT-8]
+- Github: [MIT-8](https://github.com/MIT-8)
 
 #### Name: [Elias](https://github.com/eliasbenyahia)
 - Place: Lille, France
 - Bio: Student
 - GitHub: [eliasbenyahia](https://github.com/eliasbenyahia)
-- 
-- #### Name: [Jose](https://github.com/jusefek)
-- Place: Valencia
-- Bio: Student 
-- GitHub: [jusefek](https://github.com/jusefek)
