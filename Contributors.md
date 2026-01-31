@@ -685,3 +685,8 @@
 - Place: Delhi, India
 - Bio: Old guy
 - GitHub: [heavenlyart](https://github.com.heavenlyart)
+
+#### Name: [Clara](https://github.com/Jayanthiclaretdevaraj)
+- Place: Tamil Nadu, India
+- Bio: Student | Beginner Open Source Contributor
+- GitHub: [Jayanthiclaretdevaraj](https://github.com/Jayanthiclaretdevaraj)
