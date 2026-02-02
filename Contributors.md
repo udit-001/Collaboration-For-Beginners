@@ -10,6 +10,11 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Paugb124](https://github.com/Paugb124)
 
+#### Name: [Ariba Razi](https://github.com/AribaRazi)
+- Place: Kolkata, India
+- Bio: passionate CS Student 
+- GitHub: [Ariba Razi](https://github.com/AribaRazi)
+
 #### Edo: [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
 - Place: Madrid, Spain
 - Bio: Photographer and full stack development student
