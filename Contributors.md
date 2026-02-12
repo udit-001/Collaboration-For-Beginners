@@ -690,3 +690,8 @@
 - Place: Tamil Nadu, India
 - Bio: Student | Beginner Open Source Contributor
 - GitHub: [Jayanthiclaretdevaraj](https://github.com/Jayanthiclaretdevaraj)
+
+#### Name: [Shradha Dubey](https://github.com/shradhadubey/)
+- Place: NYC, USA
+- Bio: Data Engineer 
+- GitHub: [shradhadubey](https://github.com/shradhadubey/)
