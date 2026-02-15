@@ -1,5 +1,9 @@
 # Contributors
-
+#### Name: [Eduardo Abad](GitHub Link)
+- Place: Valencia, Spain
+- Bio: IA student
+- GitHub: [eabadz](https://github.com/eabadz)
+- 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
