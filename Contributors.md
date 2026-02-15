@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Alberto García](https://github.com/udit-001)
+- Place: Valencia, España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [agarmir](https://github.com/agarmir)
+- 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
