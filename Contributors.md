@@ -695,3 +695,8 @@
 - Place: NYC, USA
 - Bio: Data Engineer 
 - GitHub: [shradhadubey](https://github.com/shradhadubey/)
+
+#### Name: [sudhanshu](https://github.com/sudhanshu1239g)
+- Place: delhi, India
+- Bio:  Student | Beginner Open Source Contributor
+- GitHub: [sudhanshu](https://github.com/sudhanshu1239g)
