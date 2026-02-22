@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Antonio Navarro](https://github.com/Anavsan2)
+- Place: Valencia, Spain
+- Bio: Engineer who loves watching Mr.Robot 🤖
+- GitHub: [Anavsan2](https://github.com/Anavsan2)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
