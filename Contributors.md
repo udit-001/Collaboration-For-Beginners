@@ -5,6 +5,11 @@
 - Bio: Programmer who loves watching Mr.Robot 🤖
 - GitHub: [udit-001](https://github.com/udit-001)
 
+#### Name: [Elena Morales] (https://github.com/elenamoralesp7-droid)
+- Place: Murcia, Spain
+- Bio: Beginning in programmer's world with energy
+- GitHub: [elenamoralesp7-droid] (https://github.com/elenamoralesp7-droid)
+
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
 - Bio: Student in EDEM, Valencia.
