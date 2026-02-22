@@ -1,5 +1,10 @@
 # Contributors
 
+#### Juan: [Juan Bessini](https://github.com/jbessini)
+- Place: Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [jbessini4](https://github.com/jbessini)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
@@ -54,7 +59,6 @@
 - Place: Hyderabad, India
 - Bio: Learner..
 - GitHub: [Venkatesh](https://github.com/venkatesh1226)
-
 
 #### Name: [Vanya Grover](https://github.com/VanyaGrover)
 - Place: Delhi, India
