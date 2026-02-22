@@ -5,6 +5,11 @@
 - Bio: Programmer who loves watching Mr.Robot 🤖
 - GitHub: [udit-001](https://github.com/udit-001)
 
+#### Noelia: [Noelia Andrade](https://github.com/Noelia02)
+- Place: Valencia, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Noelia02](https://github.com/Noelia02)
+
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
 - Bio: Student in EDEM, Valencia.
