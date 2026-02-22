@@ -1,4 +1,7 @@
-# Contributors
+# #### Name: [Lucia Esteve](https://github.com/Rae1821)
+- Place: Chattanooga, TN
+- Bio: Budding web developer
+- Github: [Rachel Dooley](https://github.com/Rae1821)
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
