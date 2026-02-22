@@ -1,4 +1,9 @@
 # Contributors
+[Rafa Pérez](https://github.com/rafap21)
+- Place: Valencia, Spain
+- Bio: Data Analyst
+- Github: [Rafael Pérez](https://github.com/rafap21)
+
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
