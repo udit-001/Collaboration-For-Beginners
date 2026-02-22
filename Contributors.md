@@ -10,6 +10,11 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Paugb124](https://github.com/Paugb124)
 
+#### Carlos: [Carlos Sevillano](https://github.com/carlossevi17)
+- Place: Albuixech, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [carlossevi17](https://github.com/carlossevi17)
+
 #### Edo: [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
 - Place: Madrid, Spain
 - Bio: Photographer and full stack development student
