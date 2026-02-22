@@ -1,4 +1,8 @@
 # Contributors
+#### Alex: [Alex Revert](https://github.com/arevert13)
+- Place: Agullent, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [arevert13](https://github.com/arevert13)
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
