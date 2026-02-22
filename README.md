@@ -9,7 +9,7 @@
 
 Learning to collaborate can be difficult for the first time contributors, and it may seem tedious to find open source projects to contribute to without adequate knowledge of programming. But fear not, this project is made especially to ease the process of contributing to an open source project for a newcomer.
 
->Check out other awesome contributors of this project [here.](https://udit-001.github.io/Collaboration-For-Beginners/Contributors)
+>Check out other awesome contributors of this project [here](https://udit-001.github.io/Collaboration-For-Beginners/Contributors)
 
 ## Contribution Guide
 
