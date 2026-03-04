@@ -700,3 +700,8 @@
 - Place: delhi, India
 - Bio:  Student | Beginner Open Source Contributor
 - GitHub: [sudhanshu](https://github.com/sudhanshu1239g)
+
+#### Name: [Jane](https://github.com/amoraara)
+- Place: Davao City, Philippines
+- Bio:  Backend Development & Linux Enthusiast | Beginner Open Source Conributor
+- GitHub: [amoraara](https://github.com/amoraara)
