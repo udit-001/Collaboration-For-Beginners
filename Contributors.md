@@ -1,5 +1,10 @@
 # Contributors
 
+#### David: [David Fernandez](https://github.com/davferand)
+- Place: Valencia, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [davferand](https://github.com/davferand)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
