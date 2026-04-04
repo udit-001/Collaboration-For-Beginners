@@ -1,9 +1,9 @@
 # Contributors
 
-#### Name: [Udit Mittal](https://github.com/udit-001)
-- Place: Delhi, India
-- Bio: Programmer who loves watching Mr.Robot 🤖
-- GitHub: [udit-001](https://github.com/udit-001)
+#### Name: [Xianglin Ren](https://github.com/flamesky-exp)
+- Place: Macau
+- Bio: SDS student interested in open-source learning
+- GitHub: [flamesky-exp](https://github.com/flamesky-exp)
 
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
