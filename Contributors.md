@@ -705,3 +705,8 @@
 - Place: Davao City, Philippines
 - Bio:  Backend Development & Linux Enthusiast | Beginner Open Source Conributor
 - GitHub: [amoraara](https://github.com/amoraara)
+
+#### Name: [Hoang Nguyen](https://github.com/akimoi0)
+- Place: Seattle, Washington
+- Bio: High School Student | Linux Enthusiast
+- GitHub: [akimoi0](https://github.com/akimoi0)
