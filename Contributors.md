@@ -5,6 +5,11 @@
 - Bio: SDS student interested in open-source learning
 - GitHub: [flamesky-exp](https://github.com/flamesky-exp)
 
+#### Noelia: [Noelia Andrade](https://github.com/Noelia02)
+- Place: Valencia, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Noelia02](https://github.com/Noelia02)
+
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
 - Bio: Student in EDEM, Valencia.
