@@ -1,4 +1,9 @@
 # Contributors
+#### Pau: [Pablo Sanchez](https://github.com/Paugb124)
+- Place: Alicante, Alicante; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Paugb124](https://github.com/pablosanchezalcaraz11)
+  
 
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
