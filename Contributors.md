@@ -5,6 +5,12 @@
 - Bio: SDS student interested in open-source learning
 - GitHub: [flamesky-exp](https://github.com/flamesky-exp)
 
+#### Name: [Germán Devís](https://github.com/GermanDevis)
+- Place: Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [GermanDevis](https://github.com/GermanDevis)
+
+
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
 - Bio: Student in EDEM, Valencia.
