@@ -5,6 +5,11 @@
 - Bio: SDS student interested in open-source learning
 - GitHub: [flamesky-exp](https://github.com/flamesky-exp)
 
+#### Name: [Aisha del Tio](https://github.com/aishadeltio13)
+- Place: Valencia, Spain
+- Bio: Edem BIG DATA & CLOUD Student , Valencia
+- Github: [aishadeltio13](https://github.com/aishadeltio13)
+
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
 - Bio: Student in EDEM, Valencia.
