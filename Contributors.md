@@ -1,4 +1,8 @@
 # Contributors
+#### Name: [Sergi Escoruela](https://github.com/Sescoruela)
+- Place: Valencia, Spain
+- Bio: Programmer who loves watching Mr.Robot 🤖
+- GitHub: [Sescoruela](https://github.com/Sescoruela)
 
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
