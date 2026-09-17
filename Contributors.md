@@ -710,3 +710,8 @@
 - Place: Seattle, Washington
 - Bio: High School Student | Linux Enthusiast
 - GitHub: [akimoi0](https://github.com/akimoi0)
+
+#### Name: [John clark](https://github.com/johnnyboy3410) 
+- Place: US
+- Bio: Life time learner.
+- GitHub: [johnnyboy3410](https://github.com/johnnyboy3410)
