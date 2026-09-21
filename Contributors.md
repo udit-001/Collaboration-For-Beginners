@@ -715,3 +715,8 @@
 - Place: US
 - Bio: Life time learner.
 - GitHub: [johnnyboy3410](https://github.com/johnnyboy3410)
+
+#### Name: [Yash](https://github.com/yashkhou)
+- Place: Dubai, UAE
+- Bio: Building local-first AI systems and developer tooling.
+- GitHub: [yashkhou](https://github.com/yashkhou)
