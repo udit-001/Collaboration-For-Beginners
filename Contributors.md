@@ -5,6 +5,11 @@
 - Bio: SDS student interested in open-source learning
 - GitHub: [flamesky-exp](https://github.com/flamesky-exp)
 
+#### Name: [Elena Morales] (https://github.com/elenamoralesp7-droid)
+- Place: Murcia, Spain
+- Bio: Beginning in programmer's world with energy
+- GitHub: [elenamoralesp7-droid] (https://github.com/elenamoralesp7-droid)
+
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
 - Bio: Student in EDEM, Valencia.
