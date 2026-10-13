@@ -1,9 +1,9 @@
 # Contributors
 
-#### Name: [Xianglin Ren](https://github.com/flamesky-exp)
-- Place: Macau
-- Bio: SDS student interested in open-source learning
-- GitHub: [flamesky-exp](https://github.com/flamesky-exp)
+#### Name: [Jafaragha Huseynov](https://github.com/jafaraghahuseynov2003-web)
+- Place: Baku
+- Bio: Backend automation specialist
+- GitHub: [jafaraghahuseynov2003-web](https://github.com/jafaraghahuseynov2003-web)
 
 #### Pau: [Pau Garcia](https://github.com/Paugb124)
 - Place: Gandia, Valencia; España
