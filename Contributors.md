@@ -1,4 +1,8 @@
 # Contributors
+#### Name: [JOAQUIN CRESPI CREUS](https://github.com/joacocrespi)
+- Place: Valencia, Spain.
+- Bio: Beginner Programmer learning on it's own.
+- GitHub: [joacocrespi](https://github.com/joacocrespi)
 
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
