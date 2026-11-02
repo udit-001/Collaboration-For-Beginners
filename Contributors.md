@@ -739,6 +739,10 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
+#### Name: [Cesar Renart](https://github.com/CeRenart)
+- Place: Valencia, Spain
+- Bio: Student | Big Data, IA and Cloud
+- GitHub: [Cesar Renart](https://github.com/CeRenart)
 #### Name: [Jorge](https://github.com/JorgeCebolla)
 - Place: Valencia, Spain
 - Bio: Data analyst, ML developer
@@ -759,9 +763,4 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
-#### Name: [Cesar Renart](https://github.com/CeRenart)
-- Place: Valencia, Spain
-- Bio: Student
-- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
-
 
