@@ -739,6 +739,7 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
+=======
 #### Name: [Cesar Renart](https://github.com/CeRenart)
 - Place: Valencia, Spain
 - Bio: Student
@@ -748,3 +749,8 @@
 - Place: Valencia, Spain
 - Bio: Constant learner
 - GitHub: [joacasega](https://github.com/joacasega)
+
+#### Name: [Carlos](https://github.com/carlosgarranzo)
+- Place: Valencia, España
+- Bio: ADE + datos
+- GitHub: [carlosgarranzo](https://github.com/carlosgarranzo)
