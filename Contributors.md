@@ -720,3 +720,8 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+#### Name: [ALBA](https://github.com/albitadubon)
+- Place: Valencia, Spain
+- Bio: Data Engineer
+- GitHub: [ALBA](https://github.com/albitadubon)
