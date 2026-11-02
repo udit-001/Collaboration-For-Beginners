@@ -9,6 +9,11 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [QuicoCaballer](https://github.com/QuicoCaballer)
 
+#### Name: [Carlota Monleon](GitHub Link)
+- Place: Ademuz, Valencia
+- Bio: IA, Big Data & Cloud student
+- GitHub: [carlotamf](https://github.com/carlotamf)
+
 #### Name: [Maksim Gonzalez](https://github.com/kotoro506)
 - Place: Valencia, Spain
 - Bio: AI, Big Data and cloud computing at EDEM
@@ -743,6 +748,10 @@
 - Bio: Estudiante en EDEM
 - GitHub: [Arturo](https://github.com/arturogonzalezdolz)
 
+#### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
 #### Name: [Cesar Renart](https://github.com/CeRenart)
 - Place: Valencia, Spain
 - Bio: Student | Bid Data, IA and Cloud
