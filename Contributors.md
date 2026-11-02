@@ -5,6 +5,10 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [QuicoCaballer](https://github.com/QuicoCaballer)
 
+#### Name: [Maksim Gonzalez](https://github.com/kotoro506)
+- Place: Valencia, Spain
+- Bio: AI, Big Data and cloud computing at EDEM
+- GitHub: [Kotoro506](https://github.com/kotoro506)
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
 - Bio: SDS student interested in open-source learning
@@ -725,3 +729,9 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+#### Name: [Arturo](https://github.com/arturogonzalezdolz)
+- Place: Valencia, Spain 
+- Bio: Estudiante en EDEM
+- GitHub: [Arturo](https://github.com/arturogonzalezdolz)
+
