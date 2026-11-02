@@ -720,3 +720,9 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+
+#### Name: [Sergio Marti](https://github.com/sergiomartii)
+- Place: Valencia, Spain
+- Bio: Studying a masters in AI, Big Data and Cloud
+- GitHub: [sergiomartii](https://github.com/sergiomartii)
