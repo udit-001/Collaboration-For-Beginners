@@ -722,6 +722,6 @@
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
 #### Name: [Maria](https://github.com/mariasarrioo)
-- Place: Valencia, Spain
+- Place: Gandia, Valencia, Spain
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [mariasarrioo](https://github.com/mariasarrioo)
