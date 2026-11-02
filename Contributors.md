@@ -720,3 +720,8 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+#### Name: [Alberto Blasco](https://github.com/AlbertoBlasco03)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [AlbertoBlasco03](https://github.com/AlbertoBlasco03)
