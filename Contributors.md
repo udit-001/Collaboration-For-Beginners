@@ -743,6 +743,10 @@
 - Place: Gandia, Valencia, Spain
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [mariasarrioo](https://github.com/mariasarrioo)
+#### Name: [Jorge](https://github.com/JorgeCebolla)
+- Place: Valencia, Spain
+- Bio: Data analyst, ML developer
+- GitHub: [JorgeCebolla](https://github.com/JorgeCebolla)
 #### Name: [Carla Morales Domínguez](https://github.com/carlamoraless)
 - Place: Valencia, Spain
 - Bio: Data & IA Student
