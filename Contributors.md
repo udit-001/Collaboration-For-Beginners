@@ -725,3 +725,8 @@
 - Place: City, Country
 - Bio: Computer Engineering at UPV
 - GitHub: [Josep-Martinez](https://github.com/Josep-Martinez)
+
+#### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
