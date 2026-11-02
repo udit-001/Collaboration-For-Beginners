@@ -1,5 +1,23 @@
 # Contributors
+#### Pau: [Marcos Berna](https://github.com/Paugb124)
+- Place: Blasco Ibañez, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Marcos Berna](https://github.com/Marcosberna/MarcosBerna)
 
+#### Name: [Quico Caballer](https://github.com/QuicoCaballer)
+- Place: Sagunto, Valencia
+- Bio: Student in EDEM, Valencia.
+- GitHub: [QuicoCaballer](https://github.com/QuicoCaballer)
+
+#### Name: [Carlota Monleon](GitHub Link)
+- Place: Ademuz, Valencia
+- Bio: IA, Big Data & Cloud student
+- GitHub: [carlotamf](https://github.com/carlotamf)
+
+#### Name: [Maksim Gonzalez](https://github.com/kotoro506)
+- Place: Valencia, Spain
+- Bio: AI, Big Data and cloud computing at EDEM
+- GitHub: [Kotoro506](https://github.com/kotoro506)
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
 - Bio: SDS student interested in open-source learning
@@ -725,3 +743,49 @@
 - Place: Valencia, Spain
 - Bio: EDEM Student | Beginner Open Source Contributor
 - GitHub: [Your Name](https://github.com/pepelandete)
+#### Name: [Carlota](https://github.com/CarlotaSanjoseEscudero)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [CarlotaSanjoseEscudero](https://github.com/CarlotaSanjoseEscudero) 
+
+
+#### Name: [Arturo](https://github.com/arturogonzalezdolz)
+- Place: Valencia, Spain 
+- Bio: Estudiante en EDEM
+- GitHub: [Arturo](https://github.com/arturogonzalezdolz)
+
+#### Name: [Maria](https://github.com/mariasarrioo)
+- Place: Gandia, Valencia, Spain
+- Bio: Building local-first AI systems and developer tooling.
+- GitHub: [mariasarrioo](https://github.com/mariasarrioo)
+#### Name: [Jorge](https://github.com/JorgeCebolla)
+- Place: Valencia, Spain
+- Bio: Data analyst, ML developer
+- GitHub: [JorgeCebolla](https://github.com/JorgeCebolla)
+#### Name: [Carla Morales Domínguez](https://github.com/carlamoraless)
+- Place: Valencia, Spain
+- Bio: Data & IA Student
+- GitHub: [carlamoraless](https://github.com/carlamoraless)
+#### Name: [Carla López Soriano](https://github.com/CarlaLopez38)
+- Place: Valencia, Spain
+- Bio: Data Science graduate currently pursuing a Master's in AI, Big Data & Cloud.
+- GitHub: [CarlaLopez38](https://github.com/CarlaLopez38)
+#### Name: [Alberto Blasco](https://github.com/AlbertoBlasco03)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [AlbertoBlasco03](https://github.com/AlbertoBlasco03)
+
+#### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
+
+#### Name: [Cesar Renart](https://github.com/CeRenart)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
+
+#### Name: [Sergio Mancebo](https://github.com/SergioMancebo/)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
