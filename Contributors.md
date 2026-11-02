@@ -1,4 +1,8 @@
 # Contributors
+#### Name: [Maksim Gonzalez](https://github.com/kotoro506)
+- Place: Valencia, Spain
+- Bio: AI, Big Data and cloud computing at EDEM
+- GitHub: [Kotoro506](https://github.com/kotoro506)
 
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
