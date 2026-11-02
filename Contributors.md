@@ -720,3 +720,8 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+#### Name: [YOUR NAME](GitHub Link)
+- Place: Valencia, Spain 
+- Bio: a business guy becoming technical 
+- GitHub: [victor](https://github.com/v1cz/)
