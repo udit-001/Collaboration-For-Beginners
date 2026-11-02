@@ -739,6 +739,17 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
+#### Name: [Carlota](https://github.com/CarlotaSanjoseEscudero)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [CarlotaSanjoseEscudero](https://github.com/CarlotaSanjoseEscudero) 
+
+
+#### Name: [Arturo](https://github.com/arturogonzalezdolz)
+- Place: Valencia, Spain 
+- Bio: Estudiante en EDEM
+- GitHub: [Arturo](https://github.com/arturogonzalezdolz)
+
 #### Name: [Maria](https://github.com/mariasarrioo)
 - Place: Gandia, Valencia, Spain
 - Bio: Building local-first AI systems and developer tooling.
@@ -759,10 +770,12 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [AlbertoBlasco03](https://github.com/AlbertoBlasco03)
+
 #### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
+
 #### Name: [Cesar Renart](https://github.com/CeRenart)
 - Place: Valencia, Spain
 - Bio: Student
