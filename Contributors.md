@@ -4,6 +4,15 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Marcos Berna](https://github.com/Marcosberna/MarcosBerna)
 
+#### Name: [Quico Caballer](https://github.com/QuicoCaballer)
+- Place: Sagunto, Valencia
+- Bio: Student in EDEM, Valencia.
+- GitHub: [QuicoCaballer](https://github.com/QuicoCaballer)
+
+#### Name: [Maksim Gonzalez](https://github.com/kotoro506)
+- Place: Valencia, Spain
+- Bio: AI, Big Data and cloud computing at EDEM
+- GitHub: [Kotoro506](https://github.com/kotoro506)
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
 - Bio: SDS student interested in open-source learning
@@ -740,3 +749,7 @@
 - Bio: Estudiante en EDEM
 - GitHub: [Arturo](https://github.com/arturogonzalezdolz)
 
+#### Name: [Cesar Renart](https://github.com/CeRenart)
+- Place: Valencia, Spain
+- Bio: Student | Bid Data, IA and Cloud
+- GitHub: [Cesar Renart](https://github.com/CeRenart)
