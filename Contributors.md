@@ -720,6 +720,7 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
 #### Name: [NEUS](https://github.com/neussanmartin)
 - Place: Valencia, Spain
 - Bio: EDEM MIAB
