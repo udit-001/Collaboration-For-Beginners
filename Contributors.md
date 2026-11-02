@@ -1,4 +1,8 @@
 # Contributors
+#### Pau: [Marcos Berna](https://github.com/Paugb124)
+- Place: Blasco Ibañez, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Marcos Berna](https://github.com/Marcosberna/MarcosBerna)
 
 #### Name: [Quico Caballer](https://github.com/QuicoCaballer)
 - Place: Sagunto, Valencia
@@ -739,3 +743,7 @@
 - Bio: Estudiante en EDEM
 - GitHub: [Arturo](https://github.com/arturogonzalezdolz)
 
+#### Name: [Cesar Renart](https://github.com/CeRenart)
+- Place: Valencia, Spain
+- Bio: Student | Bid Data, IA and Cloud
+- GitHub: [Cesar Renart](https://github.com/CeRenart)
