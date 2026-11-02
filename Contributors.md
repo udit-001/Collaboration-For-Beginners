@@ -720,3 +720,10 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+<<<<<<< Updated upstream
+=======
+  #### Name: [Carlos](https://github.com/CarlosCandela02)
+- Place: Valencia, Spain
+- Bio: Student 
+- GitHub: [Carlos](https://github.com/CarlosCandela02)
+>>>>>>> Stashed changes
