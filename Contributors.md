@@ -720,3 +720,8 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+#### Name: [Carlota](https://github.com/CarlotaSanjoseEscudero)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [CarlotaSanjoseEscudero](https://github.com/CarlotaSanjoseEscudero)
