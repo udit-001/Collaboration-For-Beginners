@@ -743,6 +743,10 @@
 - Place: Valencia, Spain
 - Bio: Data Science graduate currently pursuing a Master's in AI, Big Data & Cloud.
 - GitHub: [CarlaLopez38](https://github.com/CarlaLopez38)
+#### Name: [Alberto Blasco](https://github.com/AlbertoBlasco03)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [AlbertoBlasco03](https://github.com/AlbertoBlasco03)
 #### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
 - Place: Valencia, Spain
 - Bio: Student
