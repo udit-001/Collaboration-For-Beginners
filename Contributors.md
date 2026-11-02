@@ -1,4 +1,8 @@
 # Contributors
+#### Pau: [Marcos Berna](https://github.com/Paugb124)
+- Place: Blasco Ibañez, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Marcos Berna](https://github.com/Marcosberna/MarcosBerna)
 
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
@@ -725,6 +729,10 @@
 - Place: Valencia, Spain
 - Bio: Student at EDEM.
 - GitHub: [mariafpicoduque](https://github.com/mariafpicoduque-prog)
+#### Name: [Josep Martinez](https://github.com/Josep-Martinez)
+- Place: City, Country
+- Bio: Computer Engineering at UPV
+- GitHub: [Josep-Martinez](https://github.com/Josep-Martinez)
 
 #### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
 - Place: Valencia, Spain
