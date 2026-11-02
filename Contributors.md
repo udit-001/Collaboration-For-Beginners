@@ -741,5 +741,10 @@
 
 #### Name: [Cesar Renart](https://github.com/CeRenart)
 - Place: Valencia, Spain
-- Bio: Student | Big Data, IA and Cloud
-- GitHub: [Cesar Renart](https://github.com/CeRenart)
+- Bio: Student
+- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
+
+#### Name: [Joaquin Caselles](https://github.com/joacasega)
+- Place: Valencia, Spain
+- Bio: Constant learner
+- GitHub: [joacasega](https://github.com/joacasega)
