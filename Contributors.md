@@ -739,6 +739,25 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
+#### Name: [Pepe Landete](https://github.com/pepelandete)
+- Place: Valencia, Spain
+- Bio: EDEM Student | Beginner Open Source Contributor
+- GitHub: [Your Name](https://github.com/pepelandete)
+#### Name: [Carlota](https://github.com/CarlotaSanjoseEscudero)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [CarlotaSanjoseEscudero](https://github.com/CarlotaSanjoseEscudero) 
+
+
+#### Name: [Arturo](https://github.com/arturogonzalezdolz)
+- Place: Valencia, Spain 
+- Bio: Estudiante en EDEM
+- GitHub: [Arturo](https://github.com/arturogonzalezdolz)
+
+#### Name: [Maria](https://github.com/mariasarrioo)
+- Place: Gandia, Valencia, Spain
+- Bio: Building local-first AI systems and developer tooling.
+- GitHub: [mariasarrioo](https://github.com/mariasarrioo)
 #### Name: [Jorge](https://github.com/JorgeCebolla)
 - Place: Valencia, Spain
 - Bio: Data analyst, ML developer
@@ -755,10 +774,12 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [AlbertoBlasco03](https://github.com/AlbertoBlasco03)
+
 #### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
+
 #### Name: [Cesar Renart](https://github.com/CeRenart)
 - Place: Valencia, Spain
 - Bio: Student
@@ -768,3 +789,7 @@
 - Place: Valencia, Spain
 - Bio: Constant learner
 - GitHub: [joacasega](https://github.com/joacasega)
+#### Name: [Sergio Mancebo](https://github.com/SergioMancebo/)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
