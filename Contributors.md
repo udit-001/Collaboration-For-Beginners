@@ -739,6 +739,11 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
+#### Name: [NEUS](https://github.com/neussanmartin)
+- Place: Valencia, Spain
+- Bio: EDEM MIAB
+- GitHub: [neussanmartin](https://github.com/neussanmartin)
+
 #### Name: [Carlota](https://github.com/CarlotaSanjoseEscudero)
 - Place: Valencia, Spain
 - Bio: Student
