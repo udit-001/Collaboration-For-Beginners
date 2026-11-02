@@ -725,12 +725,8 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
-#### Name: [Josep Martinez](https://github.com/Josep-Martinez)
-- Place: City, Country
-- Bio: Computer Engineering at UPV
-- GitHub: [Josep-Martinez](https://github.com/Josep-Martinez)
+#### Name: [Arturo](https://github.com/arturogonzalezdolz)
+- Place: Valencia, Spain 
+- Bio: Estudiante en EDEM
+- GitHub: [Arturo](https://github.com/arturogonzalezdolz)
 
-#### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
-- Place: Valencia, Spain
-- Bio: Student
-- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
