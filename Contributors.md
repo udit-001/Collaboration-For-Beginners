@@ -723,5 +723,5 @@
 
 #### Name: [Cesar Renart](https://github.com/CeRenart)
 - Place: Valencia, Spain
-- Bio: Student | Bid Data, IA and Cloud
+- Bio: Student | Big Data, IA and Cloud
 - GitHub: [Cesar Renart](https://github.com/CeRenart)
