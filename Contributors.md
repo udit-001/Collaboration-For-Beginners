@@ -695,6 +695,11 @@
 - Bio: Student | Beginner Open Source Contributor
 - GitHub: [Jayanthiclaretdevaraj](https://github.com/Jayanthiclaretdevaraj)
 
+#### Name: [Mafe Pico](https://github.com/mariafpicoduque-prog)
+- Place: Valencia, Spain
+- Bio: Student at EDEM.
+- GitHub: [mariafpicoduque](https://github.com/mariafpicoduque-prog)
+
 #### Name: [Shradha Dubey](https://github.com/shradhadubey/)
 - Place: NYC, USA
 - Bio: Data Engineer 
@@ -725,10 +730,7 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
-#### Name: [Mafe Pico](https://github.com/mariafpicoduque-prog)
-- Place: Valencia, Spain
-- Bio: Student at EDEM.
-- GitHub: [mariafpicoduque](https://github.com/mariafpicoduque-prog)
+
 #### Name: [Josep Martinez](https://github.com/Josep-Martinez)
 - Place: City, Country
 - Bio: Computer Engineering at UPV
