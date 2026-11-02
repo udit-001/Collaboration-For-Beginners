@@ -743,3 +743,24 @@
 - Place: Valencia, Spain
 - Bio: Student | Big Data, IA and Cloud
 - GitHub: [Cesar Renart](https://github.com/CeRenart)
+#### Name: [Jorge](https://github.com/JorgeCebolla)
+- Place: Valencia, Spain
+- Bio: Data analyst, ML developer
+- GitHub: [JorgeCebolla](https://github.com/JorgeCebolla)
+#### Name: [Carla Morales Domínguez](https://github.com/carlamoraless)
+- Place: Valencia, Spain
+- Bio: Data & IA Student
+- GitHub: [carlamoraless](https://github.com/carlamoraless)
+#### Name: [Carla López Soriano](https://github.com/CarlaLopez38)
+- Place: Valencia, Spain
+- Bio: Data Science graduate currently pursuing a Master's in AI, Big Data & Cloud.
+- GitHub: [CarlaLopez38](https://github.com/CarlaLopez38)
+#### Name: [Alberto Blasco](https://github.com/AlbertoBlasco03)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [AlbertoBlasco03](https://github.com/AlbertoBlasco03)
+#### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
+
