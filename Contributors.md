@@ -674,6 +674,11 @@
 - Bio: Student
 - GitHub: [Travis-DV](https://github.com/Travis-DV)
 
+#### Name: [Yash](https://github.com/mariafpicoduque-prog)
+- Place: Valencia, Spain
+- Bio: Student.
+- GitHub: [yashkhou](https://github.com/mariafpicoduque-prog)
+
 #### Name: [Jonas Ermert](https://github.com/jonasermert)
 - Place: Erfurt, Germany
 - Bio: Fullstack Developer
