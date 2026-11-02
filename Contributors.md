@@ -720,3 +720,8 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+#### Name: [Jorge](https://github.com/JorgeCebolla)
+- Place: Valencia, Spain
+- Bio: Data analyst, ML developer
+- GitHub: [JorgeCebolla](https://github.com/JorgeCebolla)
