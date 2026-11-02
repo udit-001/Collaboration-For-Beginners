@@ -720,3 +720,7 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+#### Name: [Iker FM](https://github.com/ikerfernandez16-col)
+- Place: VALLADOLID, ESPAÑA
+- Bio: Aprendedor de cosas
+- GitHub: [Iker FM](https://github.com/ikerfernandez16-col)
