@@ -764,4 +764,7 @@
 - Bio: Student
 - GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
 
-
+#### Name: [Sergio Mancebo](https://github.com/SergioMancebo/)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
