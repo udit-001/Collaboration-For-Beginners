@@ -739,15 +739,7 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
-#### Name: [Alberto Blasco](https://github.com/AlbertoBlasco03)
-- Place: Valencia, Spain
-- Bio: Student
-- GitHub: [AlbertoBlasco03](https://github.com/AlbertoBlasco03)
-#### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
-- Place: Valencia, Spain
-- Bio: Student
-- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
 #### Name: [Cesar Renart](https://github.com/CeRenart)
 - Place: Valencia, Spain
-- Bio: Student | Bid Data, IA and Cloud
+- Bio: Student | Big Data, IA and Cloud
 - GitHub: [Cesar Renart](https://github.com/CeRenart)
