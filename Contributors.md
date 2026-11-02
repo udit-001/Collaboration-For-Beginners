@@ -722,5 +722,5 @@
 - GitHub: [yashkhou](https://github.com/yashkhou)
 #### Name: [NEUS](https://github.com/neussanmartin)
 - Place: Valencia, Spain
-- Bio: Who are you?
+- Bio: EDEM MIAB
 - GitHub: [neussanmartin](https://github.com/neussanmartin)
