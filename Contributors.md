@@ -1,4 +1,10 @@
 # Contributors
+
+#### Name: [Quico Caballer](https://github.com/QuicoCaballer)
+- Place: Sagunto, Valencia
+- Bio: Student in EDEM, Valencia.
+- GitHub: [QuicoCaballer](https://github.com/QuicoCaballer)
+
 #### Name: [Maksim Gonzalez](https://github.com/kotoro506)
 - Place: Valencia, Spain
 - Bio: AI, Big Data and cloud computing at EDEM
