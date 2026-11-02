@@ -725,3 +725,8 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
+
+#### Name: [Joaquin Caselles](https://github.com/joacasega)
+- Place: Valencia, Spain
+- Bio: Constant learner
+- GitHub: [joacasega](https://github.com/joacasega)
