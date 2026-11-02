@@ -739,6 +739,10 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
+#### Name: [Pepe Landete](https://github.com/pepelandete)
+- Place: Valencia, Spain
+- Bio: EDEM Student | Beginner Open Source Contributor
+- GitHub: [Your Name](https://github.com/pepelandete)
 #### Name: [Carlota](https://github.com/CarlotaSanjoseEscudero)
 - Place: Valencia, Spain
 - Bio: Student
