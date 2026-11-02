@@ -720,3 +720,9 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+#### Name: [Mafe Pico](https://github.com/mariafpicoduque-prog)
+- Place: Valencia, Spain
+- Bio: Student at EDEM.
+- GitHub: [mariafpicoduque](https://github.com/mariafpicoduque-prog)
+
