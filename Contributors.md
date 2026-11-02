@@ -1,5 +1,23 @@
 # Contributors
+#### Pau: [Marcos Berna](https://github.com/Paugb124)
+- Place: Blasco Ibañez, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Marcos Berna](https://github.com/Marcosberna/MarcosBerna)
 
+#### Name: [Quico Caballer](https://github.com/QuicoCaballer)
+- Place: Sagunto, Valencia
+- Bio: Student in EDEM, Valencia.
+- GitHub: [QuicoCaballer](https://github.com/QuicoCaballer)
+
+#### Name: [Carlota Monleon](GitHub Link)
+- Place: Ademuz, Valencia
+- Bio: IA, Big Data & Cloud student
+- GitHub: [carlotamf](https://github.com/carlotamf)
+
+#### Name: [Maksim Gonzalez](https://github.com/kotoro506)
+- Place: Valencia, Spain
+- Bio: AI, Big Data and cloud computing at EDEM
+- GitHub: [Kotoro506](https://github.com/kotoro506)
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
 - Bio: SDS student interested in open-source learning
@@ -720,6 +738,17 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+=======
+#### Name: [Cesar Renart](https://github.com/CeRenart)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
+
+#### Name: [Joaquin Caselles](https://github.com/joacasega)
+- Place: Valencia, Spain
+- Bio: Constant learner
+- GitHub: [joacasega](https://github.com/joacasega)
 
 #### Name: [Carlos](https://github.com/carlosgarranzo)
 - Place: Valencia, España
