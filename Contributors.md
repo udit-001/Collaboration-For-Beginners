@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Carlota Monleon](GitHub Link)
+- Place: Ademuz, Valencia
+- Bio: IA, Big Data & Cloud student
+- GitHub: [carlotamf](https://github.com/carlotamf)
+
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
 - Bio: SDS student interested in open-source learning
