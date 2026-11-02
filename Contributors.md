@@ -739,6 +739,18 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
+#### Name: [Carla López Soriano](https://github.com/CarlaLopez38)
+- Place: Valencia, Spain
+- Bio: Data Science graduate currently pursuing a Master's in AI, Big Data & Cloud.
+- GitHub: [CarlaLopez38](https://github.com/CarlaLopez38)
+#### Name: [Alberto Blasco](https://github.com/AlbertoBlasco03)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [AlbertoBlasco03](https://github.com/AlbertoBlasco03)
+#### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
 #### Name: [Cesar Renart](https://github.com/CeRenart)
 - Place: Valencia, Spain
 - Bio: Student
