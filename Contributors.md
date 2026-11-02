@@ -739,6 +739,10 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
+#### Name: [Maria](https://github.com/mariasarrioo)
+- Place: Gandia, Valencia, Spain
+- Bio: Building local-first AI systems and developer tooling.
+- GitHub: [mariasarrioo](https://github.com/mariasarrioo)
 #### Name: [Jorge](https://github.com/JorgeCebolla)
 - Place: Valencia, Spain
 - Bio: Data analyst, ML developer
