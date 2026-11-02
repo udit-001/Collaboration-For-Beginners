@@ -697,7 +697,7 @@
 
 #### Name: [Mafe Pico](https://github.com/mariafpicoduque-prog)
 - Place: Valencia, Spain
-- Bio: Student at EDEM.
+- Bio: Master Student.
 - GitHub: [mariafpicoduque](https://github.com/mariafpicoduque-prog)
 
 #### Name: [Shradha Dubey](https://github.com/shradhadubey/)
