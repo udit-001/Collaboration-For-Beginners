@@ -744,6 +744,29 @@
 - Bio: EDEM MIAB
 - GitHub: [neussanmartin](https://github.com/neussanmartin)
 
+#### Name: [Carlota](https://github.com/CarlotaSanjoseEscudero)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [CarlotaSanjoseEscudero](https://github.com/CarlotaSanjoseEscudero) 
+
+
+#### Name: [Arturo](https://github.com/arturogonzalezdolz)
+- Place: Valencia, Spain 
+- Bio: Estudiante en EDEM
+- GitHub: [Arturo](https://github.com/arturogonzalezdolz)
+
+#### Name: [Maria](https://github.com/mariasarrioo)
+- Place: Gandia, Valencia, Spain
+- Bio: Building local-first AI systems and developer tooling.
+- GitHub: [mariasarrioo](https://github.com/mariasarrioo)
+#### Name: [Jorge](https://github.com/JorgeCebolla)
+- Place: Valencia, Spain
+- Bio: Data analyst, ML developer
+- GitHub: [JorgeCebolla](https://github.com/JorgeCebolla)
+#### Name: [Carla Morales Domínguez](https://github.com/carlamoraless)
+- Place: Valencia, Spain
+- Bio: Data & IA Student
+- GitHub: [carlamoraless](https://github.com/carlamoraless)
 #### Name: [Carla López Soriano](https://github.com/CarlaLopez38)
 - Place: Valencia, Spain
 - Bio: Data Science graduate currently pursuing a Master's in AI, Big Data & Cloud.
@@ -752,13 +775,18 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [AlbertoBlasco03](https://github.com/AlbertoBlasco03)
+
 #### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
+
 #### Name: [Cesar Renart](https://github.com/CeRenart)
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
 
-
+#### Name: [Sergio Mancebo](https://github.com/SergioMancebo/)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
