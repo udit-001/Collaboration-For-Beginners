@@ -720,3 +720,8 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+#### Name: [Carla Morales Domínguez](https://github.com/carlamoraless)
+- Place: Valencia, Spain
+- Bio: Data & IA Student
+- GitHub: [carlamoraless](https://github.com/carlamoraless)
