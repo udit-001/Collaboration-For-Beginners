@@ -739,6 +739,13 @@
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
 
+ 
+ #### Name: [Carlos](https://github.com/CarlosCandela02)
+- Place: Valencia, Spain
+- Bio: Student 
+- GitHub: [Carlos](https://github.com/CarlosCandela02)
+
+
 #### Name: [ALBA](https://github.com/albitadubon)
 - Place: Valencia, Spain
 - Bio: Data Engineer
@@ -797,3 +804,4 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
+
