@@ -1,5 +1,14 @@
 # Contributors
 
+#### Name: [Quico Caballer](https://github.com/QuicoCaballer)
+- Place: Sagunto, Valencia
+- Bio: Student in EDEM, Valencia.
+- GitHub: [QuicoCaballer](https://github.com/QuicoCaballer)
+
+#### Name: [Maksim Gonzalez](https://github.com/kotoro506)
+- Place: Valencia, Spain
+- Bio: AI, Big Data and cloud computing at EDEM
+- GitHub: [Kotoro506](https://github.com/kotoro506)
 #### Name: [Xianglin Ren](https://github.com/flamesky-exp)
 - Place: Macau
 - Bio: SDS student interested in open-source learning
