@@ -726,3 +726,7 @@
 - Bio: Student at EDEM.
 - GitHub: [mariafpicoduque](https://github.com/mariafpicoduque-prog)
 
+#### Name: [Pilar Pitarch](https://github.com/ppitarchnavarro)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [ppitarchnavarro](https://github.com/ppitarchnavarro)
