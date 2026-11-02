@@ -720,3 +720,8 @@
 - Place: Dubai, UAE
 - Bio: Building local-first AI systems and developer tooling.
 - GitHub: [yashkhou](https://github.com/yashkhou)
+
+#### Name: [Carla López Soriano](https://github.com/CarlaLopez38)
+- Place: Valencia, Spain
+- Bio: Data Science graduate currently pursuing a Master's in AI, Big Data & Cloud.
+- GitHub: [CarlaLopez38](https://github.com/CarlaLopez38)
