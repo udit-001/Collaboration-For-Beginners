@@ -1,4 +1,6 @@
-#### Name: Lorenzo (https://github.com/Sabba44)
+# Contributors
+
+#### Name: [Lorenzo Sabbatini](https://github.com/Sabba44)
 - Place: Valencia, Spain
 - Bio: EDEM Student
 - GitHub: Sabba44 (https://github.com/Sabba44)
@@ -7,6 +9,7 @@
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Jadelopez03](https://github.com/jadelopez03)
+- GitHub: [Sabba44] ([GitHub Link](https://github.com/Sabba44))
 
 #### Name: [Ignacio Pinazo Orihuela](https://github.com/Fisjo)
 - Place: Valencia, Spain
