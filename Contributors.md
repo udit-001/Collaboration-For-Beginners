@@ -9,6 +9,23 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Christian Vazquez](https://github.com/chrisvzqz)
   
+#### Name: [Jorge Durá](https://github.com/joorgeee04)
+- Place: Valencia, Spain
+- Bio: AI, Big Data and cloud computing at EDEM
+- GitHub: [Jorge Durá](https://github.com/joorgeee04)
+#### Name: [Manolo Tortajada](github.com/ManolitoAA)
+- Place: Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [ManolitoAA](https://github.com/ManolitoAA)
+#### Name: [Lola Bonet](https://github.com/lolabonetlopez)
+- Place: Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Lola Bonet](https://github.com/lolabonetlopez)
+
+#### Name: [DevLitos](https://github.com/DevLitos)
+- Place: Valencia, Spain
+- Bio: I create software
+- GitHub: [DevLitos](https://github.com/DevLitos)
 
 #### Name: [Lorenzo Sabbatini](https://github.com/Sabba44)
 - Place: Valencia, Spain
@@ -24,7 +41,6 @@
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Marcos Berna](https://github.com/Marcosberna/MarcosBerna)
-
 #### Name: [Quico Caballer](https://github.com/QuicoCaballer)
 - Place: Sagunto, Valencia
 - Bio: Student in EDEM, Valencia.
@@ -825,6 +841,14 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
+#### Name: [Oscar Herreros](https://github.com/oscarherreross)
+- Place: Valenia, Spain
+- Bio: EDEM student
+- GitHub: [oscarherreross](https://github.com/oscarherreross)
+#### Name: [Andres Gimeno](https://github.com/agimcer)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Andres Gimeno](https://github.com/agimcer)
 #### Name: [David Gallart](https://github.com/davidgallart/)
 - Place: Valencia, Spain
 - Bio: Student
@@ -834,6 +858,16 @@
 - Bio: Master student?
 - GitHub: [rbrotonsc-pixel](https://github.com/rbrotonsc-pixel)
 
+
+#### Name: [Angel Carlos](https://github.com/carlospm2004)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [carlospm2004](https://github.com/carlospm2004)
+
+#### Name: [Ingrid Albert](https://github.com/ingridalbert)
+- Place: Castellón de la Plana, Spain
+- Bio: Student
+- GitHub: [ingridalbert](https://github.com/ingridalbert)
 #### Name: [Ricardo Roman Martinez](https://github.com/Luigiverde4/)
 - Place: Valencia, Spain
 - Bio: Working on streaming
