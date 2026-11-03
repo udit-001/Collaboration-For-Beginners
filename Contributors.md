@@ -1,3 +1,11 @@
+#### Name: [Laura Soler](https://github.com/laurabenisuera98-cpu)
+- Place: Benissuera, España
+- Bio: Student in EDEM, Valencia
+- GitHub: [Laura Soler](https://github.com/laurabenisuera98-cpu)
+
+
+
+
 # Contributors
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
