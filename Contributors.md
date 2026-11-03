@@ -1,4 +1,10 @@
 # Contributors
+
+#### Name: [Ignacio Pinazo Orihuela](https://github.com/Fisjo)
+- Place: Valencia, Spain
+- Bio: MSc Student at EDEM Escuela de Empresarios
+- GitHub: [Fisjo] ([GitHub Link](https://github.com/Fisjo))
+
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
@@ -808,3 +814,8 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [Andres Gimeno](https://github.com/agimcer)
+
+#### Name: [Ricardo Roman Martinez](https://github.com/Luigiverde4/)
+- Place: Valencia, Spain
+- Bio: Working on streaming
+- GitHub: [Luigiverde4](https://github.com/Luigiverde4/)
