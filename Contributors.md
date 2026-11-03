@@ -1,4 +1,10 @@
 # Contributors
+
+#### Name: [Jorge Durá](https://github.com/jorgeoliverz)
+- Place: Valencia, Spain
+- Bio: Student in EDEM, Valencia
+- GitHub: [Jorge Oliver](https://github.com/jorgeoliverz)
+
 #### Name: [Jorge Durá](https://github.com/joorgeee04)
 - Place: Valencia, Spain
 - Bio: AI, Big Data and cloud computing at EDEM
