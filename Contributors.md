@@ -805,3 +805,9 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+#### Name: [Pablo Cunat](https://github.com/cunatpablo-afk)
+- Place: Valencia, Spain
+- Bio: Data & AI Student
+- GitHub: [Pablo Cuñat](https://github.com/cunatpablo-afk)
+
+
