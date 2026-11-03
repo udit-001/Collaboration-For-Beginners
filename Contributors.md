@@ -1,4 +1,8 @@
 # Contributors
+#### Name: [DevLitos](https://github.com/DevLitos)
+- Place: Valencia, Spain
+- Bio: I create software
+- GitHub: [DevLitos](https://github.com/DevLitos)
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
