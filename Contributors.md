@@ -815,6 +815,10 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
+#### Name: [Rafa Brotons](https://github.com/rbrotonsc-pixel)
+- Place: Valencia,España
+- Bio: Master student?
+- GitHub: [rbrotonsc-pixel](https://github.com/rbrotonsc-pixel)
 
 #### Name: [Ricardo Roman Martinez](https://github.com/Luigiverde4/)
 - Place: Valencia, Spain
