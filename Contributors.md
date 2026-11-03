@@ -4,6 +4,10 @@
 - GitHub: [Naxito04](https://github.com/Naxito04)
   
 # Contributors
+#### Name: [Manolo Tortajada](github.com/ManolitoAA)
+- Place: Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [ManolitoAA](https://github.com/ManolitoAA)
 #### Name: [Lola Bonet](https://github.com/lolabonetlopez)
 - Place: Valencia; España
 - Bio: Student in EDEM, Valencia.
