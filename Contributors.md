@@ -836,6 +836,10 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
+#### Name: [Juanjo Prades](https://github.com/juanjoprades04/)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [juanjoprades04](https://github.com/juanjoprades04/)
 #### Name: [Oscar Herreros](https://github.com/oscarherreross)
 - Place: Valenia, Spain
 - Bio: EDEM student
