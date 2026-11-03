@@ -1,4 +1,10 @@
 # Contributors
+
+#### Name: [Adrian Lazaro](https://github.com/adlasa)
+- Place: Chiva, Valencia
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Adrian Lazaro](https://github.com/adlasa)
+
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
@@ -804,4 +810,6 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
+
+
 
