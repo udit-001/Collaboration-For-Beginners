@@ -1,4 +1,9 @@
 # Contributors
+#### Name: [Javier Martinez](https://github.com/Javier277)
+- Place: Valerncia, Spain
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Javier Martinez](https://github.com/Javier277)
+
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
