@@ -1,4 +1,10 @@
 # Contributors
+#### Name: [Lola Bonet](https://github.com/lolabonetlopez)
+- Place: Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Lola Bonet](https://github.com/lolabonetlopez)
+
+
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
