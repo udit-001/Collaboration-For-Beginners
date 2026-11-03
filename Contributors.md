@@ -1,4 +1,9 @@
 # Contributors
+#### Name: [Manolo Tortajada](github.com/ManolitoAA)
+- Place: Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [ManolitoAA](https://github.com/ManolitoAA)
+
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
