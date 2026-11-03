@@ -804,4 +804,8 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
-
+- 
+- #### Name: [Jaime Sanfelix](https://github.com/jaimesanfelix)
+- Place: Valencia, Spain
+- Bio: DAM Student
+- GitHub: [jaimesanfelix](https://github.com/jaimesanfelix)
