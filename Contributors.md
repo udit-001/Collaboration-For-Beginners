@@ -1,4 +1,9 @@
 # Contributors
+#### Name: [Jana Cervera](https://github.com/janacerv-003)
+- Place: Benaguasil, Valencia
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Jana Mei](https://github.com/janacerv-003)
+
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
