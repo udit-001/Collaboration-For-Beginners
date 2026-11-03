@@ -805,3 +805,7 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+#### Name: [Antonio Gabriel Navarro Puig](https://github.com/Lunkynono/)
+- Place: Valencia, Spain
+- Bio: Computer Science Engineer & Web Development, AI and DevOps student
+- GitHub: [Lunkynono](https://github.com/Lunkynono/)
