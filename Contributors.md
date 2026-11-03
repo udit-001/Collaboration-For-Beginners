@@ -870,6 +870,12 @@
 - Bio: Aerospace Engineer learning AI and Data Science
 - GitHub: [HugoGavRuiz](https://github.com/HugoGavRuiz)
 
+#### Name: [Pablo Cunat](https://github.com/cunatpablo-afk)
+- Place: Valencia, Spain
+- Bio: Data & AI Student
+- GitHub: [Pablo Cuñat](https://github.com/cunatpablo-afk)
+
+
 #### Name: [Angel Carlos](https://github.com/carlospm2004)
 - Place: Valencia, Spain
 - Bio: Student
