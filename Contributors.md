@@ -805,3 +805,7 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+#### Name: [Mario Gonzalez](https://github.com/Magocres)
+- Place: Valencia, Spain
+- Bio: Student in EDEM
+- GitHub: [Mario](https://github.com/Magocres)
