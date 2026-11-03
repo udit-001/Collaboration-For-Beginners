@@ -838,6 +838,11 @@
 - Bio: Master student?
 - GitHub: [rbrotonsc-pixel](https://github.com/rbrotonsc-pixel)
 
+
+#### Name: [Ingrid Albert](https://github.com/ingridalbert)
+- Place: Castellón de la Plana, Spain
+- Bio: Student
+- GitHub: [ingridalbert](https://github.com/ingridalbert)
 #### Name: [Ricardo Roman Martinez](https://github.com/Luigiverde4/)
 - Place: Valencia, Spain
 - Bio: Working on streaming
