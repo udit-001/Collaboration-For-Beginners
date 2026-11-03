@@ -805,3 +805,8 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+#### Name: [Lucas Osejo](https://github.com/LucasOsejo)
+- Place: Bogotá, Colombia
+- Bio: Stududent
+- GitHub: [LucasOsejo](https://github.com/LucasOsejo)
+
