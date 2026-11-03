@@ -1,8 +1,3 @@
-#### Name: [Ignacio Ibanez-Rizo](https://github.com/Naxito04)
-- Place: Valencia, Spain
-- Bio: Student in EDEM, Valencia.
-- GitHub: [Naxito04](https://github.com/Naxito04)
-  
 # Contributors
 #### Name: [Jorge Durá](https://github.com/joorgeee04)
 - Place: Valencia, Spain
@@ -841,6 +836,10 @@
 - Place: Valencia, Spain
 - Bio: DAM Student
 - GitHub: [jaimesanfelix](https://github.com/jaimesanfelix)
+#### Name: [Juanjo Prades](https://github.com/juanjoprades04/)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [juanjoprades04](https://github.com/juanjoprades04/)
 #### Name: [Oscar Herreros](https://github.com/oscarherreross)
 - Place: Valenia, Spain
 - Bio: EDEM student
@@ -858,6 +857,10 @@
 - Bio: Master student?
 - GitHub: [rbrotonsc-pixel](https://github.com/rbrotonsc-pixel)
 
+#### Name: [Hugo gavilan Ruiz](https://github.com/HugoGavRuiz)
+- Place: Valencia, Spain
+- Bio: Aerospace Engineer learning AI and Data Science
+- GitHub: [HugoGavRuiz](https://github.com/HugoGavRuiz)
 
 #### Name: [Angel Carlos](https://github.com/carlospm2004)
 - Place: Valencia, Spain
@@ -872,3 +875,8 @@
 - Place: Valencia, Spain
 - Bio: Working on streaming
 - GitHub: [Luigiverde4](https://github.com/Luigiverde4/)
+
+#### Name: [Ignacio Ibanez-Rizo](https://github.com/Naxito04)
+- Place: Valencia, Spain
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Naxito04](https://github.com/Naxito04)
