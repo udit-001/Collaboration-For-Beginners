@@ -1,8 +1,18 @@
+#### Name: Lorenzo (https://github.com/Sabba44)
+- Place: Valencia, Spain
+- Bio: EDEM Student
+- GitHub: Sabba44 (https://github.com/Sabba44)
 # Contributors
 #### Name: [DevLitos](https://github.com/DevLitos)
 - Place: Valencia, Spain
 - Bio: I create software
 - GitHub: [DevLitos](https://github.com/DevLitos)
+
+#### Name: [Ignacio Pinazo Orihuela](https://github.com/Fisjo)
+- Place: Valencia, Spain
+- Bio: MSc Student at EDEM Escuela de Empresarios
+- GitHub: [Fisjo] ([GitHub Link](https://github.com/Fisjo))
+
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
@@ -809,3 +819,7 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+#### Name: [Ricardo Roman Martinez](https://github.com/Luigiverde4/)
+- Place: Valencia, Spain
+- Bio: Working on streaming
+- GitHub: [Luigiverde4](https://github.com/Luigiverde4/)
