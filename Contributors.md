@@ -811,3 +811,7 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+#### Name: [Ricardo Roman Martinez](https://github.com/Luigiverde4/)
+- Place: Valencia, Spain
+- Bio: Working on streaming
+- GitHub: [Luigiverde4](https://github.com/Luigiverde4/)
