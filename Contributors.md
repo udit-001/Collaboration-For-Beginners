@@ -1,5 +1,5 @@
 # Contributors
-#### Name: Joaquin Villalobos
+#### Name: [Joaquin Villalobos](https://github.com/joacovillamauriz-1993)
 - Place: Valencia, Spain
 - Bio: Student in EDEM, Valencia.
 - GitHub: joacovillamauriz-1993 (https://github.com/joacovillamauriz-1993)
@@ -38,6 +38,7 @@
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Marcos Berna](https://github.com/Marcosberna/MarcosBerna)
+
 #### Name: [Quico Caballer](https://github.com/QuicoCaballer)
 - Place: Sagunto, Valencia
 - Bio: Student in EDEM, Valencia.
