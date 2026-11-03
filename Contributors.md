@@ -805,3 +805,7 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+#### Name: [Hugo gavilan Ruiz](https://github.com/HugoGavRuiz)
+- Place: Valencia, Spain
+- Bio: Aerospace Engineer learning AI and Data Science
+- GitHub: [HugoGavRuiz](https://github.com/HugoGavRuiz)
