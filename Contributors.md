@@ -1,6 +1,6 @@
 # Contributors
 
-#### Name: [Jorge Durá](https://github.com/jorgeoliverz)
+#### Name: [Jorge Oliver](https://github.com/jorgeoliverz)
 - Place: Valencia, Spain
 - Bio: Student in EDEM, Valencia
 - GitHub: [Jorge Oliver](https://github.com/jorgeoliverz)
