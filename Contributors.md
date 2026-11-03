@@ -1,3 +1,7 @@
+#### Name: Lorenzo (https://github.com/Sabba44)
+- Place: Valencia, Spain
+- Bio: EDEM Student
+- GitHub: Sabba44 (https://github.com/Sabba44)
 # Contributors
 
 #### Name: [Ignacio Pinazo Orihuela](https://github.com/Fisjo)
