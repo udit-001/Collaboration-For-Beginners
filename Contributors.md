@@ -1,13 +1,19 @@
-#### Name: Lorenzo (https://github.com/Sabba44)
+#### Name: [Ignacio Ibanez-Rizo](https://github.com/Naxito04)
 - Place: Valencia, Spain
-- Bio: EDEM Student
-- GitHub: Sabba44 (https://github.com/Sabba44)
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Naxito04](https://github.com/Naxito04)
+  
 # Contributors
 #### Name: [Christian Vazquez](https://github.com/chrisvzqz)
 - Place: Burjassot, Valencia
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Christian Vazquez](https://github.com/chrisvzqz)
   
+
+#### Name: [Lorenzo Sabbatini](https://github.com/Sabba44)
+- Place: Valencia, Spain
+- Bio: EDEM Student
+- GitHub: [Sabba44] ([GitHub Link](https://github.com/Sabba44))
 
 #### Name: [Ignacio Pinazo Orihuela](https://github.com/Fisjo)
 - Place: Valencia, Spain
@@ -819,6 +825,14 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
+#### Name: [David Gallart](https://github.com/davidgallart/)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [davidgallart](https://github.com/davidgallart/)
+#### Name: [Rafa Brotons](https://github.com/rbrotonsc-pixel)
+- Place: Valencia,España
+- Bio: Master student?
+- GitHub: [rbrotonsc-pixel](https://github.com/rbrotonsc-pixel)
 
 #### Name: [Ricardo Roman Martinez](https://github.com/Luigiverde4/)
 - Place: Valencia, Spain
