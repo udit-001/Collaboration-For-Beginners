@@ -1,4 +1,9 @@
 # Contributors
+#### Name: [Christian Vazquez](https://github.com/chrisvzqz)
+- Place: Burjassot, Valencia
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Christian Vazquez](https://github.com/chrisvzqz)
+  
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
