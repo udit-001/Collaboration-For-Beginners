@@ -4,6 +4,10 @@
 - GitHub: [Naxito04](https://github.com/Naxito04)
   
 # Contributors
+#### Name: [Jorge Durá](https://github.com/joorgeee04)
+- Place: Valencia, Spain
+- Bio: AI, Big Data and cloud computing at EDEM
+- GitHub: [Jorge Durá](https://github.com/joorgeee04)
 #### Name: [Manolo Tortajada](github.com/ManolitoAA)
 - Place: Valencia; España
 - Bio: Student in EDEM, Valencia.
@@ -32,7 +36,6 @@
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Marcos Berna](https://github.com/Marcosberna/MarcosBerna)
-
 #### Name: [Quico Caballer](https://github.com/QuicoCaballer)
 - Place: Sagunto, Valencia
 - Bio: Student in EDEM, Valencia.
@@ -837,6 +840,10 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [juanjoprades04](https://github.com/juanjoprades04/)
+#### Name: [Oscar Herreros](https://github.com/oscarherreross)
+- Place: Valenia, Spain
+- Bio: EDEM student
+- GitHub: [oscarherreross](https://github.com/oscarherreross)
 #### Name: [Andres Gimeno](https://github.com/agimcer)
 - Place: Valencia, Spain
 - Bio: Student
