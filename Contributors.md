@@ -1,4 +1,8 @@
-# Contributors
+#### Name: Lorenzo (https://github.com/Sabba44)
+- Place: Valencia, Spain
+- Bio: EDEM Student
+- GitHub: Sabba44 (https://github.com/Sabba44)
+
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
