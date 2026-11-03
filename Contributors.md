@@ -852,6 +852,10 @@
 - Bio: Master student?
 - GitHub: [rbrotonsc-pixel](https://github.com/rbrotonsc-pixel)
 
+#### Name: [Hugo gavilan Ruiz](https://github.com/HugoGavRuiz)
+- Place: Valencia, Spain
+- Bio: Aerospace Engineer learning AI and Data Science
+- GitHub: [HugoGavRuiz](https://github.com/HugoGavRuiz)
 
 #### Name: [Angel Carlos](https://github.com/carlospm2004)
 - Place: Valencia, Spain
