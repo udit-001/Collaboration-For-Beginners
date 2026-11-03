@@ -1,4 +1,9 @@
 # Contributors
+
+#### Name: [Jorge Oliver](https://github.com/jorgeoliverz)
+- Place: Valencia, Spain
+- Bio: Student in EDEM, Valencia
+- GitHub: [Jorge Oliver](https://github.com/jorgeoliverz)
 #### Name: [Joaquin Villalobos](https://github.com/joacovillamauriz-1993)
 - Place: Valencia, Spain
 - Bio: Student in EDEM, Valencia.
