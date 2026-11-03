@@ -815,6 +815,10 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+#### Name: [Nico Gomez](https://github.com/kopernyko)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [kopernyko](https://github.com/kopernyko)
 #### Name: [Ricardo Roman Martinez](https://github.com/Luigiverde4/)
 - Place: Valencia, Spain
 - Bio: Working on streaming
