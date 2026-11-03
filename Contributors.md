@@ -2,7 +2,7 @@
 #### Name: [Joaquin Villalobos](https://github.com/joacovillamauriz-1993)
 - Place: Valencia, Spain
 - Bio: Student in EDEM, Valencia.
-- GitHub: joacovillamauriz-1993 (https://github.com/joacovillamauriz-1993)
+- GitHub: [joacovillamauriz-1993](https://github.com/joacovillamauriz-1993)
 
 #### Name: [Jorge Durá](https://github.com/joorgeee04)
 - Place: Valencia, Spain
