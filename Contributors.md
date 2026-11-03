@@ -4,6 +4,10 @@
 - GitHub: [Naxito04](https://github.com/Naxito04)
   
 # Contributors
+#### Name: [Manolo Tortajada](github.com/ManolitoAA)
+- Place: Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [ManolitoAA](https://github.com/ManolitoAA)
 #### Name: [Lola Bonet](https://github.com/lolabonetlopez)
 - Place: Valencia; España
 - Bio: Student in EDEM, Valencia.
@@ -833,6 +837,10 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [juanjoprades04](https://github.com/juanjoprades04/)
+#### Name: [Andres Gimeno](https://github.com/agimcer)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Andres Gimeno](https://github.com/agimcer)
 #### Name: [David Gallart](https://github.com/davidgallart/)
 - Place: Valencia, Spain
 - Bio: Student
@@ -842,6 +850,11 @@
 - Bio: Master student?
 - GitHub: [rbrotonsc-pixel](https://github.com/rbrotonsc-pixel)
 
+
+#### Name: [Angel Carlos](https://github.com/carlospm2004)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [carlospm2004](https://github.com/carlospm2004)
 
 #### Name: [Ingrid Albert](https://github.com/ingridalbert)
 - Place: Castellón de la Plana, Spain
