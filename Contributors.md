@@ -1,4 +1,9 @@
 # Contributors
+#### Name: [YOUR NAME](GitHub Link)
+- Place: Valencia, Espana
+- Bio: Student in EDEM, Valencia.
+- GitHub: [joacovillamauriz-1993](https://github.com/joacovillamauriz-1993)
+
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
