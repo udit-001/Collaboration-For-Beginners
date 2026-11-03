@@ -1,8 +1,3 @@
-#### Name: [Ignacio Ibanez-Rizo](https://github.com/Naxito04)
-- Place: Valencia, Spain
-- Bio: Student in EDEM, Valencia.
-- GitHub: [Naxito04](https://github.com/Naxito04)
-  
 # Contributors
 #### Name: [Jorge Durá](https://github.com/joorgeee04)
 - Place: Valencia, Spain
@@ -871,3 +866,8 @@
 - Place: Valencia, Spain
 - Bio: Working on streaming
 - GitHub: [Luigiverde4](https://github.com/Luigiverde4/)
+
+#### Name: [Ignacio Ibanez-Rizo](https://github.com/Naxito04)
+- Place: Valencia, Spain
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Naxito04](https://github.com/Naxito04)
