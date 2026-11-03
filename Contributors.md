@@ -805,3 +805,8 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+
+#### Name: [Ingrid Albert](https://github.com/ingridalbert)
+- Place: Castellón de la Plana, Spain
+- Bio: Student
+- GitHub: [ingridalbert](https://github.com/ingridalbert)
