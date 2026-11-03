@@ -862,6 +862,10 @@
 - Bio: Student
 - GitHub: [carlospm2004](https://github.com/carlospm2004)
 
+#### Name: [Mario Gonzalez](https://github.com/Magocres)
+- Place: Valencia, Spain
+- Bio: Student in EDEM
+- GitHub: [Mario](https://github.com/Magocres)
 #### Name: [Ingrid Albert](https://github.com/ingridalbert)
 - Place: Castellón de la Plana, Spain
 - Bio: Student
