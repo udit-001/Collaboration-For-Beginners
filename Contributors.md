@@ -1,4 +1,9 @@
 # Contributors
+#### Nombre: [Jade Lopez](https://github.com/jadelopez03)
+- Place: Blasco Ibañez, Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Jadelopez03](https://github.com/jadelopez03)
+
 #### Pau: [Marcos Berna](https://github.com/Paugb124)
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
