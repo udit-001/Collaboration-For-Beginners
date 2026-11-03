@@ -4,6 +4,11 @@
 - GitHub: [Naxito04](https://github.com/Naxito04)
   
 # Contributors
+#### Name: [Lola Bonet](https://github.com/lolabonetlopez)
+- Place: Valencia; España
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Lola Bonet](https://github.com/lolabonetlopez)
+
 #### Name: [DevLitos](https://github.com/DevLitos)
 - Place: Valencia, Spain
 - Bio: I create software
