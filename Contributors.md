@@ -1,3 +1,8 @@
+#### Name: [Ignacio Ibanez-Rizo](https://github.com/Naxito04)
+- Place: Valencia, Spain
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Naxito04](https://github.com/Naxito04)
+  
 # Contributors
 
 #### Name: [Lorenzo Sabbatini](https://github.com/Sabba44)
