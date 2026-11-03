@@ -1,12 +1,19 @@
 # Contributors
+#### Name: Joaquin Villalobos
+- Place: Valencia, Spain
+- Bio: Student in EDEM, Valencia.
+- GitHub: joacovillamauriz-1993 (https://github.com/joacovillamauriz-1993)
+
 #### Name: [Jorge Durá](https://github.com/joorgeee04)
 - Place: Valencia, Spain
 - Bio: AI, Big Data and cloud computing at EDEM
 - GitHub: [Jorge Durá](https://github.com/joorgeee04)
+
 #### Name: [Manolo Tortajada](github.com/ManolitoAA)
 - Place: Valencia; España
 - Bio: Student in EDEM, Valencia.
 - GitHub: [ManolitoAA](https://github.com/ManolitoAA)
+
 #### Name: [Lola Bonet](https://github.com/lolabonetlopez)
 - Place: Valencia; España
 - Bio: Student in EDEM, Valencia.
