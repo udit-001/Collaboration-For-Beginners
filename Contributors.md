@@ -806,6 +806,6 @@
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
 #### Name: Alejandro Cervera Alcala (https://github.com/AlejCervera)
-- Place: City, Country
+- Place: Valencia, Spain
 - Bio: Student and Elche CF fan
 - GitHub: [AlejCervera](https://github.com/AlejCervera)
