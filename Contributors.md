@@ -805,3 +805,9 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+
+
+#### Name: [Raul Ferris Riera](https://github.com/raulferris6-beep)
+- Place: Valencia, Spain
+- Bio: Técnico en DAM, estudiando el máster de desarrollo web, IA y DevOps en EDEM
+- GitHub: [Raul Ferris Riera](https://github.com/raulferris6-beep)
