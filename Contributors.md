@@ -824,3 +824,8 @@
 - Place: Valencia, Spain
 - Bio: Working on streaming
 - GitHub: [Luigiverde4](https://github.com/Luigiverde4/)
+
+#### Name: Alejandro Cervera Alcala (https://github.com/AlejCervera)
+- Place: Valencia, Spain
+- Bio: Student and Elche CF fan
+- GitHub: [AlejCervera](https://github.com/AlejCervera)
