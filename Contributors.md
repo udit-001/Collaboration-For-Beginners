@@ -808,5 +808,5 @@
 #### Name: [Lucas Osejo](https://github.com/LucasOsejo)
 - Place: Bogotá, Colombia
 - Bio: Stududent
-- GitHub: [LucasOsejo](https://github.com/LucasOsejo)
+- GitHub: [LucasOsejo](https://github.com/LucasOsejo) 
 
