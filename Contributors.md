@@ -804,4 +804,8 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
+#### Name: [Oscar Herreros](https://github.com/oscarherreross)
+- Place: Valenia, Spain
+- Bio: EDEM student
+- GitHub: [oscarherreross](https://github.com/oscarherreross)
 
