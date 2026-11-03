@@ -815,13 +815,12 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
-#### Name: Alejandro Cervera Alcala (https://github.com/AlejCervera)
-- Place: Valencia, Spain
-- Bio: Student and Elche CF fan
-- GitHub: [AlejCervera](https://github.com/AlejCervera)
-
 #### Name: [Ricardo Roman Martinez](https://github.com/Luigiverde4/)
 - Place: Valencia, Spain
 - Bio: Working on streaming
 - GitHub: [Luigiverde4](https://github.com/Luigiverde4/)
 
+#### Name: Alejandro Cervera Alcala (https://github.com/AlejCervera)
+- Place: Valencia, Spain
+- Bio: Student and Elche CF fan
+- GitHub: [AlejCervera](https://github.com/AlejCervera)
