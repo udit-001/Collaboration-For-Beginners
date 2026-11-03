@@ -833,6 +833,10 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
+#### Name: [Andres Gimeno](https://github.com/agimcer)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Andres Gimeno](https://github.com/agimcer)
 #### Name: [David Gallart](https://github.com/davidgallart/)
 - Place: Valencia, Spain
 - Bio: Student
