@@ -4,6 +4,11 @@
 - GitHub: [Naxito04](https://github.com/Naxito04)
   
 # Contributors
+#### Name: [Christian Vazquez](https://github.com/chrisvzqz)
+- Place: Burjassot, Valencia
+- Bio: Student in EDEM, Valencia.
+- GitHub: [Christian Vazquez](https://github.com/chrisvzqz)
+  
 #### Name: [Jorge Durá](https://github.com/joorgeee04)
 - Place: Valencia, Spain
 - Bio: AI, Big Data and cloud computing at EDEM
