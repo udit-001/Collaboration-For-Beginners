@@ -800,8 +800,8 @@
 - Place: Valencia, Spain
 - Bio: Constant learner
 - GitHub: [joacasega](https://github.com/joacasega)
-#### Name: [Sergio Mancebo](https://github.com/SergioMancebo/)
+#### Name: [David Gallart](https://github.com/davidgallart/)
 - Place: Valencia, Spain
 - Bio: Student
-- GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
+- GitHub: [davidgallart](https://github.com/davidgallart/)
 
