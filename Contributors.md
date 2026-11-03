@@ -805,3 +805,7 @@
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
 
+#### Name: Alejandro Cervera Alcalá (https://github.com/AlejCervera)
+- Place: City, Country
+- Bio: Student & Elche CF fan
+- GitHub: [AlejCervera](https://github.com/AlejCervera)
