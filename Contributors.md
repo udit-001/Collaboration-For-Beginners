@@ -4,15 +4,21 @@
 - Place: Valencia, Spain
 - Bio: Student in EDEM, Valencia
 - GitHub: [Jorge Oliver](https://github.com/jorgeoliverz)
+#### Name: [Joaquin Villalobos](https://github.com/joacovillamauriz-1993)
+- Place: Valencia, Spain
+- Bio: Student in EDEM, Valencia.
+- GitHub: [joacovillamauriz-1993](https://github.com/joacovillamauriz-1993)
 
 #### Name: [Jorge Durá](https://github.com/joorgeee04)
 - Place: Valencia, Spain
 - Bio: AI, Big Data and cloud computing at EDEM
 - GitHub: [Jorge Durá](https://github.com/joorgeee04)
+
 #### Name: [Manolo Tortajada](github.com/ManolitoAA)
 - Place: Valencia; España
 - Bio: Student in EDEM, Valencia.
 - GitHub: [ManolitoAA](https://github.com/ManolitoAA)
+
 #### Name: [Lola Bonet](https://github.com/lolabonetlopez)
 - Place: Valencia; España
 - Bio: Student in EDEM, Valencia.
@@ -37,6 +43,7 @@
 - Place: Blasco Ibañez, Valencia; España
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Marcos Berna](https://github.com/Marcosberna/MarcosBerna)
+
 #### Name: [Quico Caballer](https://github.com/QuicoCaballer)
 - Place: Sagunto, Valencia
 - Bio: Student in EDEM, Valencia.
@@ -837,6 +844,11 @@
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [SergioMancebo](https://github.com/SergioMancebo/)
+- 
+- #### Name: [Jaime Sanfelix](https://github.com/jaimesanfelix)
+- Place: Valencia, Spain
+- Bio: DAM Student
+- GitHub: [jaimesanfelix](https://github.com/jaimesanfelix)
 #### Name: [Juanjo Prades](https://github.com/juanjoprades04/)
 - Place: Valencia, Spain
 - Bio: Student
@@ -863,11 +875,21 @@
 - Bio: Aerospace Engineer learning AI and Data Science
 - GitHub: [HugoGavRuiz](https://github.com/HugoGavRuiz)
 
+#### Name: [Pablo Cunat](https://github.com/cunatpablo-afk)
+- Place: Valencia, Spain
+- Bio: Data & AI Student
+- GitHub: [Pablo Cuñat](https://github.com/cunatpablo-afk)
+
+
 #### Name: [Angel Carlos](https://github.com/carlospm2004)
 - Place: Valencia, Spain
 - Bio: Student
 - GitHub: [carlospm2004](https://github.com/carlospm2004)
 
+#### Name: [Mario Gonzalez](https://github.com/Magocres)
+- Place: Valencia, Spain
+- Bio: Student in EDEM
+- GitHub: [Mario](https://github.com/Magocres)
 #### Name: [Ingrid Albert](https://github.com/ingridalbert)
 - Place: Castellón de la Plana, Spain
 - Bio: Student
