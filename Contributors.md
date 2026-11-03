@@ -1,4 +1,8 @@
 # Contributors
+#### Name: Lorenzo Sabbatini
+- Place: Valencia, Spain
+- Bio: Student in EDEM, Valencia.
+- GitHub: joacovillamauriz-1993 (https://github.com/joacovillamauriz-1993)
 
 #### Name: Lorenzo Sabbatini
 - Place: Valencia, Spain
