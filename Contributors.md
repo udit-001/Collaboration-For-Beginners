@@ -881,6 +881,11 @@
 - GitHub: [Pablo Cuñat](https://github.com/cunatpablo-afk)
 
 
+
+#### Name: [Raul Ferris Riera](https://github.com/raulferris6-beep)
+- Place: Valencia, Spain
+- Bio: Técnico en DAM, estudiando el máster de desarrollo web, IA y DevOps en EDEM
+- GitHub: [Raul Ferris Riera](https://github.com/raulferris6-beep)
 #### Name: [Angel Carlos](https://github.com/carlospm2004)
 - Place: Valencia, Spain
 - Bio: Student
