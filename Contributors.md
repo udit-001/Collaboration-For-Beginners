@@ -899,6 +899,10 @@
 - Bio: Working on streaming
 - GitHub: [Luigiverde4](https://github.com/Luigiverde4/)
 
+#### Name: [Fran Alapont](https://github.com/franalapontedem)
+- Place: Valencia, Spain
+- Bio: EDEM Student
+- GitHub: [franalapontedem](https://github.com/franalapontedem)
 #### Name: [Ignacio Ibanez-Rizo](https://github.com/Naxito04)
 - Place: Valencia, Spain
 - Bio: Student in EDEM, Valencia.
