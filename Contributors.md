@@ -881,6 +881,10 @@
 - GitHub: [Pablo Cuñat](https://github.com/cunatpablo-afk)
 
 
+#### Name: [Antonio Gabriel Navarro Puig](https://github.com/Lunkynono/)
+- Place: Valencia, Spain
+- Bio: Computer Science Engineer & Web Development, AI and DevOps student
+- GitHub: [Lunkynono](https://github.com/Lunkynono/)
 #### Name: [Angel Carlos](https://github.com/carlospm2004)
 - Place: Valencia, Spain
 - Bio: Student
