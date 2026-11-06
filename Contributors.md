@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Ismayil Hussain](https://github.com/isihussain)
+- Place: Baku, Azerbaijan
+- Bio: Systems Engineer & Open Source Developer
+- GitHub: [isihussain](https://github.com/isihussain)
+
 #### Name: [Jorge Oliver](https://github.com/jorgeoliverz)
 - Place: Valencia, Spain
 - Bio: Student in EDEM, Valencia
