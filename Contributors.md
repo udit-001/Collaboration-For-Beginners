@@ -913,4 +913,8 @@
 - Bio: Student
 - GitHub: [kamalesh](https://github.com/tvmkamalesh3031-maker)
 
-  
+#### Name: [Rithul Raveendran](https://github.com/rithulraveendran)
+- Place: India
+- Bio: Developer & Open Source Enthusiast
+- GitHub: [rithulraveendran](https://github.com/rithulraveendran)
+
