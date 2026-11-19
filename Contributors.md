@@ -73,6 +73,11 @@
 - Bio: Student in EDEM, Valencia.
 - GitHub: [Paugb124](https://github.com/Paugb124)
 
+#### Name: [Samraj S](https://github.com/samrajsundar2007-png)
+- Place: Chennai, India
+- Bio: B.Tech AIML student and open-source contributor
+- GitHub: [Samraj S](https://github.com/samrajsundar2007-png)
+
 #### Edo: [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
 - Place: Madrid, Spain
 - Bio: Photographer and full stack development student
